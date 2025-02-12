@@ -1,29 +1,23 @@
 .hero {
-    padding: 4rem 2rem;
-    background: linear-gradient(to right, #2c5282, #1a365d);
+    min-height: 400px;
+    background: linear-gradient(135deg, #1a365d 0%, #2d3748 100%);
     color: white;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
 }
 
 .hero-content {
-    max-width: 800px;
-    margin: 0 auto;
+    text-align: center;
 }
 
-.hero-title {
+.hero h1 {
     font-size: 3rem;
     margin-bottom: 1rem;
 }
 
-.hero-phone {
+.phone {
     font-size: 1.5rem;
     color: #63b3ed;
-    margin-bottom: 1rem;
-}
-
-.hero-rating {
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
-    font-size: 1.25rem;
 }
