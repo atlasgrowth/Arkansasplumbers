@@ -43,13 +43,7 @@ const About = ({ business, loading }) => {
             </p>
           </div>
 
-          <div className="contact-info">
-            {phone && (
-              <a href={`tel:${phone.replace(/[^0-9]/g, '')}`} className="contact-button">
-                <i className="fas fa-phone"></i> {phone}
-              </a>
-            )}
-          </div>
+          
         </div>
       </div>
     </section>
