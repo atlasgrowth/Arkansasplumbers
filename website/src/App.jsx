@@ -8,10 +8,7 @@ function App() {
         <Router basename="/Arkansasplumbers">
             <div className="app">
                 <Routes>
-                    <Route path="/:businessId" element={<Hero />} />
-                    <Route path="/" element={
-                        <div className="no-business">Please provide a business ID</div>
-                    } />
+                    <Route path="/" element={<Hero />} />
                 </Routes>
             </div>
         </Router>

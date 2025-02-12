@@ -1,12 +1,15 @@
 import React from 'react';
-import { useParams } from 'react-router-dom';
+import { useSearchParams } from 'react-router-dom';
 import useBusiness from '../../utils/useBusiness';
 import './Hero.css';
 
 const Hero = () => {
-    const { businessId } = useParams();
+    const [searchParams] = useSearchParams();
+    const businessId = searchParams.get('site_id');
+
     const { business, loading, error } = useBusiness(businessId);
 
+    if (!businessId) return <div className="hero-error">Please provide a site_id parameter</div>;
     if (loading) return <div className="hero-loading">Loading...</div>;
     if (error) return <div className="hero-error">{error}</div>;
 
