@@ -1,4 +1,4 @@
-modules = ["web", "nodejs-20"]
+modules = ["nodejs-20", "python-3.11", "web"]
 
 [nix]
 channel = "stable-24_05"
@@ -12,7 +12,7 @@ author = 39581396
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
-args = "cd website && npm install && npm run dev"
+args = "cd website && npm install && npm run dev -- --host 0.0.0.0"
 
 [[ports]]
 localPort = 3000

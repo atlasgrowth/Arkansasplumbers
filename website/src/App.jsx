@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import Header from './components/Header/Header';
 import Hero from './components/Hero/Hero';
+import About from './components/About/About'; // Added About import
 import './styles/App.css';
 
 function App() {
@@ -17,8 +18,9 @@ function App() {
       setLoading(false);
       return;
     }
-    // Use a relative path so the file is fetched from the public folder:
-    fetch(`data/processed/businesses/${siteId}.json`)
+    // Fetch JSON data directly from GitHub using the raw content URL.
+    // Adjust the branch if necessary.
+    fetch(`https://raw.githubusercontent.com/greekfreek23/Arkansasplumbers/main/data/processed/businesses/${siteId}.json`)
       .then((res) => {
         if (!res.ok) {
           throw new Error('Network response was not ok');
@@ -39,9 +41,9 @@ function App() {
     <div className="app">
       <Header business={business} loading={loading} />
       <Hero business={business} loading={loading} />
+      <About business={business} loading={loading} />  {/* Added About section */}
     </div>
   );
 }
 
 export default App;
-
