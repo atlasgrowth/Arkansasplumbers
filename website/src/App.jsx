@@ -17,7 +17,7 @@ function App() {
       setLoading(false);
       return;
     }
-    // Use a relative path so the file is fetched from the data directory:
+    // Use a relative path so the file is fetched from the public folder:
     fetch(`data/processed/businesses/${siteId}.json`)
       .then((res) => {
         if (!res.ok) {
@@ -44,3 +44,4 @@ function App() {
 }
 
 export default App;
+
