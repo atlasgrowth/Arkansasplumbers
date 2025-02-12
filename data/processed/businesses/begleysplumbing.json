@@ -130,5 +130,22 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "I was having problems with my hot water pressure. He came out same day that I called and fixed it. He communicated well and I didn't fill taken advantage of. Thank you soo much. I really appreciate you!!",
+      "reviewer_name": "Heather Spears",
+      "date": "2021-03-16T17:13:42.349Z"
+    },
+    {
+      "text": "He came early and changed out the leaking washer faucet attachments within 1hour. We are now worry free!! \ud83c\udf89",
+      "reviewer_name": "Amy",
+      "date": "2020-11-04T15:02:58.996Z"
+    },
+    {
+      "text": "Been using David Begley for years ~ he's a fine man and an excellent plumber with lots of experience and creativeness when projects get tough! Honest, dependable, and just ... good.",
+      "reviewer_name": "Kent Layton",
+      "date": "2017-11-10T20:19:35.400Z"
+    }
+  ]
 }

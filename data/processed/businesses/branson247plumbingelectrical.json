@@ -130,5 +130,22 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "I had a leak and called Matt at Branson 24/7 Plumbing & Electrical he was here in a matter of no time. Did excellent work finding my leak and repairing my pipe. Very professional. I\u2019d recommend to anyone needing plumbing or electrical work in the area",
+      "reviewer_name": "Cody Ballard",
+      "date": "2022-01-20T00:21:54.549Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Sharon Seay",
+      "date": "2022-01-19T23:35:47.346Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Michael Parker",
+      "date": "2022-01-19T23:27:33.364Z"
+    }
+  ]
 }

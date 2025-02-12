@@ -126,5 +126,12 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Great guy, excellent work and affordable. Thanks Ark911.",
+      "reviewer_name": "Vicki Cox",
+      "date": "2020-11-15T20:17:34.423Z"
+    }
+  ]
 }

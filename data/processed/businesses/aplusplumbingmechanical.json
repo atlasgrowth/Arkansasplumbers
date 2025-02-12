@@ -128,5 +128,12 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Great work, friendly and professional employees. Fairly priced and great service.",
+      "reviewer_name": "Jake Ross",
+      "date": "2019-11-24T05:39:50.345Z"
+    }
+  ]
 }

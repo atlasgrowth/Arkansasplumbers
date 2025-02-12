@@ -145,5 +145,102 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Great Plumbing Company. Excellent/Friendly Staff. They will take care of any plumbing problem you have. Only plumbing company I will ever use",
+      "reviewer_name": "tommy joslin",
+      "date": "2025-02-07T18:45:40.194Z"
+    },
+    {
+      "text": "Everyone really cares.  Have used many times and are always on time or will call to update.  I have never had a bad experience or a do over.  Bill @ Donna",
+      "reviewer_name": "Donna Keaton",
+      "date": "2024-12-02T22:40:16.882Z"
+    },
+    {
+      "text": "A state is absolutely awesome! They\u2019re been out to our home for multiple things and have always been upfront about not only pricing but what we really needed to get our problems fixed. They won\u2019t sell you something you don\u2019t actually need! The guys are super friendly and respectful every time they\u2019ve came. I won\u2019t use any one other than a state for any plumbing issue I ever have! These are my go to guys! Thanks again A state!",
+      "reviewer_name": "Jian Allen",
+      "date": "2024-07-18T22:43:15.305Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Joshua Matlock",
+      "date": "2024-05-30T17:21:18.776Z"
+    },
+    {
+      "text": "We are trying to sell our house and had a leak spring in a couple of our water heater pipes.  I called them and asked if they could have someone out as soon as possible and a couple of hours later the issue was fixed!! Bill and Keegan were very pleasant and helpful! Thank you!!",
+      "reviewer_name": "Genny Johnson",
+      "date": "2024-01-29T19:32:28.876Z"
+    },
+    {
+      "text": "The plumbers arrived on time and quickly assessed our problem. We were told the procedure to get it replaced under our home warranty.   The report was promptly sent in.  They were very efficient and polite.",
+      "reviewer_name": "Joann Underwood",
+      "date": "2024-01-05T17:38:31.583Z"
+    },
+    {
+      "text": "Quick, professional, and friendly! Would recommend and will hire again.",
+      "reviewer_name": "Jonathan Farrar",
+      "date": "2024-01-02T23:03:44.785Z"
+    },
+    {
+      "text": "I appreciate their prompt response and friendly service",
+      "reviewer_name": "Pamela Pierron",
+      "date": "2023-11-29T16:28:12.960Z"
+    },
+    {
+      "text": "They went above and beyond to fix my problem, they didn't give up when it got difficult. Forever grateful and will definitely call them again for plumbing needs.",
+      "reviewer_name": "Christine Reid",
+      "date": "2023-09-09T00:20:14.996Z"
+    },
+    {
+      "text": "Billy came out to fix our leak\nHe was punctual, professional, and answering any question I had.\nWe are happy with our service\nThank you",
+      "reviewer_name": "tim wood",
+      "date": "2023-07-31T15:18:27.429Z"
+    },
+    {
+      "text": "Simply amazing! Professionalism and quality, unmatched. If you are looking for a plumber, call these guys! They are the most honest and hard working in the state!",
+      "reviewer_name": "Tim Deaton",
+      "date": "2023-07-26T00:07:07.054Z"
+    },
+    {
+      "text": "Professional, responsive, and worked quickly!",
+      "reviewer_name": "Laura Allmond",
+      "date": "2023-06-20T18:26:21.247Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Travis Ratermann",
+      "date": "2023-05-02T15:25:31.163Z"
+    },
+    {
+      "text": "They were prompt to respond to my  request for service.  Technicians were very polite and professional.",
+      "reviewer_name": "Sonya Burrow",
+      "date": "2023-04-24T17:43:55.781Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Catherine Chapin",
+      "date": "2023-03-28T21:32:03.892Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Chelsea Lee",
+      "date": "2022-09-21T19:05:01.859Z"
+    },
+    {
+      "text": "The up most amazing plumbing company, dependable, fast and great customer service",
+      "reviewer_name": "anthony davis",
+      "date": "2022-08-11T01:13:11.953Z"
+    },
+    {
+      "text": "We used this company a couple times for some issues with our plumbing and couldn't be happier. Great customer service and more importantly great work. It's no surprise to me this company continues to grow.",
+      "reviewer_name": "Chris Shroyer",
+      "date": "2021-09-03T16:05:16.288Z"
+    },
+    {
+      "text": "The Guys from A State were not only fast, friendly, and efficient... they also fit me in sooner than scheduled and came early. I will be using them from now on. Thank You.",
+      "reviewer_name": "Ashley Kaiser",
+      "date": "2021-07-01T01:36:53.273Z"
+    }
+  ]
 }

@@ -129,5 +129,12 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": null,
+      "reviewer_name": "Courtney Wyman",
+      "date": "2021-07-22T23:19:56.131Z"
+    }
+  ]
 }

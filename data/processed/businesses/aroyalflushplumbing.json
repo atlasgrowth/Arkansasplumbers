@@ -135,5 +135,32 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Great",
+      "reviewer_name": "Alieen Reed",
+      "date": "2021-07-31T20:17:51.708Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Julie Inmon",
+      "date": "2019-06-05T13:35:29.193Z"
+    },
+    {
+      "text": "Called the company late in the day and they still got there the same day. They worked overtime and the price was right. Thanks guys. te",
+      "reviewer_name": "Terry Ellis",
+      "date": "2017-10-17T22:24:11.097Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Jr Jace",
+      "date": "2016-06-01T02:28:18.017Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "John Greedy",
+      "date": "2016-05-09T02:22:52.949Z"
+    }
+  ]
 }

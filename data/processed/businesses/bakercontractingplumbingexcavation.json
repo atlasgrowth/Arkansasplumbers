@@ -126,5 +126,17 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Highly recommend their services!  They quickly responded to my plumbing needs and fixed my leak in no time.  This company has impeccable work ethic and provided excellent customer service.",
+      "reviewer_name": "Tonya B",
+      "date": "2024-09-20T16:17:21.167Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Zac Owens",
+      "date": "2024-01-03T16:14:58.108Z"
+    }
+  ]
 }

@@ -128,5 +128,12 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Best damn plummer in the world.  He's sexy as hell too!",
+      "reviewer_name": "Jesse Darr",
+      "date": "2014-12-19T22:54:53.779Z"
+    }
+  ]
 }

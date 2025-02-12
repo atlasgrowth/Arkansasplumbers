@@ -128,5 +128,12 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": null,
+      "reviewer_name": "Ryan Mustapha",
+      "date": "2021-06-05T15:22:05.193Z"
+    }
+  ]
 }

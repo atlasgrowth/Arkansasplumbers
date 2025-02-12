@@ -130,5 +130,22 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Fantastic guys & reliable 100%",
+      "reviewer_name": "Kim Edmondson",
+      "date": "2025-02-05T13:29:52.603Z"
+    },
+    {
+      "text": "This company goes above and beyond. The prices are always fair and I know without a doubt it\u2019s done right! No short cuts. Will always call them for my plumbing needs. Thanks again guys for the great work!",
+      "reviewer_name": "Nash Electric",
+      "date": "2025-01-14T04:09:34.852Z"
+    },
+    {
+      "text": "They helped me with an installation of a gas range. Very professional!!",
+      "reviewer_name": "Cherel Perryman",
+      "date": "2022-08-31T00:12:00.442Z"
+    }
+  ]
 }

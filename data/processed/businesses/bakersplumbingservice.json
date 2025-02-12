@@ -134,5 +134,22 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": null,
+      "reviewer_name": "Jim Chudy",
+      "date": "2023-09-03T23:42:32.751Z"
+    },
+    {
+      "text": "Quality  work  fair pricing",
+      "reviewer_name": "John Hale",
+      "date": "2019-09-24T13:01:30.029Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Shane Swafford",
+      "date": "2018-10-31T22:02:14.782Z"
+    }
+  ]
 }

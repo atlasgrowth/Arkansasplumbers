@@ -128,5 +128,22 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "I\u2019ve personally worked with Adam on many jobs and I can say that he is a very responsible, punctual, and professional man. He always showed up on time, was quick and efficient at tackling any job that may come up and best of all, he\u2019s as funny as all get out!\n\nI would seriously recommend Big As labor group to anyone who values their time money and appreciates a job done right.",
+      "reviewer_name": "Joey Garton",
+      "date": "2024-07-21T15:28:24.649Z"
+    },
+    {
+      "text": "Adam is the best in Newton county, give him a call",
+      "reviewer_name": "christyl",
+      "date": "2024-07-21T14:23:23.880Z"
+    },
+    {
+      "text": "Can't say enough good things about Big A. They get the job done. You will not be disappointed.",
+      "reviewer_name": "Joe Lavely",
+      "date": "2024-07-21T14:17:21.613Z"
+    }
+  ]
 }

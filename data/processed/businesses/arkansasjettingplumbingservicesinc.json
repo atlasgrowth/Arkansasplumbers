@@ -130,5 +130,17 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Immediate response and same day service.  They took the time to explain everything before it was done.  Quick and efficient.  Highly recommended!!",
+      "reviewer_name": "Joette Iris",
+      "date": "2021-10-13T17:09:59.438Z"
+    },
+    {
+      "text": "These people are awesome!!! Very knowledgeable and very professional and very reasonable...Call them first before you call anyone..",
+      "reviewer_name": "John Manley",
+      "date": "2020-09-26T02:17:51.561Z"
+    }
+  ]
 }

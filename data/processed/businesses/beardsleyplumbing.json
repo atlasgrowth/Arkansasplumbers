@@ -141,5 +141,77 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Beardsley plumbing was referred to me by a good friend. They did an excellent job finding and repairing several leaks from frozen pipes this last week. They got my water running again quickly and I am super thankful for the wonderful job they did!!!",
+      "reviewer_name": "Susie Young",
+      "date": "2021-02-23T21:45:47.047Z"
+    },
+    {
+      "text": "Love beardsley plumbing. He was able to come out and fix the pipe that had broke. Also answered any questions I had and explained what had happened for the pipe to brake the way it did.",
+      "reviewer_name": "Amber Parker",
+      "date": "2021-01-19T16:51:26.133Z"
+    },
+    {
+      "text": "Perfect service and very reasonable price. Will use Beardsley Plumbing for all of my plumbing needs.",
+      "reviewer_name": "ellie klaser",
+      "date": "2020-12-31T01:37:50.049Z"
+    },
+    {
+      "text": "We had a house under contract to be sold.  The potential buyer hired a home inspector who determined there was no overflow drain pan under the current water heater.  I called Beardsley Plumbing after reading several comments on Facebook posts that recommended him.  We had only one week until closing to correct the problem.  Mr. Beardsley met us at the house immediately to assess the job.  At that time we noticed that the water heater has been leaking and the pressure relief valve was not working.  We told him to just replace the water heater and add the requested pan.  He called us that afternoon to come see the completed job.  Very pleased with the quick response and professional service.  Mr. Beardsley explained the importance of draining your water heater every two years to remove sediment and  avoid the corrosion that decreases  the life of the water heater.  He offers a very reasonable annual service contract that covers simple plumbing repairs like water leaks as well as checking your water heater and draining it at the recommended intervals.  Will definitely  use him for all our plumbing problems in the future,  highly recommend.  I WILL be getting a service contract with him.",
+      "reviewer_name": "Char Van",
+      "date": "2020-11-07T13:52:05.850Z"
+    },
+    {
+      "text": "I highly recommend Beardsley Plumbing. They did an excellent job. They are very knowledgeable and honest. I will use them again and I will refer them to everyone.  Thank you Jimmy.\nFrom The Tatums",
+      "reviewer_name": "Tammy Tatum",
+      "date": "2020-10-31T00:49:08.278Z"
+    },
+    {
+      "text": "Beardsley Plumbing was Very helpful in finding and resolving a propane leak at my home. They were very helpful. I would definitely  use them again.",
+      "reviewer_name": "Scott W.",
+      "date": "2020-10-09T18:22:14.936Z"
+    },
+    {
+      "text": "I needed a plumber in a pinch. Jimmy answered and got me fixed up in a short period of time. I definitely would recommend his services!",
+      "reviewer_name": "Jordan C",
+      "date": "2020-10-08T16:21:45.193Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Ray Fosh\u00e9e",
+      "date": "2020-09-04T01:38:57.009Z"
+    },
+    {
+      "text": "Jimmy Beardsley is not only a great Plummer but also a very fine person; courteous and professional. When our hot water heater went out, Jimmy gave us several options on repairing and replacing it; the pros and cons for each option. He was always prompt and did the work right. When the job was finished, the work area was clean and spotless. I would highly recommend Jimmy and his company for any plumbing work.",
+      "reviewer_name": "Rob Owens",
+      "date": "2020-08-10T12:29:09.255Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Jon Cook",
+      "date": "2020-07-21T19:12:41.510Z"
+    },
+    {
+      "text": "I needed a plumber in a pinch and they came immediately, assessed the situation and gave me an affordable quote on time and price and they delivered exactly as promised! When I needed a kitchen faucet replaced, I called them first and they delivered! Great service, Top Quality Work!",
+      "reviewer_name": "Andrea L Bowles",
+      "date": "2020-07-19T11:57:04.872Z"
+    },
+    {
+      "text": "Refreshing to have a craftsman do what they say they will do when they say they will do it!  Top notch service and price.  I will use Beardsley Plumbing in the future and will not hesitate to refer Jimmy  Beardsley to family and friends. I had  been without hot water for 10 days, and he made time in his busy schedule to fit us in and make us a priority. We appreciate that kind of heart in a business. God Bless!",
+      "reviewer_name": "Tammy Kell",
+      "date": "2020-07-16T01:19:39.024Z"
+    },
+    {
+      "text": "After a month and many plumbers coming out and what seemed to be a never ending of plumbers saying nothing can be done. I am happy to say that when they came out checked things and went right work and fixed a problem that no other wanted to handle or do.\nI recommend them for not only doing the job but doing it quickly and professionally. Save yourself time, money and frustration and just call them first.",
+      "reviewer_name": "alethea walters",
+      "date": "2020-07-02T17:31:23.101Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Brooklyn L",
+      "date": "2020-06-26T20:53:06.674Z"
+    }
+  ]
 }

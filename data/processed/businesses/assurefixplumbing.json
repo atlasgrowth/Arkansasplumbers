@@ -140,5 +140,57 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "They are good",
+      "reviewer_name": "Lula Tyus",
+      "date": "2021-06-03T17:01:10.161Z"
+    },
+    {
+      "text": "Answers quickly and are honest when they are available. Does great work",
+      "reviewer_name": "Jeremy Scaggs",
+      "date": "2021-03-20T20:49:53.925Z"
+    },
+    {
+      "text": "We have been using Jack and Justin for several years. Would not use anyone else.",
+      "reviewer_name": "Troy May",
+      "date": "2021-03-11T21:19:29.212Z"
+    },
+    {
+      "text": "Great people professional work",
+      "reviewer_name": "Michael Martin",
+      "date": "2021-01-20T18:07:18.600Z"
+    },
+    {
+      "text": "The plumbers are excellent at what they do. They answered all of our questions thoroughly and they arrived on time. They got the job done very professionally and we have not had anymore issues with our leaky pipes under the house since! Definately will be using them for all of our plumbing needs! We Very highly recommend them to everyone!",
+      "reviewer_name": "Cheyenne Guthrie",
+      "date": "2019-12-17T19:54:17.797Z"
+    },
+    {
+      "text": "Excellent and affordable service. Each time I have used their service all for different reasons they have been great. I recommend them to fix any drain problems you have.",
+      "reviewer_name": "Christy Ross",
+      "date": "2019-11-26T16:48:11.103Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Steven Schwartz",
+      "date": "2019-06-11T09:37:55.045Z"
+    },
+    {
+      "text": "I highly recommend! Friendly, professional service. They arrived on time, did a great job, and the bill was lower than expected.",
+      "reviewer_name": "Richard Clark",
+      "date": "2018-12-10T22:52:21.264Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Sissy Williams",
+      "date": "2018-09-21T02:57:26.656Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "steven Schwartz",
+      "date": "2018-04-01T16:48:33.484Z"
+    }
+  ]
 }

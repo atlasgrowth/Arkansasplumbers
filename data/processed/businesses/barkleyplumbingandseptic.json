@@ -132,5 +132,67 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Ethan came out when he said he was. Actually  earlier.  He fixed my plumbing  issues in a timely  manner.  I would use him again for any future  plumbing  needs.",
+      "reviewer_name": "tom perrine",
+      "date": "2025-01-23T19:09:40.573Z"
+    },
+    {
+      "text": "Came when he said he would and very quick to respond to messages. Appreciate him addressing my concerns and getting us fixed up.",
+      "reviewer_name": "Molly Dutton",
+      "date": "2024-12-13T22:20:41.995Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Holden Smith",
+      "date": "2024-12-12T00:17:09.706Z"
+    },
+    {
+      "text": "Ethan repaired a leaky faucet and replaced a toilet for our home. Ethan was professional and worked in a timely manner. Highly recommended!",
+      "reviewer_name": "Alan Bowman",
+      "date": "2024-12-03T23:09:49.353Z"
+    },
+    {
+      "text": "I recommend Ethan Barkley Plumbing for all your plumbing needs. He is very trustworthy & does great quality work. Ethan was quick to come out & fix my water leak. I would rate his service a 5 Star!  Jerry Seats",
+      "reviewer_name": "Charlotte Seats",
+      "date": "2024-11-07T21:22:11.123Z"
+    },
+    {
+      "text": "My landlord wouldn\u2019t fix my sink, and Mr Barkley was my saving grace\u2026 he got it fixed right up with a fast and quality service",
+      "reviewer_name": "Keelin Fullen",
+      "date": "2024-08-24T00:36:18.787Z"
+    },
+    {
+      "text": "Highly recommend Barkley Plumbing and Septic. I had a line from my hot water heater leaking in my attic and Ethan was able to replace the entire water line by the next day for a fair price.",
+      "reviewer_name": "Amber Morgan",
+      "date": "2024-08-03T22:02:44.598Z"
+    },
+    {
+      "text": "Ethan is very personable and does neat work. Reasonable pricing for a last minute kitchen sink install. I have a new plumber.",
+      "reviewer_name": "Sammy Waller",
+      "date": "2024-06-29T14:42:57.381Z"
+    },
+    {
+      "text": "Needed a new kitchen faucet installed, called Ethan on a Wednesday night and he was there Thursday morning. Did great work for a fair price and easily the best Plummer I have dealt with.  I would recommend Ethan to anyone in need of quick and quality work.",
+      "reviewer_name": "Chance Austin",
+      "date": "2024-06-29T01:12:29.810Z"
+    },
+    {
+      "text": "Broke a water spigot while washing my truck. Called Barkley plumbing and he was able to come out within the next hour and got me fixed up quick. Great quality work and in a timely manner! Thank you!",
+      "reviewer_name": "Tanner Cecil",
+      "date": "2024-06-29T01:04:33.625Z"
+    },
+    {
+      "text": "I came home to a broke water faucet for my washer machine. These guys came out quick and were able to get me taken care of without breaking the bank. Will use again.",
+      "reviewer_name": "AmericanPride 1776",
+      "date": "2024-06-26T23:58:38.740Z"
+    },
+    {
+      "text": "Very respectful and does quality work",
+      "reviewer_name": "David Rogers",
+      "date": "2024-06-26T20:30:45.656Z"
+    }
+  ]
 }

@@ -126,5 +126,97 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": null,
+      "reviewer_name": "Jodie Baskin",
+      "date": "2023-04-01T23:23:25.075Z"
+    },
+    {
+      "text": "Used him for several jobs. He did great and explained everything he did and why. Very knowledgeable and experienced in what he does.",
+      "reviewer_name": "Amanda Maga\u00f1a",
+      "date": "2023-01-03T21:36:27.643Z"
+    },
+    {
+      "text": "I loved working with Daniel Blasigame. He was promoted and ready to work. Very knowledgeable of plumbing repairs. Chester, Ar",
+      "reviewer_name": "birb",
+      "date": "2023-01-01T00:25:48.969Z"
+    },
+    {
+      "text": "Daniel did very excellent job, he has repaired 2 differnet leaks and had no problems with them so far and i will call him again if needed  and will tell others about him..Keep up the great work daniel i apperciate it..",
+      "reviewer_name": "Carla wesson",
+      "date": "2022-12-31T01:31:50.960Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Ilene K. Gourley (Half-Pint)",
+      "date": "2022-11-09T02:51:50.555Z"
+    },
+    {
+      "text": "Had a blockage in the drains that overflowed up through a basement shower, and underneath the basement toilet. This was found during a home inspection and needed to be fixed quickly. Daniel was able to get out there and fix it the day I called him, I had a small window to get this repair done.  We also had managed to get our snake stuck in the pipes, trying to get it unclogged ourselves, and it would not budge, Daniel got that out somehow too. He also went ahead and checked out the septic system to verify everything was fine with that.\nI was extremely pleased with the time frame he was able to get this accomplished in, I thought he was very reasonable, he was pleasant every time I talked with him. I will definitely use him again if needed!!",
+      "reviewer_name": "Marla Williams",
+      "date": "2022-11-03T20:55:21.287Z"
+    },
+    {
+      "text": "Daniel was very knowledgeable and fixed every issue we needed.",
+      "reviewer_name": "Michael Foisset",
+      "date": "2022-10-26T22:04:50.743Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Melanie Blasingame",
+      "date": "2022-10-13T17:45:49.641Z"
+    },
+    {
+      "text": "They showed up on time and were very professional and friendly. They were very clear about the process, and were very good at time management.",
+      "reviewer_name": "Dakota Harper",
+      "date": "2022-09-25T02:47:08.120Z"
+    },
+    {
+      "text": "Very reasonable price....did good work....will use him again",
+      "reviewer_name": "Judy Hollan",
+      "date": "2022-06-30T22:53:36.530Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "S. Dutch Matthew",
+      "date": "2022-06-29T20:44:58.103Z"
+    },
+    {
+      "text": "He promptly arrived to assess and resolve the plumbing emergency at our home, even though we called after normal business hours. I greatly appreciate him answering the phone and making time to come out. There\u2019s not many things worse than having a plumbing emergency in your home and not being able to get ahold of other plumbers recommended to you. The situation ended even better than expected when we were charged a fair amount for the work done. Mr. Blasingame\u2019s work ethic is admirable and I am thankful he was able to fix our plumbing so quickly, and completed the job all at once even though it was getting dark. We\u2019ll definitely be calling him if we have any future issues, and I recommend him for anyone needing prompt plumbing service by a knowledgeable, hardworking plumber with competitive rates.",
+      "reviewer_name": "Lauren Mach",
+      "date": "2022-04-26T05:01:38.664Z"
+    },
+    {
+      "text": "Quick to my door for service, and in great timing he was  done!!!,  THIS GUY'S GOOD!!!, Not a bad price either, I will definitely  call Blasingame for any future needs I will recommend  to my family and friends as well, Very professional  service  Thank you Blasingame plumbingand Blessed Be.\nAraidia Wolf\nAKA\nHeidi Campbell/Hauser\nGreenwood  resident.",
+      "reviewer_name": "Heidi Campbell (Heidi Hauser)",
+      "date": "2022-04-09T11:34:50.786Z"
+    },
+    {
+      "text": "Daniel is the only plumber that I use. He is  knowledgeable, courteous, and reliable.",
+      "reviewer_name": "Marcus",
+      "date": "2022-02-04T16:40:13.096Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Daniel Douglas",
+      "date": "2022-01-17T17:17:14.881Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Robert Martin",
+      "date": "2022-01-01T10:18:22.709Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Mike Dulle",
+      "date": "2021-12-30T22:16:25.745Z"
+    },
+    {
+      "text": "Daniel has done several jobs for us over the last 6 months. He is reliable honest and does an excellent job. I highly recommend.",
+      "reviewer_name": "Peg Osborne",
+      "date": "2021-12-29T20:45:42.925Z"
+    }
+  ]
 }

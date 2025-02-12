@@ -126,5 +126,12 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Aaron is awesome to work with! He has done top-notch drywall repair for our kitchen remodel (after another company did a poor job), and also recently completed another project related to overhead vent ductwork. Always on time, works hard all day, and fair pricing. Can't ask for more than that!  Highly recommended.",
+      "reviewer_name": "Vernon_and_Carla Habersetzer",
+      "date": "2023-10-27T20:05:36.514Z"
+    }
+  ]
 }

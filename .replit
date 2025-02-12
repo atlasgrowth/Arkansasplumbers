@@ -17,3 +17,7 @@ args = "cd website && npm run dev -- --host 0.0.0.0"
 [[ports]]
 localPort = 3000
 externalPort = 80
+
+[deployment]
+run = ["sh", "-c", "cd website && npx serve dist"]
+build = ["sh", "-c", "cd website && npm run build"]

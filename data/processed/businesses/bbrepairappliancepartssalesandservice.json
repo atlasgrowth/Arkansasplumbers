@@ -138,5 +138,67 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Our experience with this company was great!   We will most definitely use them for future needs.",
+      "reviewer_name": "Dara Askew",
+      "date": "2024-12-31T03:14:01.602Z"
+    },
+    {
+      "text": "Billy is the first person I call when any of my appliances mess up!",
+      "reviewer_name": "Nicole Moody",
+      "date": "2024-12-06T18:13:33.938Z"
+    },
+    {
+      "text": "Went above and beyond to help fix my oven. If I could give 6 stars,I would.  Top notch service!",
+      "reviewer_name": "homesteadingoats",
+      "date": "2024-11-06T23:03:16.266Z"
+    },
+    {
+      "text": "Billy is dependable and knowledgeable. He has made three trips to our home and made the needed repairs in a timely and affordable way. I highly recommend him!",
+      "reviewer_name": "Janna Guthrey",
+      "date": "2024-11-06T16:53:57.488Z"
+    },
+    {
+      "text": "They were easy to schedule with, communicative, reasonable in price, & even came back the same day when they didn\u2019t have a part with them.",
+      "reviewer_name": "Charlotte Graham",
+      "date": "2024-11-05T03:14:31.196Z"
+    },
+    {
+      "text": "I was looking for someone to fix my mother's refrigerator. He was awesome, was there in a timely matter, gave a quote and stuck to it. And the refrigerator is working again!",
+      "reviewer_name": "Marla Helms",
+      "date": "2023-08-31T19:16:08.444Z"
+    },
+    {
+      "text": "Worked hard to complete project. Let me know about each phase of job, to be done.",
+      "reviewer_name": "Sabra Jackson",
+      "date": "2021-03-13T01:13:14.641Z"
+    },
+    {
+      "text": "Excellent",
+      "reviewer_name": "Larry Moore",
+      "date": "2021-01-04T18:52:46.220Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Virginia Hill",
+      "date": "2020-01-18T17:53:33.180Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Joann Hinkle",
+      "date": "2019-11-28T17:55:50.798Z"
+    },
+    {
+      "text": "They are the best",
+      "reviewer_name": "Cody Mcgee",
+      "date": "2019-05-27T21:45:59.083Z"
+    },
+    {
+      "text": "Mr Bill showed up early and saved me alot of money by repairing my side refrigerator with bottom freezer. He has an incredible amount of experience, not to mention patience with my animals. His bill was more than fair- especially since he spent so much time on my refrig. Labor cost was very low.",
+      "reviewer_name": "summer harston",
+      "date": "2018-05-09T22:38:24.329Z"
+    }
+  ]
 }

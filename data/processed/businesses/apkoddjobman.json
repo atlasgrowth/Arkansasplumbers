@@ -126,5 +126,12 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Pierre and his team are punctual and professional. Not only does he do excellent work, pricing is undeniably fair. The best value in the river valley for quality painting and remodeling. I highly recommend APK ODD JOB MAN!",
+      "reviewer_name": "Vernon Hubbart",
+      "date": "2021-05-04T13:10:18.773Z"
+    }
+  ]
 }

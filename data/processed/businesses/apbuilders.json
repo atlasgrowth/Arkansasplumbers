@@ -128,5 +128,17 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": null,
+      "reviewer_name": "Christina Fatherree",
+      "date": "2020-07-30T11:42:56.559Z"
+    },
+    {
+      "text": "This company is not only professional, and great quality they also have integrity and great prices. They have re-done a house for me and did a wonderful job.",
+      "reviewer_name": "Shannon Shaw",
+      "date": "2020-07-28T23:12:10.564Z"
+    }
+  ]
 }

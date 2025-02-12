@@ -129,5 +129,12 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "They changed our water heater. Very professional, on time, and reasonable price!",
+      "reviewer_name": "Judy Kh",
+      "date": "2023-05-16T08:51:21.431Z"
+    }
+  ]
 }

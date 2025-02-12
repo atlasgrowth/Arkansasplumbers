@@ -126,5 +126,22 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": null,
+      "reviewer_name": "L Hud33",
+      "date": "2024-08-27T17:28:18.243Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "AbbyJane Garrett",
+      "date": "2023-08-07T03:50:29.202Z"
+    },
+    {
+      "text": "Fabulous service, great kindness, and reasonable cost.",
+      "reviewer_name": "Lisa Fussell",
+      "date": "2023-03-27T04:15:45.743Z"
+    }
+  ]
 }

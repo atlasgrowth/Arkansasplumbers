@@ -126,5 +126,42 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": null,
+      "reviewer_name": "Roberta Couch",
+      "date": "2022-12-29T16:59:26.558Z"
+    },
+    {
+      "text": "These are my go to plumbers,  they are courteous and do what I need them to do.   I will always call them for my plumbing issues.",
+      "reviewer_name": "Randal Holloman",
+      "date": "2021-03-05T18:47:02.768Z"
+    },
+    {
+      "text": "Very knowledgeable,  knew exactly how to fix my problem.  Affordable, and punctual.",
+      "reviewer_name": "CHERI FLOYD",
+      "date": "2020-03-31T03:24:53.899Z"
+    },
+    {
+      "text": "Great customer service and they keep going till it's done right",
+      "reviewer_name": "Robin Standerfer",
+      "date": "2019-11-14T15:23:23.210Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Jimmy Amos",
+      "date": "2019-05-14T02:03:31.747Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "James Hill",
+      "date": "2019-05-13T21:11:40.873Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Kyle Baker",
+      "date": "2017-05-28T03:32:42.912Z"
+    }
+  ]
 }
