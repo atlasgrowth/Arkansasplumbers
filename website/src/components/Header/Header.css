@@ -1,10 +1,16 @@
 .site-header {
-  background-color: #333;
+  background: linear-gradient(135deg, #1a1a1a, #333);
   color: #fff;
   padding: 1rem 0;
   position: sticky;
   top: 0;
   z-index: 1000;
+  animation: slideDown 0.5s ease-out;
+}
+
+@keyframes slideDown {
+  from { transform: translateY(-100%); }
+  to { transform: translateY(0); }
 }
 
 .header-container {
@@ -17,20 +23,38 @@
 }
 
 .logo {
-  font-size: 1.8rem;
+  font-size: 2rem;
   font-weight: bold;
+  letter-spacing: 1px;
 }
 
 .nav ul {
   list-style: none;
   display: flex;
-  gap: 1.5rem;
+  gap: 2rem;
+  transition: opacity 0.5s ease;
 }
 
 .nav ul li a {
   color: #fff;
   text-decoration: none;
   font-size: 1rem;
+  position: relative;
+}
+
+.nav ul li a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 0;
+  height: 2px;
+  background: #63b3ed;
+  transition: width 0.3s ease;
+}
+
+.nav ul li a:hover::after {
+  width: 100%;
 }
 
 .menu-toggle {
@@ -41,8 +65,8 @@
 }
 
 .hamburger,
-.hamburger:before,
-.hamburger:after {
+.hamburger::before,
+.hamburger::after {
   width: 25px;
   height: 3px;
   background-color: #fff;
@@ -51,40 +75,39 @@
   transition: all 0.3s ease;
 }
 
-.hamburger:before,
-.hamburger:after {
-  content: '';
+.hamburger::before,
+.hamburger::after {
+  content: "";
   position: absolute;
 }
 
-.hamburger:before {
+.hamburger::before {
   top: -8px;
 }
 
-.hamburger:after {
+.hamburger::after {
   top: 8px;
 }
 
-/* Responsive styles */
 @media (max-width: 768px) {
   .nav {
     position: absolute;
     top: 100%;
     left: 0;
     right: 0;
-    background-color: #333;
+    background: #222;
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.3s ease;
   }
   .nav.open {
-    max-height: 200px;
+    max-height: 300px;
   }
   .nav ul {
     flex-direction: column;
-    align-items: center;
     gap: 1rem;
     padding: 1rem 0;
+    text-align: center;
   }
   .menu-toggle {
     display: block;

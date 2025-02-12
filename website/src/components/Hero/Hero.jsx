@@ -2,11 +2,10 @@ import React from 'react';
 import './Hero.css';
 
 const Hero = ({ siteId }) => {
-  // For demo purposes, we use static values.
-  // In a real scenario, you could fetch data based on siteId.
-  const businessName = "Your Business Name";
-  const phoneNumber = "(123) 456-7890";
-  const backgroundImage = "https://source.unsplash.com/1600x900/?business";
+  // For now, static content is used.
+  const businessName = "Cool Business Inc.";
+  const phoneNumber = "(800) 123-4567";
+  const backgroundImage = "https://assets.cdn.filesafe.space/A9rd4HdLD0sTvRuuQFZl/media/651501775cf2e93f16638cf9.jpeg";
 
   return (
     <section className="hero" style={{ backgroundImage: `url(${backgroundImage})` }}>

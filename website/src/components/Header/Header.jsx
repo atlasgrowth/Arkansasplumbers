@@ -11,7 +11,7 @@ const Header = () => {
   return (
     <header className="site-header">
       <div className="header-container">
-        <div className="logo">MyBusiness</div>
+        <div className="logo">CoolBusiness</div>
         <nav className={`nav ${menuOpen ? 'open' : ''}`}>
           <ul>
             <li><a href="/Arkansasplumbers/">Home</a></li>

@@ -11,7 +11,6 @@ function App() {
 
   return (
     <div className="app">
-      {/* You can pass the siteId to components if needed */}
       <Header />
       <Hero siteId={siteId} />
     </div>
