@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Raptor General Contractors",
+    "phone": "+1 870-945-2884",
+    "query_name": "",
+    "rating": 5,
+    "total_reviews": 2,
+    "working_hours": "{\"Monday\": \"9AM-5PM\", \"Tuesday\": \"9AM-5:30PM\", \"Wednesday\": \"9AM-5PM\", \"Thursday\": \"9AM-5PM\", \"Friday\": \"9AM-5PM\", \"Saturday\": \"9AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.9449397,
+    "longitude": -91.1209794
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 2,
+    "last_updated": "2025-02-12T07:45:48.172238"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

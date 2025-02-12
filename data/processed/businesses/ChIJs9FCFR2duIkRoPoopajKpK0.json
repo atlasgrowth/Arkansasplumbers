@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "C & B Plumbing",
+    "phone": "+1 302-943-7292",
+    "query_name": "",
+    "rating": 5,
+    "total_reviews": 41,
+    "working_hours": "{\"Monday\": \"8AM-4PM\", \"Tuesday\": \"8AM-4PM\", \"Wednesday\": \"8AM-4PM\", \"Thursday\": \"8AM-4PM\", \"Friday\": \"8AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 39.1083764,
+    "longitude": -75.4489474
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 41,
+    "last_updated": "2025-02-12T07:45:48.693965"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "HandyMan RN",
+    "phone": "+1 479-340-0513",
+    "query_name": "",
+    "rating": 5,
+    "total_reviews": 2,
+    "working_hours": "",
+    "business_status": "CLOSED_TEMPORARILY"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.3344974,
+    "longitude": -94.1656715
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 2,
+    "last_updated": "2025-02-12T07:45:48.781644"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

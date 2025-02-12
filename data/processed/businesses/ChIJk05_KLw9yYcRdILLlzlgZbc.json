@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Hill's Handy Services",
+    "phone": "+1 479-295-5192",
+    "query_name": "",
+    "rating": "",
+    "total_reviews": "",
+    "working_hours": "{\"Monday\": \"8AM-8PM\", \"Tuesday\": \"8AM-8PM\", \"Wednesday\": \"8AM-8PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-4PM\", \"Saturday\": \"12-6:30PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.2134928,
+    "longitude": -94.1764412
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": "",
+    "last_updated": "2025-02-12T07:45:48.577435"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

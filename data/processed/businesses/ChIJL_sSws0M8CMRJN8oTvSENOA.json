@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Pruitt construction llc",
+    "phone": "+1 901-870-2009",
+    "query_name": "",
+    "rating": "",
+    "total_reviews": "",
+    "working_hours": "{\"Monday\": \"6AM-4PM\", \"Tuesday\": \"6AM-4PM\", \"Wednesday\": \"6AM-4PM\", \"Thursday\": \"6AM-4PM\", \"Friday\": \"6AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.2457696,
+    "longitude": -89.945952
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": "",
+    "last_updated": "2025-02-12T07:45:48.196657"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/chuckp6378/",
+    "instagram": "",
+    "website": ""
+  }
+}

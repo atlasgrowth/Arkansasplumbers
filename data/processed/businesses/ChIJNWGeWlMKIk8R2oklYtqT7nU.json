@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "LEMJR ENTERPRISES OF ARKANSAS",
+    "phone": "+1 870-816-8289",
+    "query_name": "",
+    "rating": "",
+    "total_reviews": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.5346375,
+    "longitude": -90.6253714
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": "",
+    "last_updated": "2025-02-12T07:45:48.155962"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

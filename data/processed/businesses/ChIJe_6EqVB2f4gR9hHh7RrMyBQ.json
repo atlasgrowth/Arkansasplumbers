@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Catlett Plumbing Company, Inc.",
+    "phone": "+1 901-337-3844",
+    "query_name": "",
+    "rating": 3,
+    "total_reviews": 2,
+    "working_hours": "{\"Monday\": \"9AM-4:30PM\", \"Tuesday\": \"9AM-4:30PM\", \"Wednesday\": \"9AM-4:30PM\", \"Thursday\": \"9AM-4:30PM\", \"Friday\": \"9AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "4636 Shadow Valley Ln, Arlington, TN 38002",
+    "city": "Arlington",
+    "state": "Tennessee",
+    "postal_code": 38002,
+    "latitude": 35.2526794,
+    "longitude": -89.8038585
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 2,
+    "last_updated": "2025-02-12T07:45:48.212877"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

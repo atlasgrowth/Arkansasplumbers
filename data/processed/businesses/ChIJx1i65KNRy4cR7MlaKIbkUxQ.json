@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Hobson Plumbing LLC",
+    "phone": "+1 870-490-1646",
+    "query_name": "",
+    "rating": 5,
+    "total_reviews": 2,
+    "working_hours": "{\"Monday\": \"7AM-5:30PM\", \"Tuesday\": \"7AM-5:30PM\", \"Wednesday\": \"7AM-5:30PM\", \"Thursday\": \"7AM-5:30PM\", \"Friday\": \"7AM-5:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "761 Southside Rd, Oden, AR 71961",
+    "city": "Oden",
+    "state": "Arkansas",
+    "postal_code": 71961,
+    "latitude": 34.5967292,
+    "longitude": -93.8087058
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 2,
+    "last_updated": "2025-02-12T07:45:48.045232"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

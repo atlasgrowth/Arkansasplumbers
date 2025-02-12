@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Safe Elite Transformations",
+    "phone": "+1 479-355-1003",
+    "query_name": "",
+    "rating": 1,
+    "total_reviews": 1,
+    "working_hours": "{\"Monday\": \"9AM-3PM\", \"Tuesday\": \"9AM-3PM\", \"Wednesday\": \"9AM-3PM\", \"Thursday\": \"9AM-3PM\", \"Friday\": \"9AM-3PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.286356,
+    "longitude": -94.0299073
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 1,
+    "last_updated": "2025-02-12T07:45:48.877828"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

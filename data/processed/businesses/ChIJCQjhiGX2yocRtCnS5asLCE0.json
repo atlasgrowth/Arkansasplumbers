@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Baker's Plumbing Heating",
+    "phone": "+1 918-649-0292",
+    "query_name": "",
+    "rating": 3.3,
+    "total_reviews": 15,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1701 N Broadway St, Poteau, OK 74953",
+    "city": "Poteau",
+    "state": "Oklahoma",
+    "postal_code": 74953,
+    "latitude": 35.0657506,
+    "longitude": -94.6243349
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 15,
+    "last_updated": "2025-02-12T07:45:49.005372"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

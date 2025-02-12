@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Jim's Heating & AC",
+    "phone": "+1 479-213-0786",
+    "query_name": "",
+    "rating": 4.8,
+    "total_reviews": 20,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1043 W College St, Altus, AR 72821",
+    "city": "Altus",
+    "state": "Arkansas",
+    "postal_code": 72821,
+    "latitude": 35.4363923,
+    "longitude": -93.7735701
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 20,
+    "last_updated": "2025-02-12T07:45:48.854612"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

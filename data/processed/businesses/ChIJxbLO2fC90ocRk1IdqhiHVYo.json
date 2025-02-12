@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Simpson & Son",
+    "phone": "+1 501-240-6756",
+    "query_name": "",
+    "rating": "",
+    "total_reviews": "",
+    "working_hours": "{\"Monday\": \"8AM-8PM\", \"Tuesday\": \"8AM-8PM\", \"Wednesday\": \"8AM-8PM\", \"Thursday\": \"8AM-8PM\", \"Friday\": \"8AM-8PM\", \"Saturday\": \"12-6PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7759757,
+    "longitude": -92.2492357
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": "",
+    "last_updated": "2025-02-12T07:45:48.371610"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "A+ Handyman Russellville, AR",
+    "phone": "+1 479-857-5206",
+    "query_name": "",
+    "rating": 5,
+    "total_reviews": 4,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"8AM-6PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.423202,
+    "longitude": -93.054324
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 4,
+    "last_updated": "2025-02-12T07:45:48.846682"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

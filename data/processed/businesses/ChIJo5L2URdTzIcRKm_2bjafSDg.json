@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "RP Remodeling",
+    "phone": "+1 479-280-5257",
+    "query_name": "",
+    "rating": 3.7,
+    "total_reviews": 3,
+    "working_hours": "{\"Monday\": \"7:30AM-5PM\", \"Tuesday\": \"7:30AM-5PM\", \"Wednesday\": \"7:30AM-5PM\", \"Thursday\": \"7:30AM-5PM\", \"Friday\": \"7:30AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.7184876,
+    "longitude": -92.4390306
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 3,
+    "last_updated": "2025-02-12T07:45:48.822579"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

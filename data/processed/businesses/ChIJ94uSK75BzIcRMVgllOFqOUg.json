@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "AD Construction",
+    "phone": "+1 479-336-9062",
+    "query_name": "",
+    "rating": 5,
+    "total_reviews": 1,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "130 E Main St, Lamar, AR 72846",
+    "city": "Lamar",
+    "state": "Arkansas",
+    "postal_code": 72846,
+    "latitude": 35.440253,
+    "longitude": -93.3860319
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 1,
+    "last_updated": "2025-02-12T07:45:48.940192"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/people/AD-Construction/100057307605843/",
+    "instagram": "",
+    "website": ""
+  }
+}

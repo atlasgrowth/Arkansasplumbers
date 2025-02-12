@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Probyn Residential Remodeling and Handyman",
+    "phone": "+1 417-619-2186",
+    "query_name": "",
+    "rating": 5,
+    "total_reviews": 4,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.3854004,
+    "longitude": -94.2709098
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 4,
+    "last_updated": "2025-02-12T07:45:48.662477"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

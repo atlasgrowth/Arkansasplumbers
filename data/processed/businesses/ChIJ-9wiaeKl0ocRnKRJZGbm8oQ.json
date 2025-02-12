@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "ROD'S HANDY MAN SERVICE AN ETC.",
+    "phone": "+1 501-650-9568",
+    "query_name": "",
+    "rating": "",
+    "total_reviews": "",
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7387956,
+    "longitude": -92.3635912
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": "",
+    "last_updated": "2025-02-12T07:45:48.326378"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/fix4sure/",
+    "instagram": "",
+    "website": ""
+  }
+}

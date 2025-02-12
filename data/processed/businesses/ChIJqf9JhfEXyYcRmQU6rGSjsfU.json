@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "RAG handyman services & home improvements LLC",
+    "phone": "+1 479-619-7144",
+    "query_name": "",
+    "rating": 5,
+    "total_reviews": 2,
+    "working_hours": "{\"Monday\": \"7AM-6PM\", \"Tuesday\": \"7AM-6PM\", \"Wednesday\": \"7AM-6PM\", \"Thursday\": \"7AM-6PM\", \"Friday\": \"7AM-6PM\", \"Saturday\": \"7AM-6PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.2584931,
+    "longitude": -94.031963
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 2,
+    "last_updated": "2025-02-12T07:45:48.755126"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

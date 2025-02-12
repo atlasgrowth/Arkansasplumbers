@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Merriott Plumbing",
+    "phone": "+1 501-545-5157",
+    "query_name": "",
+    "rating": "",
+    "total_reviews": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "202 N Moore Rd, Hot Springs, AR 71913",
+    "city": "Hot Springs",
+    "state": "Arkansas",
+    "postal_code": 71913,
+    "latitude": 34.4527622,
+    "longitude": -93.1747628
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": "",
+    "last_updated": "2025-02-12T07:45:47.977310"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

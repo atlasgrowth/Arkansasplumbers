@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Simply Plumbing Inc.",
+    "phone": "+1 501-655-1753",
+    "query_name": "",
+    "rating": 5,
+    "total_reviews": 1,
+    "working_hours": "{\"Monday\": \"7:30AM-4:30PM\", \"Tuesday\": \"7:30AM-4:30PM\", \"Wednesday\": \"7:30AM-4:30PM\", \"Thursday\": \"7:30AM-4:30PM\", \"Friday\": \"7:30AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "218 Leach St, Hot Springs, AR 71913",
+    "city": "Hot Springs",
+    "state": "Arkansas",
+    "postal_code": 71913,
+    "latitude": 34.4886793,
+    "longitude": -93.0614021
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 1,
+    "last_updated": "2025-02-12T07:45:48.087227"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

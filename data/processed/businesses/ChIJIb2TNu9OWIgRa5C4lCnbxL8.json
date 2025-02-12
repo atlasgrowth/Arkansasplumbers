@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Residential Maintenance & Repair",
+    "phone": "+1 864-918-3761",
+    "query_name": "",
+    "rating": 4,
+    "total_reviews": 8,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.8499376,
+    "longitude": -82.544613
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 8,
+    "last_updated": "2025-02-12T07:45:47.946692"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

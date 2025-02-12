@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "AP Home Repair & Solutions LLC",
+    "phone": "+1 479-295-7692",
+    "query_name": "",
+    "rating": 5,
+    "total_reviews": 1,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 46.423669,
+    "longitude": -129.9427086
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 1,
+    "last_updated": "2025-02-12T07:45:48.608041"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

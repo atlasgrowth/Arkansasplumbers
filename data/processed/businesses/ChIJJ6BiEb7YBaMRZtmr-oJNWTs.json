@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Clear Creek Plumbing & Gas Siloam Springs Plumbers",
+    "phone": "+1 918-457-0623",
+    "query_name": "",
+    "rating": 5,
+    "total_reviews": 5,
+    "working_hours": "{\"Monday\": \"8AM-8PM\", \"Tuesday\": \"8AM-8PM\", \"Wednesday\": \"8AM-8PM\", \"Thursday\": \"8AM-8PM\", \"Friday\": \"8AM-8PM\", \"Saturday\": \"8AM-8PM\", \"Sunday\": \"8AM-8PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.2004281,
+    "longitude": -94.5096095
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 5,
+    "last_updated": "2025-02-12T07:45:48.678200"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

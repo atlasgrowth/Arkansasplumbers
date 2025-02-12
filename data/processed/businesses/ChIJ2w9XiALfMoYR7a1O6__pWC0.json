@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "SOUTHWEST ARKANSAS SUPPLY, LLC.",
+    "phone": "+1 870-210-5140",
+    "query_name": "",
+    "rating": 5,
+    "total_reviews": 4,
+    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "401 S 29th St, Arkadelphia, AR 71923",
+    "city": "Arkadelphia",
+    "state": "Arkansas",
+    "postal_code": 71923,
+    "latitude": 34.1186274,
+    "longitude": -93.0855251
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 4,
+    "last_updated": "2025-02-12T07:45:48.006584"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

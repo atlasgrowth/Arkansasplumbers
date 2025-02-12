@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Robertsons Repair LLC",
+    "phone": "+1 870-997-7500",
+    "query_name": "",
+    "rating": 4,
+    "total_reviews": 4,
+    "working_hours": "{\"Monday\": \"6AM-7PM\", \"Tuesday\": \"6AM-7PM\", \"Wednesday\": \"6AM-7PM\", \"Thursday\": \"6AM-7PM\", \"Friday\": \"6AM-5PM\", \"Saturday\": \"6AM-12PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "674a Lonnie Knight Rd, Eudora, AR 71640",
+    "city": "Eudora",
+    "state": "Arkansas",
+    "postal_code": 71640,
+    "latitude": 33.1292194,
+    "longitude": -91.3362938
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 4,
+    "last_updated": "2025-02-12T07:45:47.917172"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

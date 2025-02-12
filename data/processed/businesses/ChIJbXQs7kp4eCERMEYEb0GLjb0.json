@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "R&R HandyMan Services",
+    "phone": "+1 501-290-3575",
+    "query_name": "",
+    "rating": 5,
+    "total_reviews": 8,
+    "working_hours": "{\"Monday\": \"8AM-4:30PM\", \"Tuesday\": \"8AM-4:30PM\", \"Wednesday\": \"8AM-4:30PM\", \"Thursday\": \"8AM-4:30PM\", \"Friday\": \"8AM-4:30PM\", \"Saturday\": \"9AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.2774746,
+    "longitude": -91.7325366
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 8,
+    "last_updated": "2025-02-12T07:45:49.035433"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/rnrhandymanservice/",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Blasingame Plumbing and Drain Cleaning",
+    "phone": "+1 479-522-1602",
+    "query_name": "",
+    "rating": 4.8,
+    "total_reviews": 19,
+    "working_hours": "",
+    "business_status": "CLOSED_PERMANENTLY"
+  },
+  "location": {
+    "full_address": "7041 Old 88 Rd, Rudy, AR 72952",
+    "city": "Rudy",
+    "state": "Arkansas",
+    "postal_code": 72952,
+    "latitude": 35.5360145,
+    "longitude": -94.2797716
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 19,
+    "last_updated": "2025-02-12T07:45:48.956524"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

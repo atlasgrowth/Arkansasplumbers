@@ -1,0 +1,33 @@
+{
+  "basic_info": {
+    "name": "Prokop Construction",
+    "phone": "+1 870-710-1518",
+    "query_name": "",
+    "rating": 5,
+    "total_reviews": 7,
+    "working_hours": "{\"Monday\": \"7:30AM-10PM\", \"Tuesday\": \"7:30AM-10PM\", \"Wednesday\": \"7:30AM-10PM\", \"Thursday\": \"7:30AM-10PM\", \"Friday\": \"7:30AM-10PM\", \"Saturday\": \"8AM-10PM\", \"Sunday\": \"8AM-10PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7520156,
+    "longitude": -92.129428
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "total_reviews": 7,
+    "last_updated": "2025-02-12T07:45:47.419324"
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}
