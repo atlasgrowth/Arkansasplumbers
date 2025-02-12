@@ -12,6 +12,9 @@ const Services = ({ business, loading }) => {
     : "#";
 
   useEffect(() => {
+    const image = new Image();
+    image.src = 'https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80';
+
     const boxes = document.querySelectorAll('.service-box');
     const observer = new IntersectionObserver(
       (entries, observerInstance) => {
