@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "helpinghandhandyman",
+    "place_id": "ChIJY4OGs_MRII0Rjntw67ediNo",
+    "google_id": "0x8d2011f3b3868363:0xda889db7eb707b8e"
+  },
+  "basic_info": {
+    "name": "Helping Hand Handyman",
+    "phone": "+1 870-557-8930",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7520156,
+    "longitude": -92.129428
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

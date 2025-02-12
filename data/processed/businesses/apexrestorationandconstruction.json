@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "apexrestorationandconstruction",
+    "place_id": "ChIJvaDDG217FQER447PudrS5jc",
+    "google_id": "0x1157b6d1bc3a0bd:0x37e6d2dab9cf8ee3"
+  },
+  "basic_info": {
+    "name": "Apex Restoration and Construction",
+    "phone": "+1 479-857-0937",
+    "query_name": "",
+    "rating": 1,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.255969,
+    "longitude": -93.0948
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/people/Apex-Restoration-and-Construction-INC/100089081773714/",
+    "instagram": "",
+    "website": ""
+  }
+}

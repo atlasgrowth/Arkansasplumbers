@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "bakersrepairremodeling",
+    "place_id": "ChIJ9S_Q7JXbMoYRWwFTiBvCSx4",
+    "google_id": "0x8632db95ecd02ff5:0x1e4bc21b8853015b"
+  },
+  "basic_info": {
+    "name": "Bakers Repair & Remodeling",
+    "phone": "+1 806-679-8722",
+    "query_name": "",
+    "rating": 3,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "2935 Malvern Rd, Arkadelphia, AR 71923",
+    "city": "Arkadelphia",
+    "state": "Arkansas",
+    "postal_code": 71923,
+    "latitude": 34.2271695,
+    "longitude": -92.9918425
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

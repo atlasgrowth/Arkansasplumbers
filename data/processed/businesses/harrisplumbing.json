@@ -1,0 +1,60 @@
+{
+  "ids": {
+    "business_id": "harrisplumbing",
+    "place_id": "ChIJtwAIRs9Z1IcRXNsh3UrjUO8",
+    "google_id": "0x87d459cf460800b7:0xef50e34add21db5c"
+  },
+  "basic_info": {
+    "name": "Harris Plumbing",
+    "phone": "+1 870-318-6935",
+    "query_name": "",
+    "rating": 3.9,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "2329 W Union Ave, Wynne, AR 72396",
+    "city": "Wynne",
+    "state": "Arkansas",
+    "postal_code": 72396,
+    "latitude": 35.2235079,
+    "longitude": -90.8270782
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-10": 1.0,
+      "2020-02": 1.0,
+      "2022-06": 2.0,
+      "2023-11": 1.0,
+      "2020-01": 1.0,
+      "2019-05": 2.0,
+      "2019-08": 2.0,
+      "2021-04": 1.0,
+      "2023-02": 2.0,
+      "2023-06": 1.0,
+      "2019-11": 1.0,
+      "2022-11": 1.0,
+      "2020-05": 1.0,
+      "2021-05": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2020": 3.0,
+      "2021": 2.0,
+      "2022": 3.0,
+      "2023": 4.0,
+      "2019": 5.0
+    },
+    "total_reviews": 18,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "justifiedplumbing",
+    "place_id": "ChIJJYIObNZuyYcRYr0fxjv8FvQ",
+    "google_id": "0x87c96ed66c0e8225:0xf416fc3bc61fbd62"
+  },
+  "basic_info": {
+    "name": "Justified Plumbing",
+    "phone": "+1 479-301-2253",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-4:30PM\", \"Tuesday\": \"8AM-4:30PM\", \"Wednesday\": \"8AM-4:30PM\", \"Thursday\": \"8AM-4:30PM\", \"Friday\": \"8AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "Fayetteville, AR 72701",
+    "city": "Fayetteville",
+    "state": "Arkansas",
+    "postal_code": 72701,
+    "latitude": 36.0625813,
+    "longitude": -94.1574611
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

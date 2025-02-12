@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "heavenlylawns",
+    "place_id": "ChIJk2fjmU6jyYcRlh0r36Fmxxo",
+    "google_id": "0x87c9a34e99e36793:0x1ac766a1df2b1d96"
+  },
+  "basic_info": {
+    "name": "Heavenly Lawns",
+    "phone": "+1 479-238-3588",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "CLOSED_TEMPORARILY"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.154496,
+    "longitude": -94.4131194
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "business_id": "creelconstructionllc",
+    "place_id": "ChIJccitxOvH0ocRj4iJ2wg7_NE",
+    "google_id": "0x87d2c7ebc4adc871:0xd1fc3b08db89888f"
+  },
+  "basic_info": {
+    "name": "Creel Construction LLC",
+    "phone": "+1 601-441-4675",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.8314562,
+    "longitude": -92.2474244
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-02": 7.0,
+      "2021-07": 1.0,
+      "2021-03": 2.0,
+      "2021-04": 2.0
+    },
+    "yearly_totals": {
+      "2021": 12.0
+    },
+    "total_reviews": 12,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/CreelConstructionLLC/",
+    "instagram": "",
+    "website": ""
+  }
+}

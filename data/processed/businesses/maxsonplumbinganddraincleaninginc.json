@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "business_id": "maxsonplumbinganddraincleaninginc",
+    "place_id": "ChIJdX1d_ei_0ocRBAwAlCfI6cI",
+    "google_id": "0x87d2bfe8fd5d7d75:0xc2e9c82794000c04"
+  },
+  "basic_info": {
+    "name": "Maxson Plumbing and Drain Cleaning Inc.",
+    "phone": "+1 501-834-0600",
+    "query_name": "",
+    "rating": 4.4,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.8604715,
+    "longitude": -92.1883996
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2022-05": 1.0,
+      "2022-08": 1.0,
+      "2023-01": 1.0,
+      "2023-02": 1.0,
+      "2023-05": 3.0,
+      "2023-07": 1.0,
+      "2023-08": 1.0,
+      "2021-01": 2.0,
+      "2022-10": 1.0,
+      "2021-05": 1.0
+    },
+    "yearly_totals": {
+      "2021": 3.0,
+      "2022": 3.0,
+      "2023": 7.0
+    },
+    "total_reviews": 13,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "prorooter",
+    "place_id": "ChIJAQAAALS90ocRYzsKrbJNikY",
+    "google_id": "0x87d2bdb400000001:0x468a4db2ad0a3b63"
+  },
+  "basic_info": {
+    "name": "Pro Rooter",
+    "phone": "+1 501-944-8367",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "North Little Rock, AR 72116",
+    "city": "North Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72116,
+    "latitude": 34.8030492,
+    "longitude": -92.2482208
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2018-07": 1.0
+    },
+    "yearly_totals": {
+      "2018": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

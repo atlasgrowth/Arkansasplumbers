@@ -1,0 +1,43 @@
+{
+  "ids": {
+    "business_id": "halestructuresllc",
+    "place_id": "ChIJSYRA4xwHAIcRxTsViEl6iq0",
+    "google_id": "0x8700071ce3408449:0xad8a7a4988153bc5"
+  },
+  "basic_info": {
+    "name": "Hale Structures LLC",
+    "phone": "+1 501-288-5937",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "119 Calvin Rogers Ln, McRae, AR 72102",
+    "city": "McRae",
+    "state": "Arkansas",
+    "postal_code": 72102,
+    "latitude": 35.080891,
+    "longitude": -91.8104625
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-11": 2.0,
+      "2021-12": 2.0
+    },
+    "yearly_totals": {
+      "2021": 4.0
+    },
+    "total_reviews": 4,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

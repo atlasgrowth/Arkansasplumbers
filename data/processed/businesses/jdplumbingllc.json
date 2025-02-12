@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "jdplumbingllc",
+    "place_id": "ChIJC5JUq2hp1ocR8zmk7hNY6Po",
+    "google_id": "0x87d66968ab54920b:0xfae85813eea439f3"
+  },
+  "basic_info": {
+    "name": "JD Plumbing LLC",
+    "phone": "+1 870-530-7866",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"9AM-5PM\", \"Tuesday\": \"9AM-5PM\", \"Wednesday\": \"9AM-5PM\", \"Thursday\": \"9AM-5PM\", \"Friday\": \"9AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "4161 Greene Rd 443, Marmaduke, AR 72443",
+    "city": "Marmaduke",
+    "state": "Arkansas",
+    "postal_code": 72443,
+    "latitude": 36.2178441,
+    "longitude": -90.4484068
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "dustysheatingairconditioningservice",
+    "place_id": "ChIJnes2Ye5hMYYR3NO_7GDpDhc",
+    "google_id": "0x863161ee6136eb9d:0x170ee960ecbfd3dc"
+  },
+  "basic_info": {
+    "name": "Dusty's Heating & Air Conditioning Service",
+    "phone": "+1 870-904-3275",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"7AM-8PM\", \"Tuesday\": \"7AM-8PM\", \"Wednesday\": \"7AM-8PM\", \"Thursday\": \"7AM-8PM\", \"Friday\": \"7AM-8PM\", \"Saturday\": \"Closed\", \"Sunday\": \"7AM-8PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "360 State Line Rd 48 E, Emerson, AR 71740",
+    "city": "Emerson",
+    "state": "Arkansas",
+    "postal_code": 71740,
+    "latitude": 33.018358,
+    "longitude": -93.3511966
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "paramountplumbinginc",
+    "place_id": "ChIJQdlsGVULyYcRNsqDrEWwlPI",
+    "google_id": "0x87c90b55196cd941:0xf294b045ac83ca36"
+  },
+  "basic_info": {
+    "name": "Paramount Plumbing Inc.",
+    "phone": "+1 479-790-8427",
+    "query_name": "",
+    "rating": 4.8,
+    "working_hours": "{\"Monday\": \"7AM-4PM\", \"Tuesday\": \"7AM-4PM\", \"Wednesday\": \"7AM-4PM\", \"Thursday\": \"7AM-4PM\", \"Friday\": \"7AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "14840 Old Hwy 68, Springdale, AR 72762",
+    "city": "Springdale",
+    "state": "Arkansas",
+    "postal_code": 72762,
+    "latitude": 36.1872948,
+    "longitude": -94.3175631
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 25,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

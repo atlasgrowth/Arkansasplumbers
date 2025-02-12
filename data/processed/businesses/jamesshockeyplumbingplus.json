@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "jamesshockeyplumbingplus",
+    "place_id": "ChIJcQ4SPEShgG4RzWy6_sHLrgI",
+    "google_id": "0x6e80a1443c120e71:0x2aecbc1feba6ccd"
+  },
+  "basic_info": {
+    "name": "James Shockey Plumbing Plus",
+    "phone": "+1 501-519-6850",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 46.423669,
+    "longitude": -129.9427086
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2025-01": 2.0,
+      "2024-02": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2025": 2.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

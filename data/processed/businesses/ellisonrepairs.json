@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "ellisonrepairs",
+    "place_id": "ChIJJ6gs9jt2f4gRI-cwqfL3jmA",
+    "google_id": "0x887f763bf62ca827:0x608ef7f2a930e723"
+  },
+  "basic_info": {
+    "name": "Ellison Repairs",
+    "phone": "+1 901-326-9493",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"12AM-11:30PM\", \"Tuesday\": \"12AM-11:30PM\", \"Wednesday\": \"12AM-11:30PM\", \"Thursday\": \"12AM-11:30PM\", \"Friday\": \"12AM-11:30PM\", \"Saturday\": \"12AM-12:30PM\", \"Sunday\": \"12AM-11:30PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "7912 Carol Elaine Cir, Bartlett, TN 38133",
+    "city": "Bartlett",
+    "state": "Tennessee",
+    "postal_code": 38133,
+    "latitude": 35.2302875,
+    "longitude": -89.799003
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 5,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

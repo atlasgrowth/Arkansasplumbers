@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "advancedplumbingsolutions",
+    "place_id": "ChIJ01Gxt3FTzIcRPuYcp_ziPN0",
+    "google_id": "0x87cc5371b7b151d3:0xdd3ce2fca71ce63e"
+  },
+  "basic_info": {
+    "name": "Advanced Plumbing Solutions",
+    "phone": "+1 479-567-9552",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "400 E 2nd St, Russellville, AR 72801",
+    "city": "Russellville",
+    "state": "Arkansas",
+    "postal_code": 72801,
+    "latitude": 35.2766901,
+    "longitude": -93.1292986
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 4,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

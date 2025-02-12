@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "downsouthsepticservice",
+    "place_id": "ChIJf05w8lHt0ocR0XAmVsmRups",
+    "google_id": "0x87d2ed51f2704e7f:0x9bba91c9562670d1"
+  },
+  "basic_info": {
+    "name": "Down South Septic Service",
+    "phone": "+1 501-428-6868",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.9397783,
+    "longitude": -92.428631
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-12": 4.0
+    },
+    "yearly_totals": {
+      "2020": 4.0
+    },
+    "total_reviews": 4,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

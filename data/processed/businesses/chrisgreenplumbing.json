@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "business_id": "chrisgreenplumbing",
+    "place_id": "ChIJmZfiZHPgMoYRx6Jl1TTdKTU",
+    "google_id": "0x8632e07364e29799:0x3529dd34d565a2c7"
+  },
+  "basic_info": {
+    "name": "Chris Green Plumbing",
+    "phone": "+1 870-403-8873",
+    "query_name": "",
+    "rating": 3.9,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "2079 Elaine Cir, Arkadelphia, AR 71923",
+    "city": "Arkadelphia",
+    "state": "Arkansas",
+    "postal_code": 71923,
+    "latitude": 34.1086545,
+    "longitude": -93.0760222
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-07": 1.0,
+      "2020-06": 1.0,
+      "2023-09": 1.0,
+      "2023-01": 1.0,
+      "2023-04": 1.0,
+      "2021-12": 1.0,
+      "2019-04": 1.0,
+      "2021-03": 1.0,
+      "2021-04": 1.0,
+      "2019-06": 2.0,
+      "2020-10": 2.0,
+      "2021-01": 1.0,
+      "2022-10": 1.0,
+      "2021-05": 2.0,
+      "2020-08": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2020": 4.0,
+      "2021": 6.0,
+      "2022": 1.0,
+      "2023": 3.0,
+      "2019": 3.0
+    },
+    "total_reviews": 18,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

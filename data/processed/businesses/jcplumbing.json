@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "jcplumbing",
+    "place_id": "ChIJtZuTzekSyYcRCimNYowXt2o",
+    "google_id": "0x87c912e9cd939bb5:0x6ab7178c628d290a"
+  },
+  "basic_info": {
+    "name": "JC Plumbing",
+    "phone": "+1 479-313-3595",
+    "query_name": "",
+    "rating": 3.9,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1693 W County Line Rd, Springdale, AR 72762",
+    "city": "Springdale",
+    "state": "Arkansas",
+    "postal_code": 72762,
+    "latitude": 36.2118526,
+    "longitude": -94.2053786
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 15,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

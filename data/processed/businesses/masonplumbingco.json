@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "business_id": "masonplumbingco",
+    "place_id": "ChIJ1QAIfhIYMoYRs05ObsRz8a8",
+    "google_id": "0x863218127e0800d5:0xaff173c46e4e4eb3"
+  },
+  "basic_info": {
+    "name": "Mason Plumbing Co",
+    "phone": "+1 870-863-7474",
+    "query_name": "",
+    "rating": 3.9,
+    "working_hours": "{\"Monday\": \"8AM-4:30PM\", \"Tuesday\": \"8AM-4:30PM\", \"Wednesday\": \"8AM-4:30PM\", \"Thursday\": \"8AM-4PM\", \"Friday\": \"8AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "4787 Magnolia Hwy, El Dorado, AR 71730",
+    "city": "El Dorado",
+    "state": "Arkansas",
+    "postal_code": 71730,
+    "latitude": 33.2067617,
+    "longitude": -92.7641398
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-02": 1.0,
+      "2020-06": 1.0,
+      "2023-03": 1.0,
+      "2019-05": 3.0,
+      "2019-08": 1.0,
+      "2021-03": 1.0,
+      "2020-09": 1.0,
+      "2020-10": 1.0
+    },
+    "yearly_totals": {
+      "2020": 4.0,
+      "2021": 1.0,
+      "2023": 1.0,
+      "2019": 4.0
+    },
+    "total_reviews": 10,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

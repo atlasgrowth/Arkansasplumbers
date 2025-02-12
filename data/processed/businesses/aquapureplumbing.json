@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "aquapureplumbing",
+    "place_id": "ChIJ0ZAesujO0YcR3p9UnFaud38",
+    "google_id": "0x87d1cee8b21e90d1:0x7f77ae569c549fde"
+  },
+  "basic_info": {
+    "name": "Aquapure Plumbing",
+    "phone": "+1 870-467-5545",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "273 Silver Fox Trail, Gamaliel, AR 72537",
+    "city": "Gamaliel",
+    "state": "Arkansas",
+    "postal_code": 72537,
+    "latitude": 36.470183,
+    "longitude": -92.247976
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2014-12": 1.0
+    },
+    "yearly_totals": {
+      "2014": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

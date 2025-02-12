@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "ark911homerepair",
+    "place_id": "ChIJC4GbXhlBzocRm3Ku9HjIig0",
+    "google_id": "0x87ce41195e9b810b:0xd8ac878f4ae729b"
+  },
+  "basic_info": {
+    "name": "Ark 911 Home Repair",
+    "phone": "+1 417-599-1139",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7AM-4PM\", \"Tuesday\": \"7AM-4PM\", \"Wednesday\": \"7AM-4PM\", \"Thursday\": \"7AM-4PM\", \"Friday\": \"7AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.2582367,
+    "longitude": -92.7422156
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

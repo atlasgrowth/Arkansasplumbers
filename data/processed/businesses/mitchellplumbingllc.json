@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "business_id": "mitchellplumbingllc",
+    "place_id": "ChIJl7ofgQTdEgoR8eCggq-ntqM",
+    "google_id": "0xa12dd04811fba97:0xa3b6a7af82a0e0f1"
+  },
+  "basic_info": {
+    "name": "Mitchell Plumbing LLC",
+    "phone": "+1 501-249-6431",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7:30AM-5PM\", \"Tuesday\": \"7:30AM-5PM\", \"Wednesday\": \"7:30AM-5PM\", \"Thursday\": \"7:30AM-5PM\", \"Friday\": \"7:30AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7864769,
+    "longitude": -92.6398477
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-07": 1.0,
+      "2024-10": 1.0,
+      "2024-11": 5.0,
+      "2025-01": 3.0,
+      "2023-10": 3.0,
+      "2023-11": 1.0,
+      "2023-01": 1.0,
+      "2023-12": 1.0,
+      "2024-09": 2.0,
+      "2023-05": 2.0,
+      "2024-02": 2.0,
+      "2022-12": 1.0,
+      "2024-04": 1.0
+    },
+    "yearly_totals": {
+      "2024": 12.0,
+      "2025": 3.0,
+      "2022": 1.0,
+      "2023": 8.0
+    },
+    "total_reviews": 17,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/people/Mitchell-Plumbing-LLC/100083691818733/",
+    "instagram": "",
+    "website": ""
+  }
+}

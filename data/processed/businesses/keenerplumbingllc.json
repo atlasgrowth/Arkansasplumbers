@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "business_id": "keenerplumbingllc",
+    "place_id": "ChIJUQ4SWrFlzYcRQhBCNoj8u1A",
+    "google_id": "0x87cd65b15a120e51:0x50bbfc8836421042"
+  },
+  "basic_info": {
+    "name": "Keener Plumbing LLC",
+    "phone": "+1 501-733-9835",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.9397783,
+    "longitude": -92.3787268
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-11": 1.0,
+      "2024-12": 1.0,
+      "2020-06": 1.0,
+      "2020-12": 1.0,
+      "2023-09": 2.0,
+      "2024-08": 1.0,
+      "2023-01": 1.0,
+      "2021-12": 1.0,
+      "2024-09": 1.0,
+      "2020-07": 2.0,
+      "2021-04": 1.0,
+      "2022-03": 1.0,
+      "2023-02": 1.0,
+      "2022-07": 4.0,
+      "2021-10": 1.0,
+      "2020-10": 1.0,
+      "2021-01": 1.0,
+      "2022-10": 1.0,
+      "2020-05": 2.0,
+      "2022-02": 1.0
+    },
+    "yearly_totals": {
+      "2024": 4.0,
+      "2020": 7.0,
+      "2021": 4.0,
+      "2022": 7.0,
+      "2023": 4.0
+    },
+    "total_reviews": 24,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

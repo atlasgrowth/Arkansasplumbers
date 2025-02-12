@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "business_id": "1stcallplumbing",
+    "place_id": "ChIJ6zFoxcp9tSIR9Ibz-IG-wQg",
+    "google_id": "0x22b57dcac56831eb:0x8c1be81f8f386f4"
+  },
+  "basic_info": {
+    "name": "1st Call Plumbing",
+    "phone": "+1 870-919-3036",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.98398,
+    "longitude": -90.6135896
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 5.0,
+      "2024-06": 1.0,
+      "2024-07": 1.0,
+      "2024-10": 1.0,
+      "2024-11": 3.0,
+      "2024-12": 6.0,
+      "2025-01": 3.0,
+      "2025-02": 2.0
+    },
+    "yearly_totals": {
+      "2024": 17.0,
+      "2025": 5.0
+    },
+    "total_reviews": 8,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "business_id": "lanecoprofessionalplumbing",
+    "place_id": "ChIJA_fpYdgozYcRv_Y2S8ardxY",
+    "google_id": "0x87cd28d861e9f703:0x1677abc64b36f6bf"
+  },
+  "basic_info": {
+    "name": "Laneco Professional Plumbing",
+    "phone": "+1 501-617-4666",
+    "query_name": "",
+    "rating": 2.2,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "165 Turtle Creek Rd, Hot Springs Village, AR 71909",
+    "city": "Hot Springs Village",
+    "state": "Arkansas",
+    "postal_code": 71909,
+    "latitude": 34.6059358,
+    "longitude": -93.0296845
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2022-06": 1.0,
+      "2023-09": 1.0,
+      "2021-03": 1.0,
+      "2021-04": 1.0,
+      "2019-03": 1.0,
+      "2018-03": 1.0
+    },
+    "yearly_totals": {
+      "2021": 2.0,
+      "2022": 1.0,
+      "2023": 1.0,
+      "2018": 1.0,
+      "2019": 1.0
+    },
+    "total_reviews": 6,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

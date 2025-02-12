@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "business_id": "luyetplumbingco",
+    "place_id": "ChIJwT1ckb2D0ocRT89CQb1cRZM",
+    "google_id": "0x87d283bd915c3dc1:0x93455cbd4142cf4f"
+  },
+  "basic_info": {
+    "name": "Luyet Plumbing Co.",
+    "phone": "+1 501-472-0677",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.105692,
+    "longitude": -92.3553935
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2023-10": 1.0,
+      "2023-01": 1.0,
+      "2024-09": 1.0,
+      "2021-05": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2021": 1.0,
+      "2023": 2.0
+    },
+    "total_reviews": 4,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

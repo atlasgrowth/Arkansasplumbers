@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "arkansashomesolutions",
+    "place_id": "ChIJpUG0dPeD0ocRqO6O9-jUy5A",
+    "google_id": "0x87d283f774b441a5:0x90cbd4e8f78eeea8"
+  },
+  "basic_info": {
+    "name": "Arkansas Home Solutions",
+    "phone": "+1 501-472-1510",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.8215596,
+    "longitude": -92.7527077
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-06": 1.0
+    },
+    "yearly_totals": {
+      "2021": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

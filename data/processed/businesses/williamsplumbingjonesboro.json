@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "williamsplumbingjonesboro",
+    "place_id": "ChIJFbjK3kEo1IcRtoCLhZFVyI4",
+    "google_id": "0x87d42841decab815:0x8ec85591858b80b6"
+  },
+  "basic_info": {
+    "name": "Williams plumbing jonesboro",
+    "phone": "+1 870-761-2198",
+    "query_name": "",
+    "rating": 1,
+    "working_hours": "{\"Monday\": \"8AM-4PM\", \"Tuesday\": \"8AM-4PM\", \"Wednesday\": \"8AM-4PM\", \"Thursday\": \"8AM-4PM\", \"Friday\": \"8AM-4PM\", \"Saturday\": \"8AM-4PM\", \"Sunday\": \"8AM-4PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.808961,
+    "longitude": -88.710802
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2023-10": 1.0
+    },
+    "yearly_totals": {
+      "2023": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

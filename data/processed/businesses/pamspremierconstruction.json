@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "pamspremierconstruction",
+    "place_id": "ChIJVaccTYi_NIYRDLQJjA_0Cb8",
+    "google_id": "0x8634bf884d1ca755:0xbf09f40f8c09b40c"
+  },
+  "basic_info": {
+    "name": "Pam's Premier Construction",
+    "phone": "+1 870-845-9251",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7520156,
+    "longitude": -92.129428
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

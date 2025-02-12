@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "pleaserentmyhusbandthehandymanllc",
+    "place_id": "ChIJfcf1YmOj0ocRN52peBKyFYM",
+    "google_id": "0x87d2a36362f5c77d:0x8315b21278a99d37"
+  },
+  "basic_info": {
+    "name": "Please Rent-My-Husband the Handyman, LLC",
+    "phone": "+1 501-993-8783",
+    "query_name": "",
+    "rating": 2.8,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "5101 F St, Little Rock, AR 72205",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72205,
+    "latitude": 34.7573504,
+    "longitude": -92.3303761
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 16,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

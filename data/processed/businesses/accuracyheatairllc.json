@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "business_id": "accuracyheatairllc",
+    "place_id": "ChIJi1NzVIAH04cRWNbceOlVCVk",
+    "google_id": "0x87d307805473538b:0x590955e978dcd658"
+  },
+  "basic_info": {
+    "name": "Accuracy Heat & Air LLC",
+    "phone": "+1 501-230-3236",
+    "query_name": "",
+    "rating": 3.9,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "111 Railroad St, Higginson, AR 72068",
+    "city": "Higginson",
+    "state": "Arkansas",
+    "postal_code": 72068,
+    "latitude": 35.1997872,
+    "longitude": -91.7128804
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-07": 1.0,
+      "2020-03": 1.0,
+      "2022-09": 1.0,
+      "2021-03": 1.0,
+      "2021-08": 1.0,
+      "2019-06": 1.0,
+      "2020-08": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2020": 2.0,
+      "2021": 2.0,
+      "2022": 1.0,
+      "2019": 1.0
+    },
+    "total_reviews": 7,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/people/Accuracy-Heat-Air-LLC/100089578846866/",
+    "instagram": "",
+    "website": ""
+  }
+}

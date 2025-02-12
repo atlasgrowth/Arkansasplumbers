@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "chucksplumbing",
+    "place_id": "ChIJifn44XpYzYcRWeKVooKaDZg",
+    "google_id": "0x87cd587ae1f8f989:0x980d9a82a295e259"
+  },
+  "basic_info": {
+    "name": "Chuck's Plumbing",
+    "phone": "+1 501-520-1252",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"8AM-6PM\", \"Sunday\": \"8AM-6PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "17618 Elvin Rd, Little Rock, AR 72210",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72210,
+    "latitude": 34.6966509,
+    "longitude": -92.4687677
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

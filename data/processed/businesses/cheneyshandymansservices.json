@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "cheneyshandymansservices",
+    "place_id": "ChIJf44cdf5J1IcRCC3wRPNJPpQ",
+    "google_id": "0x87d449fe751c8e7f:0x943e49f344f02d08"
+  },
+  "basic_info": {
+    "name": "Cheney's Handyman's Services",
+    "phone": "+1 870-408-2231",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "6821 AR-163, Harrisburg, AR 72432",
+    "city": "Harrisburg",
+    "state": "Arkansas",
+    "postal_code": 72432,
+    "latitude": 35.5481012,
+    "longitude": -90.6933468
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-02": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

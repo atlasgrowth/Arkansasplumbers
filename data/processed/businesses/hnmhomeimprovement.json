@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "business_id": "hnmhomeimprovement",
+    "place_id": "ChIJEWCGhlIV0YcRsaQQHYzflwo",
+    "google_id": "0x87d1155286866011:0xa97df8c1d10a4b1"
+  },
+  "basic_info": {
+    "name": "HNM Home Improvement",
+    "phone": "+1 870-710-8242",
+    "query_name": "",
+    "rating": 4,
+    "working_hours": "{\"Monday\": \"9AM-5PM\", \"Tuesday\": \"9AM-5PM\", \"Wednesday\": \"9AM-5PM\", \"Thursday\": \"9AM-5PM\", \"Friday\": \"9AM-5PM\", \"Saturday\": \"9AM-5PM\", \"Sunday\": \"9AM-5PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.195115,
+    "longitude": -91.7088405
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2023-09": 3.0,
+      "2023-10": 1.0,
+      "2023-11": 1.0,
+      "2024-09": 1.0,
+      "2022-03": 1.0,
+      "2024-03": 1.0
+    },
+    "yearly_totals": {
+      "2024": 2.0,
+      "2022": 1.0,
+      "2023": 5.0
+    },
+    "total_reviews": 8,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

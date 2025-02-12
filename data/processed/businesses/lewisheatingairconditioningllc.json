@@ -1,0 +1,60 @@
+{
+  "ids": {
+    "business_id": "lewisheatingairconditioningllc",
+    "place_id": "ChIJGxO0_GtJyocRyAkOlNPZINU",
+    "google_id": "0x87ca496bfcb4131b:0xd520d9d3940e09c8"
+  },
+  "basic_info": {
+    "name": "Lewis Heating & Air Conditioning LLC",
+    "phone": "+1 479-629-0560",
+    "query_name": "",
+    "rating": 4.6,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.3477315,
+    "longitude": -94.512283
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-06": 1.0,
+      "2020-02": 1.0,
+      "2020-04": 1.0,
+      "2021-06": 1.0,
+      "2022-05": 1.0,
+      "2022-09": 1.0,
+      "2021-02": 2.0,
+      "2018-10": 1.0,
+      "2022-03": 1.0,
+      "2023-06": 1.0,
+      "2021-09": 1.0,
+      "2022-12": 1.0,
+      "2019-09": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2020": 2.0,
+      "2021": 4.0,
+      "2022": 4.0,
+      "2023": 1.0,
+      "2018": 1.0,
+      "2019": 1.0
+    },
+    "total_reviews": 14,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

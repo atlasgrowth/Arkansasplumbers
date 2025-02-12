@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "business_id": "palmerplumbingllc",
+    "place_id": "ChIJc8mzIpBl0ocRz0JyE_uduiY",
+    "google_id": "0x87d2659022b3c973:0x26ba9dfb137242cf"
+  },
+  "basic_info": {
+    "name": "Palmer Plumbing LLC",
+    "phone": "+1 501-306-8143",
+    "query_name": "",
+    "rating": 3.7,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "61 Mt Pleasant Rd, Quitman, AR 72131",
+    "city": "Quitman",
+    "state": "Arkansas",
+    "postal_code": 72131,
+    "latitude": 35.356893,
+    "longitude": -92.247705
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-12": 1.0,
+      "2023-07": 1.0,
+      "2021-09": 1.0
+    },
+    "yearly_totals": {
+      "2021": 2.0,
+      "2023": 1.0
+    },
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

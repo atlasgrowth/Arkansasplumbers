@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "business_id": "newtonplumbingsolutions",
+    "place_id": "ChIJ87Wwo5J6hIkR7uhFwRDbDI0",
+    "google_id": "0x89847a92a3b0b5f3:0x8d0cdb10c145e8ee"
+  },
+  "basic_info": {
+    "name": "NEWTON PLUMBING SOLUTIONS",
+    "phone": "+1 903-336-0507",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8:30AM-5PM\", \"Tuesday\": \"8:30AM-5PM\", \"Wednesday\": \"8:30AM-5PM\", \"Thursday\": \"8:30AM-5PM\", \"Friday\": \"8:30AM-3:30PM\", \"Saturday\": \"9AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 33.3909158,
+    "longitude": -93.9942368
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 10.0,
+      "2024-06": 2.0,
+      "2024-07": 1.0,
+      "2024-10": 1.0,
+      "2024-11": 4.0,
+      "2024-12": 1.0
+    },
+    "yearly_totals": {
+      "2024": 19.0
+    },
+    "total_reviews": 17,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

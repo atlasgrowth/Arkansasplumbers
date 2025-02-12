@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "business_id": "speakeselectric",
+    "place_id": "ChIJgVQfYY9_1ocRLin9D9fv-nE",
+    "google_id": "0x87d67f8f611f5481:0x71faefd70ffd292e"
+  },
+  "basic_info": {
+    "name": "Speakes Electric",
+    "phone": "+1 870-530-9892",
+    "query_name": "",
+    "rating": 4,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "122 Emma Dr, Brookland, AR 72417",
+    "city": "Brookland",
+    "state": "Arkansas",
+    "postal_code": 72417,
+    "latitude": 35.920845,
+    "longitude": -90.573292
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2019-08": 1.0,
+      "2019-03": 1.0,
+      "2019-11": 1.0,
+      "2022-07": 1.0
+    },
+    "yearly_totals": {
+      "2022": 1.0,
+      "2019": 3.0
+    },
+    "total_reviews": 4,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

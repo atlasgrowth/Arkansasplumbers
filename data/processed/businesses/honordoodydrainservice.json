@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "business_id": "honordoodydrainservice",
+    "place_id": "ChIJIXC2QZVTzYcRFMd6QWE9EG8",
+    "google_id": "0x87cd539541b67021:0x6f103d61417ac714"
+  },
+  "basic_info": {
+    "name": "Honor & Doody Drain Service",
+    "phone": "+1 501-551-0615",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.2952938,
+    "longitude": -91.5527452
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-02": 2.0,
+      "2020-04": 1.0,
+      "2020-06": 1.0,
+      "2021-11": 3.0,
+      "2020-01": 3.0,
+      "2021-12": 2.0,
+      "2020-07": 3.0,
+      "2021-03": 1.0,
+      "2021-08": 1.0,
+      "2020-09": 1.0,
+      "2020-11": 3.0,
+      "2020-05": 1.0
+    },
+    "yearly_totals": {
+      "2020": 15.0,
+      "2021": 7.0
+    },
+    "total_reviews": 22,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

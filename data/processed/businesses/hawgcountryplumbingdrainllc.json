@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "business_id": "hawgcountryplumbingdrainllc",
+    "place_id": "ChIJ7RvX2GhuyYcRqSyZ8GgXbLM",
+    "google_id": "0x87c96e68d8d71bed:0xb36c1768f0992ca9"
+  },
+  "basic_info": {
+    "name": "Hawg Country Plumbing & Drain, LLC",
+    "phone": "+1 479-236-0864",
+    "query_name": "",
+    "rating": 3.9,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.8327145,
+    "longitude": -93.7957184
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-10": 1.0,
+      "2021-06": 1.0,
+      "2018-10": 1.0,
+      "2019-10": 1.0,
+      "2022-01": 1.0,
+      "2019-11": 1.0,
+      "2017-09": 1.0,
+      "2022-11": 1.0,
+      "2017-04": 1.0,
+      "2017-01": 1.0,
+      "2015-10": 1.0,
+      "2016-02": 1.0,
+      "2016-07": 1.0,
+      "2016-08": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2021": 1.0,
+      "2022": 2.0,
+      "2018": 1.0,
+      "2019": 2.0,
+      "2017": 3.0,
+      "2015": 1.0,
+      "2016": 3.0
+    },
+    "total_reviews": 14,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

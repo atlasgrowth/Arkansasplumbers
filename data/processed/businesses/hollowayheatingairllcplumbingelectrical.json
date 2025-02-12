@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "hollowayheatingairllcplumbingelectrical",
+    "place_id": "ChIJYRUpb5Ko1YcRdMcRIX--CDs",
+    "google_id": "0x87d5a8926f291561:0x3b08be7f2111c774"
+  },
+  "basic_info": {
+    "name": "Holloway Heating & Air LLC Plumbing & Electrical",
+    "phone": "+1 870-792-7342",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1125 Main St, Earle, AR 72331",
+    "city": "Earle",
+    "state": "Arkansas",
+    "postal_code": 72331,
+    "latitude": 35.2699179,
+    "longitude": -90.4667858
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-09": 1.0
+    },
+    "yearly_totals": {
+      "2020": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

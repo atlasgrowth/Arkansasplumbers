@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "johnsongaylanplumbingserviceinc",
+    "place_id": "ChIJ756Jniqk0ocRQPKD4rcOgCI",
+    "google_id": "0x87d2a42a9e899eef:0x22800eb7e283f240"
+  },
+  "basic_info": {
+    "name": "Johnson, Gaylan Plumbing Service Inc.",
+    "phone": "+1 501-413-7374",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"7AM-4:30PM\", \"Tuesday\": \"7AM-4:30PM\", \"Wednesday\": \"7AM-4:30PM\", \"Thursday\": \"7AM-4:30PM\", \"Friday\": \"7AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "336 Marigold Dr, Little Rock, AR 72204",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72204,
+    "latitude": 34.7084086,
+    "longitude": -92.3813042
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/nwaplumbing/",
+    "instagram": "",
+    "website": ""
+  }
+}

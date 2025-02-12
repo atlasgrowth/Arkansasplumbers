@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "twplumbingservices",
+    "place_id": "ChIJAQAAAMRMyocRfGQ5yR3-8Rg",
+    "google_id": "0x87ca4cc400000001:0x18f1fe1dc939647c"
+  },
+  "basic_info": {
+    "name": "T & W Plumbing Services",
+    "phone": "+1 479-462-8917",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "Fort Smith, AR 72901",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "postal_code": 72901,
+    "latitude": 35.3704608,
+    "longitude": -94.4130648
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2022-10": 1.0,
+      "2017-01": 1.0
+    },
+    "yearly_totals": {
+      "2022": 1.0,
+      "2017": 1.0
+    },
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

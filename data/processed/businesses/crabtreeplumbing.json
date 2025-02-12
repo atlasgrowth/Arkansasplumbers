@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "business_id": "crabtreeplumbing",
+    "place_id": "ChIJ97NraeNgM4YRMjcopSkIr4s",
+    "google_id": "0x863360e3696bb3f7:0x8baf0829a5283732"
+  },
+  "basic_info": {
+    "name": "Crabtree Plumbing",
+    "phone": "+1 870-557-2606",
+    "query_name": "",
+    "rating": 4.3,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7520156,
+    "longitude": -92.129428
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-12": 1.0,
+      "2018-07": 1.0,
+      "2020-01": 1.0,
+      "2020-07": 1.0,
+      "2021-04": 1.0,
+      "2024-02": 1.0,
+      "2017-09": 1.0,
+      "2021-01": 1.0
+    },
+    "yearly_totals": {
+      "2024": 2.0,
+      "2020": 2.0,
+      "2021": 2.0,
+      "2018": 1.0,
+      "2017": 1.0
+    },
+    "total_reviews": 7,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/CrabtreePlumbing/photos/",
+    "instagram": "",
+    "website": ""
+  }
+}

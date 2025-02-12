@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "outdoorcreations",
+    "place_id": "ChIJcVGdj-hTzYcRARju9jG9cIo",
+    "google_id": "0x87cd53e88f9d5171:0x8a70bd31f6ee1801"
+  },
+  "basic_info": {
+    "name": "Outdoor creations",
+    "phone": "+1 501-249-7102",
+    "query_name": "",
+    "rating": 3.4,
+    "working_hours": "{\"Monday\": \"7AM-9PM\", \"Tuesday\": \"7AM-9PM\", \"Wednesday\": \"7AM-9PM\", \"Thursday\": \"7AM-9PM\", \"Friday\": \"7AM-9PM\", \"Saturday\": \"9AM-2PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "314 W Woodlawn St, Benton, AR 72015",
+    "city": "Benton",
+    "state": "Arkansas",
+    "postal_code": 72015,
+    "latitude": 34.5455577,
+    "longitude": -92.5904606
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 5,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

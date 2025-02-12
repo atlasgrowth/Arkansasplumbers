@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "business_id": "trenchlessleakdetection",
+    "place_id": "ChIJPzQiXlK1y4cR3pUgna3WVlY",
+    "google_id": "0x87cbb5525e22343f:0x5656d6ad9d2095de"
+  },
+  "basic_info": {
+    "name": "Trenchless Leak Detection",
+    "phone": "+1 479-651-6022",
+    "query_name": "",
+    "rating": 4.3,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.5834046,
+    "longitude": -94.2052644
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2023-10": 1.0,
+      "2020-01": 2.0,
+      "2019-12": 1.0,
+      "2019-10": 3.0,
+      "2022-01": 1.0,
+      "2023-08": 1.0,
+      "2022-07": 1.0,
+      "2019-09": 1.0
+    },
+    "yearly_totals": {
+      "2020": 2.0,
+      "2022": 2.0,
+      "2023": 2.0,
+      "2019": 5.0
+    },
+    "total_reviews": 11,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

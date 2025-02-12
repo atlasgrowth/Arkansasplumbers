@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "craigbaileybackhoeinc",
+    "place_id": "ChIJR9MjaDVFzIcR5avoJVl4HP4",
+    "google_id": "0x87cc45356823d347:0xfe1c785925e8abe5"
+  },
+  "basic_info": {
+    "name": "Craig Bailey Backhoe Inc \u00b7",
+    "phone": "+1 479-970-4944",
+    "query_name": "",
+    "rating": 3.7,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1265 Georgetown Rd, London, AR 72847",
+    "city": "London",
+    "state": "Arkansas",
+    "postal_code": 72847,
+    "latitude": 35.347581,
+    "longitude": -93.2792
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

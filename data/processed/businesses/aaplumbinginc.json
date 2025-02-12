@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "aaplumbinginc",
+    "place_id": "ChIJtXNdQlU8zocREovDl_OWlWM",
+    "google_id": "0x87ce3c55425d73b5:0x639596f397c38b12"
+  },
+  "basic_info": {
+    "name": "A & A Plumbing Inc",
+    "phone": "+1 870-449-2092",
+    "query_name": "",
+    "rating": 3.9,
+    "working_hours": "{\"Monday\": \"9AM-5PM\", \"Tuesday\": \"9AM-5PM\", \"Wednesday\": \"9AM-5PM\", \"Thursday\": \"9AM-5PM\", \"Friday\": \"9AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1507 Marion County 8052, Yellville, AR 72687",
+    "city": "Yellville",
+    "state": "Arkansas",
+    "postal_code": 72687,
+    "latitude": 36.2782518,
+    "longitude": -92.6581164
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 7,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

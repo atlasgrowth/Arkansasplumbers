@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "business_id": "risnercantrellpumpservice",
+    "place_id": "ChIJ10V04awTEQYRoy6pQfwYgjQ",
+    "google_id": "0x61113ace17445d7:0x348218fc41a92ea3"
+  },
+  "basic_info": {
+    "name": "Risner Cantrell Pump Service",
+    "phone": "+1 870-321-6062",
+    "query_name": "",
+    "rating": 4.8,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "4106 AR-5, Mountain Home, AR 72653",
+    "city": "Mountain Home",
+    "state": "Arkansas",
+    "postal_code": 72653,
+    "latitude": 36.3685648,
+    "longitude": -92.4347029
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 3.0,
+      "2024-10": 1.0,
+      "2024-11": 1.0,
+      "2024-12": 1.0,
+      "2025-01": 2.0,
+      "2023-09": 1.0,
+      "2023-11": 1.0,
+      "2024-01": 1.0,
+      "2024-08": 1.0,
+      "2023-01": 1.0,
+      "2023-12": 2.0,
+      "2024-09": 1.0,
+      "2023-06": 1.0,
+      "2024-02": 3.0,
+      "2024-03": 1.0,
+      "2024-04": 1.0
+    },
+    "yearly_totals": {
+      "2024": 14.0,
+      "2025": 2.0,
+      "2023": 6.0
+    },
+    "total_reviews": 19,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

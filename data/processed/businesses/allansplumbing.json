@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "allansplumbing",
+    "place_id": "ChIJN5VGPlD_LYYR7Ou8OYLzgow",
+    "google_id": "0x862dff503e469537:0x8c82f38239bcebec"
+  },
+  "basic_info": {
+    "name": "Allan's Plumbing",
+    "phone": "+1 870-310-4848",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "456 Old Strong Hwy, El Dorado, AR 71730",
+    "city": "El Dorado",
+    "state": "Arkansas",
+    "postal_code": 71730,
+    "latitude": 33.135135,
+    "longitude": -92.4515522
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-04": 1.0,
+      "2021-03": 1.0
+    },
+    "yearly_totals": {
+      "2020": 1.0,
+      "2021": 1.0
+    },
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

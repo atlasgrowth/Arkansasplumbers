@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "business_id": "bakersplumbingservice",
+    "place_id": "ChIJaYBORYcg0ocReXr0lie2WsU",
+    "google_id": "0x87d22087454e8069:0xc55ab62796f47a79"
+  },
+  "basic_info": {
+    "name": "Baker's Plumbing Service",
+    "phone": "+1 870-214-1018",
+    "query_name": "",
+    "rating": 3.6,
+    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "367 Dogwood Hollow Rd, Mountain View, AR 72560",
+    "city": "Mountain View",
+    "state": "Arkansas",
+    "postal_code": 72560,
+    "latitude": 35.890652,
+    "longitude": -92.105122
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2023-09": 1.0,
+      "2018-10": 1.0,
+      "2019-03": 1.0,
+      "2020-10": 1.0,
+      "2020-11": 1.0,
+      "2020-08": 1.0,
+      "2019-09": 1.0
+    },
+    "yearly_totals": {
+      "2020": 3.0,
+      "2023": 1.0,
+      "2018": 1.0,
+      "2019": 2.0
+    },
+    "total_reviews": 7,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

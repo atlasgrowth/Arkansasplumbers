@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "business_id": "handyandyhandymanservices",
+    "place_id": "ChIJNyBncJbPRIYRSrvWOEOgNq8",
+    "google_id": "0x8644cf9670672037:0xaf36a04338d6bb4a"
+  },
+  "basic_info": {
+    "name": "Handy Andy handyman services",
+    "phone": "+1 512-436-5077",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7:30AM-3PM\", \"Tuesday\": \"7:30AM-3PM\", \"Wednesday\": \"7:30AM-3PM\", \"Thursday\": \"7:30AM-3PM\", \"Friday\": \"7:30AM-3PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.723368,
+    "longitude": -92.3254075
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-12": 3.0,
+      "2021-03": 2.0,
+      "2021-04": 1.0,
+      "2021-08": 1.0,
+      "2022-04": 1.0,
+      "2021-01": 2.0,
+      "2021-05": 1.0
+    },
+    "yearly_totals": {
+      "2020": 3.0,
+      "2021": 7.0,
+      "2022": 1.0
+    },
+    "total_reviews": 11,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "coleplumbingandrepairservices",
+    "place_id": "ChIJzRfF3YK3y4cRZk9nSZcivVw",
+    "google_id": "0x87cbb782ddc517cd:0x5cbd229749674f66"
+  },
+  "basic_info": {
+    "name": "Cole Plumbing and Repair Services",
+    "phone": "+1 479-461-8137",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1034 Sunny Slope Dr, Alma, AR 72921",
+    "city": "Alma",
+    "state": "Arkansas",
+    "postal_code": 72921,
+    "latitude": 35.4500427,
+    "longitude": -94.2426261
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2017-12": 2.0
+    },
+    "yearly_totals": {
+      "2017": 2.0
+    },
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

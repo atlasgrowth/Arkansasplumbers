@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "aplusplumbingmechanical",
+    "place_id": "ChIJVVVVVUWp0ocRWXif5fdDDYk",
+    "google_id": "0x87d2a94555555555:0x890d43f7e59f7859"
+  },
+  "basic_info": {
+    "name": "A-Plus Plumbing & Mechanical",
+    "phone": "+1 501-888-3897",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "Mabelvale, AR 72103",
+    "city": "Mabelvale",
+    "state": "Arkansas",
+    "postal_code": 72103,
+    "latitude": 34.5848727,
+    "longitude": -92.3912362
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2019-11": 1.0
+    },
+    "yearly_totals": {
+      "2019": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

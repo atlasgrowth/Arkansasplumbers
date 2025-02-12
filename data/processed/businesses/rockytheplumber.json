@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "rockytheplumber",
+    "place_id": "ChIJNeoNdZtryYcR-sb2NhJxu8c",
+    "google_id": "0x87c96b9b750dea35:0xc7bb711236f6c6fa"
+  },
+  "basic_info": {
+    "name": "Rocky the Plumber",
+    "phone": "+1 479-409-5733",
+    "query_name": "",
+    "rating": 4.6,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"8AM-5PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "301 Wayland Ave, Springdale, AR 72764",
+    "city": "Springdale",
+    "state": "Arkansas",
+    "postal_code": 72764,
+    "latitude": 36.1765206,
+    "longitude": -94.1331141
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 5,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

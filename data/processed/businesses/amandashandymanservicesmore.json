@@ -1,0 +1,48 @@
+{
+  "ids": {
+    "business_id": "amandashandymanservicesmore",
+    "place_id": "ChIJI6HZBWTb04cRHxJJNyg2A-U",
+    "google_id": "0x87d3db6405d9a123:0xe50336283749121f"
+  },
+  "basic_info": {
+    "name": "Amanda's Handyman Services & More",
+    "phone": "+1 501-294-8580",
+    "query_name": "",
+    "rating": 4,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"8AM-6PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "3515 Harrison St Apt #1, Batesville, AR 72501",
+    "city": "Batesville",
+    "state": "Arkansas",
+    "postal_code": 72501,
+    "latitude": 35.7705504,
+    "longitude": -91.6037589
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2023-03": 1.0,
+      "2023-09": 1.0,
+      "2021-10": 1.0,
+      "2021-09": 1.0,
+      "2022-02": 1.0
+    },
+    "yearly_totals": {
+      "2021": 2.0,
+      "2022": 1.0,
+      "2023": 2.0
+    },
+    "total_reviews": 5,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "danowenscompanyincplumbingdivision",
+    "place_id": "ChIJe6t9VsdTzIcRulILyt8dPaI",
+    "google_id": "0x87cc53c7567dab7b:0xa23d1ddfca0b52ba"
+  },
+  "basic_info": {
+    "name": "Dan Owens Company Inc. Plumbing Division",
+    "phone": "+1 479-264-1651",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.2876542,
+    "longitude": -93.1344042
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

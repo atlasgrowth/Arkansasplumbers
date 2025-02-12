@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "wolfsplumbing",
+    "place_id": "ChIJ7WdLMkIlzYcRxqsQUlab4wk",
+    "google_id": "0x87cd2542324b67ed:0x9e39b565210abc6"
+  },
+  "basic_info": {
+    "name": "Wolf's Plumbing",
+    "phone": "+1 501-282-5363",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "124 Leatherwood Loop, Hot Springs, AR 71901",
+    "city": "Hot Springs",
+    "state": "Arkansas",
+    "postal_code": 71901,
+    "latitude": 34.4572516,
+    "longitude": -92.95359
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2019-01": 1.0,
+      "2022-10": 1.0
+    },
+    "yearly_totals": {
+      "2022": 1.0,
+      "2019": 1.0
+    },
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "leesmithplumbingco",
+    "place_id": "ChIJa-FxKV87LYYRg6NP8wVJRDM",
+    "google_id": "0x862d3b5f2971e16b:0x33444905f34fa383"
+  },
+  "basic_info": {
+    "name": "Lee Smith Plumbing Co",
+    "phone": "+1 870-329-6177",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"7:30AM-5PM\", \"Tuesday\": \"7:30AM-5PM\", \"Wednesday\": \"7:30AM-5PM\", \"Thursday\": \"7:30AM-5PM\", \"Friday\": \"7:30AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "Pine Bluff, AR 71603",
+    "city": "Pine Bluff",
+    "state": "Arkansas",
+    "postal_code": 71603,
+    "latitude": 34.2284223,
+    "longitude": -92.0031952
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

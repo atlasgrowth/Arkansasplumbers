@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "business_id": "mcplumbingsolutions",
+    "place_id": "ChIJDe2lPGPb1IcR1JJOWwi-L0g",
+    "google_id": "0x87d4db633ca5ed0d:0x482fbe085b4e92d4"
+  },
+  "basic_info": {
+    "name": "M.C.Plumbing Solutions",
+    "phone": "+1 870-317-1725",
+    "query_name": "",
+    "rating": 3.3,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.784144,
+    "longitude": -90.924163
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-06": 1.0,
+      "2021-03": 1.0,
+      "2020-05": 1.0
+    },
+    "yearly_totals": {
+      "2020": 1.0,
+      "2021": 2.0
+    },
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

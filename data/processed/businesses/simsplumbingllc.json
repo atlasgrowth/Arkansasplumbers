@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "simsplumbingllc",
+    "place_id": "ChIJU8NrPshFzYcRkgPf_3v036A",
+    "google_id": "0x87cd45c83e6bc353:0xa0dff47bffdf0392"
+  },
+  "basic_info": {
+    "name": "Sims Plumbing LLC",
+    "phone": "+1 501-326-2290",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.6779452,
+    "longitude": -92.4023847
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2022-09": 1.0
+    },
+    "yearly_totals": {
+      "2022": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

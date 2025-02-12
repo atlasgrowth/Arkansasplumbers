@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "business_id": "performanceplumbinginc",
+    "place_id": "ChIJw3XZjMnSzocR8shWy5mt75Q",
+    "google_id": "0x87ced2c98cd975c3:0x94efad99cb56c8f2"
+  },
+  "basic_info": {
+    "name": "Performance Plumbing Inc",
+    "phone": "+1 479-244-5335",
+    "query_name": "",
+    "rating": 3.5,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "Eureka Springs, AR 72632",
+    "city": "Eureka Springs",
+    "state": "Arkansas",
+    "postal_code": 72632,
+    "latitude": 36.401183,
+    "longitude": -93.737971
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-12": 1.0,
+      "2025-01": 2.0,
+      "2020-12": 1.0,
+      "2018-10": 1.0,
+      "2019-10": 1.0,
+      "2019-09": 1.0,
+      "2016-05": 1.0,
+      "2016-10": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2025": 2.0,
+      "2020": 1.0,
+      "2018": 1.0,
+      "2019": 2.0,
+      "2016": 2.0
+    },
+    "total_reviews": 6,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/PerformancePlumbingInc/",
+    "instagram": "",
+    "website": ""
+  }
+}

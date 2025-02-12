@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "business_id": "chrisdyerplumbinginc",
+    "place_id": "ChIJUfFRmZxNzYcR48MMQvHu3RA",
+    "google_id": "0x87cd4d9c9951f151:0x10ddeef1420cc3e3"
+  },
+  "basic_info": {
+    "name": "Chris Dyer Plumbing Inc",
+    "phone": "+1 501-672-0452",
+    "query_name": "",
+    "rating": 3.4,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "316 Turtle Creek Rd, Benton, AR 72015",
+    "city": "Benton",
+    "state": "Arkansas",
+    "postal_code": 72015,
+    "latitude": 34.5298537,
+    "longitude": -92.6303563
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2018-10": 1.0,
+      "2018-05": 1.0,
+      "2021-07": 1.0,
+      "2019-12": 1.0,
+      "2019-01": 1.0,
+      "2019-07": 1.0,
+      "2019-10": 1.0,
+      "2018-02": 1.0,
+      "2019-06": 1.0,
+      "2020-09": 1.0,
+      "2021-01": 1.0,
+      "2021-09": 2.0,
+      "2021-05": 1.0,
+      "2018-08": 1.0
+    },
+    "yearly_totals": {
+      "2020": 1.0,
+      "2021": 5.0,
+      "2018": 4.0,
+      "2019": 5.0
+    },
+    "total_reviews": 15,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

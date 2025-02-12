@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "business_id": "anthonyplumbing",
+    "place_id": "ChIJLcpQANVSLIYRzAx7hi2D4fY",
+    "google_id": "0x862c52d50050ca2d:0xf6e1832d867b0ccc"
+  },
+  "basic_info": {
+    "name": "Anthony Plumbing",
+    "phone": "+1 870-723-4567",
+    "query_name": "",
+    "rating": 3.7,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "118 Beard Hill Dr, Monticello, AR 71655",
+    "city": "Monticello",
+    "state": "Arkansas",
+    "postal_code": 71655,
+    "latitude": 33.6462051,
+    "longitude": -91.8295126
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-06": 1.0,
+      "2018-01": 1.0,
+      "2019-05": 1.0,
+      "2021-04": 1.0,
+      "2019-06": 1.0,
+      "2022-02": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2021": 1.0,
+      "2022": 1.0,
+      "2018": 1.0,
+      "2019": 2.0
+    },
+    "total_reviews": 6,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

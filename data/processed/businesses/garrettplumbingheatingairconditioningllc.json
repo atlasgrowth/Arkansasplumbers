@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "garrettplumbingheatingairconditioningllc",
+    "place_id": "ChIJs98FOy2qy4cRhXAlmDrySOQ",
+    "google_id": "0x87cbaa2d3b05dfb3:0xe448f23a98257085"
+  },
+  "basic_info": {
+    "name": "Garrett Plumbing, Heating & Air Conditioning LLC",
+    "phone": "+1 479-252-0561",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.0032971,
+    "longitude": -96.3217049
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

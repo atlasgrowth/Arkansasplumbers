@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "lambuildingmaintenance",
+    "place_id": "ChIJC3_egd51f4gRdpop4oG0td8",
+    "google_id": "0x887f75de81de7f0b:0xdfb5b481e2299a76"
+  },
+  "basic_info": {
+    "name": "Lam Building Maintenance",
+    "phone": "+1 901-318-1829",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"8AM-6PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.3232655,
+    "longitude": -89.8901766
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

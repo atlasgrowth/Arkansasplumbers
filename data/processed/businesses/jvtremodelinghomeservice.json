@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "jvtremodelinghomeservice",
+    "place_id": "ChIJNyZXsmBpW2YRLcv2JrAFnWU",
+    "google_id": "0x665b6960b2572637:0x659d05b026f6cb2d"
+  },
+  "basic_info": {
+    "name": "JVT Remodeling & Home Service",
+    "phone": "+1 573-712-6205",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7AM-6PM\", \"Tuesday\": \"7AM-6PM\", \"Wednesday\": \"7AM-6PM\", \"Thursday\": \"7AM-6PM\", \"Friday\": \"7AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.6067783,
+    "longitude": -90.2822344
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-09": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

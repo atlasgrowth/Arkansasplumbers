@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "bobbysplumbingservicesinc",
+    "place_id": "ChIJAUDzqv-sy4cREQpXHYpHSmc",
+    "google_id": "0x87cbacffaaf34001:0x674a478a1d570a11"
+  },
+  "basic_info": {
+    "name": "Bobby's Plumbing Services Inc",
+    "phone": "+1 479-648-3749",
+    "query_name": "",
+    "rating": 3,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "12518 Windy Acres Point, Fort Smith, AR 72916",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "postal_code": 72916,
+    "latitude": 35.265611,
+    "longitude": -94.3594999
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-10": 1.0,
+      "2023-05": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2023": 1.0
+    },
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/BobbysPlumbingInc/photos/",
+    "instagram": "",
+    "website": ""
+  }
+}

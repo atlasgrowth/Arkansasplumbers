@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "business_id": "assurefixplumbing",
+    "place_id": "ChIJ9YKECj6G0ocRL3OFlGgcJIc",
+    "google_id": "0x87d2863e0a8482f5:0x87241c689485732f"
+  },
+  "basic_info": {
+    "name": "Assure Fix Plumbing",
+    "phone": "+1 501-327-3295",
+    "query_name": "",
+    "rating": 3.9,
+    "working_hours": "{\"Monday\": \"9AM-5PM\", \"Tuesday\": \"9AM-5PM\", \"Wednesday\": \"9AM-5PM\", \"Thursday\": \"9AM-5PM\", \"Friday\": \"9AM-5PM\", \"Saturday\": \"9AM-5PM\", \"Sunday\": \"9AM-5PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "141 Williams Ranch Rd, Conway, AR 72032",
+    "city": "Conway",
+    "state": "Arkansas",
+    "postal_code": 72032,
+    "latitude": 35.128055,
+    "longitude": -92.317252
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-02": 1.0,
+      "2021-06": 1.0,
+      "2021-11": 1.0,
+      "2020-01": 1.0,
+      "2019-12": 1.0,
+      "2018-12": 1.0,
+      "2021-03": 2.0,
+      "2019-11": 1.0,
+      "2019-06": 2.0,
+      "2020-11": 2.0,
+      "2021-01": 1.0,
+      "2018-04": 1.0,
+      "2018-09": 1.0
+    },
+    "yearly_totals": {
+      "2020": 4.0,
+      "2021": 5.0,
+      "2018": 3.0,
+      "2019": 4.0
+    },
+    "total_reviews": 16,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/AssureFixPlumbing/",
+    "instagram": "",
+    "website": ""
+  }
+}

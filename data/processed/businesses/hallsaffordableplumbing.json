@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "business_id": "hallsaffordableplumbing",
+    "place_id": "ChIJs4YUUe6n0ocRMmUM6sEyo8Y",
+    "google_id": "0x87d2a7ee511486b3:0xc6a332c1ea0c6532"
+  },
+  "basic_info": {
+    "name": "Hall's Affordable Plumbing",
+    "phone": "+1 501-297-0723",
+    "query_name": "",
+    "rating": 4.9,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"10AM-3:30AM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "8501 Crystal Valley Lateral, Little Rock, AR 72210",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72210,
+    "latitude": 34.6756348,
+    "longitude": -92.4486949
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 1.0,
+      "2024-11": 1.0,
+      "2025-02": 1.0,
+      "2020-03": 1.0,
+      "2020-04": 1.0,
+      "2020-12": 1.0,
+      "2021-06": 1.0,
+      "2022-08": 1.0,
+      "2023-11": 1.0,
+      "2024-01": 3.0,
+      "2024-08": 2.0,
+      "2021-02": 4.0,
+      "2020-01": 1.0,
+      "2021-07": 1.0,
+      "2021-12": 1.0,
+      "2023-12": 5.0,
+      "2019-05": 1.0,
+      "2019-08": 2.0,
+      "2024-09": 2.0,
+      "2021-03": 2.0,
+      "2021-04": 1.0,
+      "2022-03": 1.0,
+      "2023-05": 1.0,
+      "2023-08": 1.0,
+      "2023-06": 1.0,
+      "2024-03": 2.0,
+      "2020-10": 1.0,
+      "2020-11": 2.0,
+      "2022-10": 1.0,
+      "2022-11": 1.0,
+      "2018-03": 1.0,
+      "2021-05": 2.0,
+      "2019-09": 2.0
+    },
+    "yearly_totals": {
+      "2024": 11.0,
+      "2025": 1.0,
+      "2020": 7.0,
+      "2021": 12.0,
+      "2022": 4.0,
+      "2023": 9.0,
+      "2018": 1.0,
+      "2019": 5.0
+    },
+    "total_reviews": 49,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/affordyourplumbing/",
+    "instagram": "",
+    "website": ""
+  }
+}

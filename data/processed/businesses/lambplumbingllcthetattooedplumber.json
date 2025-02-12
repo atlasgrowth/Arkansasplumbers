@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "business_id": "lambplumbingllcthetattooedplumber",
+    "place_id": "ChIJrYBkFHn2ai4R3wmqRJk9OnE",
+    "google_id": "0x2e6af679146480ad:0x713a3d9944aa09df"
+  },
+  "basic_info": {
+    "name": "Lamb Plumbing LLC The Tattooed Plumber",
+    "phone": "+1 501-617-1271",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7AM-4PM\", \"Tuesday\": \"7AM-4PM\", \"Wednesday\": \"7AM-4PM\", \"Thursday\": \"7AM-4PM\", \"Friday\": \"7AM-4PM\", \"Saturday\": \"7AM-12PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.5034331,
+    "longitude": -93.175856
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 1.0,
+      "2024-12": 1.0,
+      "2025-01": 1.0,
+      "2021-11": 3.0,
+      "2022-05": 2.0,
+      "2022-08": 1.0,
+      "2022-09": 1.0,
+      "2023-09": 2.0,
+      "2023-10": 1.0,
+      "2024-08": 1.0,
+      "2023-01": 1.0,
+      "2023-04": 1.0,
+      "2021-12": 1.0,
+      "2024-09": 1.0,
+      "2022-03": 1.0,
+      "2023-05": 1.0,
+      "2023-07": 1.0,
+      "2023-08": 1.0,
+      "2023-06": 1.0,
+      "2024-02": 1.0,
+      "2024-03": 1.0,
+      "2021-10": 2.0,
+      "2022-04": 1.0,
+      "2021-09": 2.0,
+      "2022-10": 2.0,
+      "2022-12": 1.0,
+      "2024-04": 2.0
+    },
+    "yearly_totals": {
+      "2024": 8.0,
+      "2025": 1.0,
+      "2021": 8.0,
+      "2022": 9.0,
+      "2023": 9.0
+    },
+    "total_reviews": 33,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

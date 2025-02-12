@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "nodelaylandscaping",
+    "place_id": "ChIJ29j1aZSV0ocRaPQoPBIvWm4",
+    "google_id": "0x87d2959469f5d8db:0x6e5a2f123c28f468"
+  },
+  "basic_info": {
+    "name": "No delay landscaping",
+    "phone": "+1 501-424-6122",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-2PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7845994,
+    "longitude": -92.2973285
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-06": 1.0,
+      "2025-01": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2025": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

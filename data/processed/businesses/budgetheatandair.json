@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "budgetheatandair",
+    "place_id": "ChIJo9HuUpVN0ocRZUzLlafA9iY",
+    "google_id": "0x87d24d9552eed1a3:0x26f6c0a795cb4c65"
+  },
+  "basic_info": {
+    "name": "BUDGET HEAT AND AIR",
+    "phone": "+1 501-388-9488",
+    "query_name": "",
+    "rating": 4.8,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "104 Searcy, Pangburn, AR 72121",
+    "city": "Pangburn",
+    "state": "Arkansas",
+    "postal_code": 72121,
+    "latitude": 35.4219942,
+    "longitude": -91.8355965
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 27,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/profile.php?id=100057390851733",
+    "instagram": "",
+    "website": ""
+  }
+}

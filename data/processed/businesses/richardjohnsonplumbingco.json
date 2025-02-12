@@ -1,0 +1,48 @@
+{
+  "ids": {
+    "business_id": "richardjohnsonplumbingco",
+    "place_id": "ChIJFwSuelwnyocRYjxVccz2TNc",
+    "google_id": "0x87ca275c7aae0417:0xd74cf6cc71553c62"
+  },
+  "basic_info": {
+    "name": "Richard Johnson Plumbing Co",
+    "phone": "+1 918-456-1960",
+    "query_name": "",
+    "rating": 3.6,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "420 N 3rd St, Stilwell, OK 74960",
+    "city": "Stilwell",
+    "state": "Oklahoma",
+    "postal_code": 74960,
+    "latitude": 35.8193705,
+    "longitude": -94.6289847
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-06": 1.0,
+      "2021-12": 1.0,
+      "2019-04": 1.0,
+      "2022-01": 1.0,
+      "2022-07": 1.0
+    },
+    "yearly_totals": {
+      "2021": 2.0,
+      "2022": 2.0,
+      "2019": 1.0
+    },
+    "total_reviews": 5,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

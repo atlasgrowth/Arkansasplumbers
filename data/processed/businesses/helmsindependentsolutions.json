@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "helmsindependentsolutions",
+    "place_id": "ChIJVT4EqHwe_SER8XQq9bih768",
+    "google_id": "0x21fd1e7ca8043e55:0xafefa1b8f52a74f1"
+  },
+  "basic_info": {
+    "name": "Helms Independent Solutions",
+    "phone": "+1 870-656-8848",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-5AM\", \"Tuesday\": \"8AM-5AM\", \"Wednesday\": \"8AM-5AM\", \"Thursday\": \"8AM-5AM\", \"Friday\": \"8AM-5AM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.2363724,
+    "longitude": -92.3727538
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

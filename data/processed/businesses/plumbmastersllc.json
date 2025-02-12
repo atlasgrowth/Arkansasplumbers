@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "plumbmastersllc",
+    "place_id": "ChIJ1-ZTlACbX4cR-ZTK5PCzjVg",
+    "google_id": "0x875f9b009453e6d7:0x588db3f0e4ca94f9"
+  },
+  "basic_info": {
+    "name": "Plumb Masters LLC",
+    "phone": "+1 417-331-2620",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-4:30PM\", \"Tuesday\": \"8AM-4:30PM\", \"Wednesday\": \"8AM-4:30PM\", \"Thursday\": \"8AM-4:30PM\", \"Friday\": \"8AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.647616,
+    "longitude": -93.2630325
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

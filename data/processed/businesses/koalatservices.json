@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "koalatservices",
+    "place_id": "ChIJB8rUSu9ZzYcRBCDVwtf__SA",
+    "google_id": "0x87cd59ef4ad4ca07:0x20fdffd7c2d52004"
+  },
+  "basic_info": {
+    "name": "Koala-T Services",
+    "phone": "+1 501-308-2262",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7057699,
+    "longitude": -92.40365
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

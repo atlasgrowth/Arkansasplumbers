@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "benefitplumbing",
+    "place_id": "ChIJPQrnZP9gM4YRFwQrGB1GSAc",
+    "google_id": "0x863360ff64e70a3d:0x748461d182b0417"
+  },
+  "basic_info": {
+    "name": "Benefit Plumbing",
+    "phone": "+1 870-828-0503",
+    "query_name": "",
+    "rating": 3,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "628 W Main, Murfreesboro, AR 71958",
+    "city": "Murfreesboro",
+    "state": "Arkansas",
+    "postal_code": 71958,
+    "latitude": 34.0572842,
+    "longitude": -93.7014298
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 1.0,
+      "2021-07": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2021": 1.0
+    },
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

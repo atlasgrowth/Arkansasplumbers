@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "jlsplumbingandservicecompany",
+    "place_id": "ChIJ13hzZfGX0ocRFXqxtfRUx9w",
+    "google_id": "0x87d297f1657378d7:0xdcc754f4b5b17a15"
+  },
+  "basic_info": {
+    "name": "JLS Plumbing and Service Company",
+    "phone": "+1 501-580-7480",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"6AM-6PM\", \"Tuesday\": \"6AM-6PM\", \"Wednesday\": \"6AM-6PM\", \"Thursday\": \"6AM-6PM\", \"Friday\": \"6AM-6PM\", \"Saturday\": \"6AM-6PM\", \"Sunday\": \"6AM-6PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7520156,
+    "longitude": -92.129428
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/JLSPlumbingAR/",
+    "instagram": "",
+    "website": ""
+  }
+}

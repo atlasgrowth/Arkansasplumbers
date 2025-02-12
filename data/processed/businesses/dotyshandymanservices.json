@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "dotyshandymanservices",
+    "place_id": "ChIJybKL2W5TzIcRyg3V3rabb9A",
+    "google_id": "0x87cc536ed98bb2c9:0xd06f9bb6ded50dca"
+  },
+  "basic_info": {
+    "name": "Dotys Handyman services",
+    "phone": "+1 479-970-7180",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.2485742,
+    "longitude": -93.0717196
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

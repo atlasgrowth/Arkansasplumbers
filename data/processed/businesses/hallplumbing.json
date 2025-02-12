@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "business_id": "hallplumbing",
+    "place_id": "ChIJce2uq7ex0ocRn5c7USZoV6s",
+    "google_id": "0x87d2b1b7abaeed71:0xab576826513b979f"
+  },
+  "basic_info": {
+    "name": "Hall Plumbing",
+    "phone": "+1 501-888-2518",
+    "query_name": "",
+    "rating": 4.7,
+    "working_hours": "{\"Monday\": \"7AM-4PM\", \"Tuesday\": \"7AM-4PM\", \"Wednesday\": \"7AM-4PM\", \"Thursday\": \"7AM-4PM\", \"Friday\": \"7AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.567898,
+    "longitude": -92.3540615
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-12": 1.0,
+      "2020-10": 1.0,
+      "2021-01": 1.0
+    },
+    "yearly_totals": {
+      "2020": 2.0,
+      "2021": 1.0
+    },
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

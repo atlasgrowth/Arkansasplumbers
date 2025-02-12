@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "qualityplumbingsolutions",
+    "place_id": "ChIJIxGltkcTZYkR1CN3FFW0MAo",
+    "google_id": "0x89651347b6a51123:0xa30b455147723d4"
+  },
+  "basic_info": {
+    "name": "Quality Plumbing Solutions",
+    "phone": "+1 870-319-5360",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-5AM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.9082198,
+    "longitude": -90.9839826
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

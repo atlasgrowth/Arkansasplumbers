@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "chrismagnessplumbing",
+    "place_id": "ChIJs7AAYjsp1IcRd1qa1OgBeks",
+    "google_id": "0x87d4293b6200b0b3:0x4b7a01e8d49a5a77"
+  },
+  "basic_info": {
+    "name": "Chris Magness Plumbing",
+    "phone": "+1 870-926-1190",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "5115 Peachtree Ave, Jonesboro, AR 72401",
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "postal_code": 72401,
+    "latitude": 35.8746341,
+    "longitude": -90.6260331
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/people/Chris-Magness-Plumbing-LLC/100089877196904/",
+    "instagram": "",
+    "website": ""
+  }
+}

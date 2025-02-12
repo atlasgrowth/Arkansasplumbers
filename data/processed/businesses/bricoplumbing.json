@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "business_id": "bricoplumbing",
+    "place_id": "ChIJQVuIS4yvzIcRowle2CTbCwI",
+    "google_id": "0x87ccaf8c4b885b41:0x20bdb24d85e09a3"
+  },
+  "basic_info": {
+    "name": "Brico Plumbing",
+    "phone": "+1 870-490-1424",
+    "query_name": "",
+    "rating": 4,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "109 Humble Ln, Mt Ida, AR 71957",
+    "city": "Mt Ida",
+    "state": "Arkansas",
+    "postal_code": 71957,
+    "latitude": 34.5492009,
+    "longitude": -93.641536
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-12": 1.0,
+      "2021-06": 2.0,
+      "2022-09": 1.0,
+      "2023-01": 1.0,
+      "2023-04": 2.0,
+      "2024-09": 1.0,
+      "2020-07": 2.0,
+      "2021-03": 1.0,
+      "2021-04": 1.0,
+      "2022-01": 1.0,
+      "2022-03": 1.0,
+      "2020-09": 1.0,
+      "2021-01": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2020": 4.0,
+      "2021": 5.0,
+      "2022": 3.0,
+      "2023": 3.0
+    },
+    "total_reviews": 16,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

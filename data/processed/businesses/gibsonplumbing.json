@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "gibsonplumbing",
+    "place_id": "ChIJCXQyG7TjSogRYDzm8xStzAk",
+    "google_id": "0x884ae3b41b327409:0x9ccad14f3e63c60"
+  },
+  "basic_info": {
+    "name": "Gibson Plumbing",
+    "phone": "+1 304-614-8911",
+    "query_name": "",
+    "rating": 1,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "RR 3 Box 124, Elkins, WV 26241",
+    "city": "Elkins",
+    "state": "West Virginia",
+    "postal_code": 26241,
+    "latitude": 38.9271011,
+    "longitude": -79.8473587
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

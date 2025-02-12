@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "kurtsseweranddrains",
+    "place_id": "ChIJ62SbO17V1IcR5bpAwZ4AHmQ",
+    "google_id": "0x87d4d55e3b9b64eb:0x641e009ec140bae5"
+  },
+  "basic_info": {
+    "name": "Kurt's sewer and drain's",
+    "phone": "+1 870-995-0483",
+    "query_name": "",
+    "rating": 1,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.5612287,
+    "longitude": -90.6933808
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

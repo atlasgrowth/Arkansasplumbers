@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "jerrysplumbing",
+    "place_id": "ChIJ4R35hVgZyYcRtWaZ2pEeZbg",
+    "google_id": "0x87c9195885f91de1:0xb8651e91da9966b5"
+  },
+  "basic_info": {
+    "name": "Jerry's Plumbing",
+    "phone": "+1 479-409-5507",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7:30AM-4:30PM\", \"Tuesday\": \"7:30AM-4:30PM\", \"Wednesday\": \"7:30AM-4:30PM\", \"Thursday\": \"7:30AM-4:30PM\", \"Friday\": \"7:30AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "14186 Mariano Rd, Bentonville, AR 72712",
+    "city": "Bentonville",
+    "state": "Arkansas",
+    "postal_code": 72712,
+    "latitude": 36.4394432,
+    "longitude": -94.1493971
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 8,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

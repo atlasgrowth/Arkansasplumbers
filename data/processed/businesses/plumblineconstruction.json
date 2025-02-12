@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "plumblineconstruction",
+    "place_id": "ChIJA1D4USx2S6MR0bPccNMrpw0",
+    "google_id": "0xa34b762c51f85003:0xda72bd370dcb3d1"
+  },
+  "basic_info": {
+    "name": "Plumb Line Construction",
+    "phone": "+1 870-416-1425",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7AM-7PM\", \"Tuesday\": \"7AM-7PM\", \"Wednesday\": \"7AM-7PM\", \"Thursday\": \"7AM-7PM\", \"Friday\": \"7AM-7PM\", \"Saturday\": \"7AM-7PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.3972352,
+    "longitude": -93.1302054
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2023-07": 1.0
+    },
+    "yearly_totals": {
+      "2023": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

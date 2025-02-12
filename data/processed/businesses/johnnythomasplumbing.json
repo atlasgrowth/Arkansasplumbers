@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "business_id": "johnnythomasplumbing",
+    "place_id": "ChIJJUc7qlIm1IcRx-cCCiI_yP0",
+    "google_id": "0x87d42652aa3b4725:0xfdc83f220a02e7c7"
+  },
+  "basic_info": {
+    "name": "Johnny Thomas Plumbing",
+    "phone": "+1 501-276-4225",
+    "query_name": "",
+    "rating": 3.8,
+    "working_hours": "{\"Monday\": \"7AM-3:30PM\", \"Tuesday\": \"7AM-3:30PM\", \"Wednesday\": \"7AM-3:30PM\", \"Thursday\": \"7AM-3:30PM\", \"Friday\": \"7AM-3:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.1056242,
+    "longitude": -90.7795708
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-10": 1.0,
+      "2020-02": 1.0,
+      "2020-03": 5.0,
+      "2020-04": 1.0,
+      "2020-06": 1.0,
+      "2020-12": 1.0,
+      "2021-06": 1.0,
+      "2021-11": 1.0,
+      "2022-05": 1.0,
+      "2022-06": 1.0,
+      "2022-08": 1.0,
+      "2022-09": 1.0,
+      "2023-03": 2.0,
+      "2023-09": 2.0,
+      "2023-10": 1.0,
+      "2023-11": 1.0,
+      "2024-01": 1.0
+    },
+    "yearly_totals": {
+      "2024": 2.0,
+      "2020": 9.0,
+      "2021": 2.0,
+      "2022": 4.0,
+      "2023": 6.0
+    },
+    "total_reviews": 23,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/thomasplumbingnc/photos/a.452405398162473/4308116962591278/?type=3",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "randyshvacllc",
+    "place_id": "ChIJ4fjTltLrM4YRCloQzpx1NDg",
+    "google_id": "0x8633ebd296d3f8e1:0x3834759cce105a0a"
+  },
+  "basic_info": {
+    "name": "Randy's HVAC, LLC",
+    "phone": "+1 870-953-1931",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 33.3473986,
+    "longitude": -93.4948216
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/randyshvac/",
+    "instagram": "",
+    "website": ""
+  }
+}

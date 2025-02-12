@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "business_id": "plumbcrazy",
+    "place_id": "ChIJO_NV-KicM4YRSqclbdyVaOQ",
+    "google_id": "0x86339ca8f855f33b:0xe46895dc6d25a74a"
+  },
+  "basic_info": {
+    "name": "Plumb Crazy",
+    "phone": "+1 870-397-0019",
+    "query_name": "",
+    "rating": 4.6,
+    "working_hours": "",
+    "business_status": "CLOSED_TEMPORARILY"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7520156,
+    "longitude": -92.129428
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-02": 2.0,
+      "2020-01": 2.0,
+      "2019-12": 1.0,
+      "2020-09": 1.0,
+      "2018-08": 1.0,
+      "2016-12": 1.0,
+      "2017-01": 2.0
+    },
+    "yearly_totals": {
+      "2020": 5.0,
+      "2018": 1.0,
+      "2019": 1.0,
+      "2017": 2.0,
+      "2016": 1.0
+    },
+    "total_reviews": 10,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/plumbcrazyinc/",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "business_id": "handymandys",
+    "place_id": "ChIJQWAZxLzb04cRfcbivvlA0JQ",
+    "google_id": "0x87d3dbbcc4196041:0x94d040f9bee2c67d"
+  },
+  "basic_info": {
+    "name": "Handy Mandy's",
+    "phone": "+1 501-294-8580",
+    "query_name": "",
+    "rating": 2.8,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"9AM-5PM\", \"Sunday\": \"12:30-5PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "339 Heber Springs Rd, Batesville, AR 72501",
+    "city": "Batesville",
+    "state": "Arkansas",
+    "postal_code": 72501,
+    "latitude": 35.7408457,
+    "longitude": -91.649196
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2022-05": 3.0,
+      "2022-06": 1.0,
+      "2023-09": 1.0,
+      "2023-11": 1.0,
+      "2022-07": 1.0,
+      "2022-04": 1.0,
+      "2021-09": 1.0
+    },
+    "yearly_totals": {
+      "2021": 1.0,
+      "2022": 6.0,
+      "2023": 2.0
+    },
+    "total_reviews": 9,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

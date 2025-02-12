@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "shebeesdistributing",
+    "place_id": "ChIJMyNIJbhf0ocR7onuk5jmM1A",
+    "google_id": "0x87d25fb825482333:0x5033e69893ee89ee"
+  },
+  "basic_info": {
+    "name": "Shebees Distributing",
+    "phone": "+1 870-656-1035",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1392 AR-36, Mt Vernon, AR 72111",
+    "city": "Mt Vernon",
+    "state": "Arkansas",
+    "postal_code": 72111,
+    "latitude": 35.228617,
+    "longitude": -92.123719
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2019-08": 1.0,
+      "2020-08": 1.0
+    },
+    "yearly_totals": {
+      "2020": 1.0,
+      "2019": 1.0
+    },
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

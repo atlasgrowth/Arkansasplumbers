@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "5starplumbingservicesinc",
+    "place_id": "ChIJFTMo0Bz7ISURzDPV0lb59iA",
+    "google_id": "0x2521fb1cd0283315:0x20f6f956d2d533cc"
+  },
+  "basic_info": {
+    "name": "5 Star Plumbing Services Inc",
+    "phone": "+1 501-388-2700",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.1775079,
+    "longitude": -91.8552162
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-09": 1.0
+    },
+    "yearly_totals": {
+      "2021": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/5StarPlumbing/",
+    "instagram": "",
+    "website": ""
+  }
+}

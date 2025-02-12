@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "batesrenovationsllc",
+    "place_id": "ChIJVSWvLMYO0UgRh1Vr2xUROGw",
+    "google_id": "0x48d10ec62caf2555:0x6c381115db6b5587"
+  },
+  "basic_info": {
+    "name": "Bates renovations llc",
+    "phone": "+1 479-217-0284",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-8PM\", \"Tuesday\": \"8AM-8PM\", \"Wednesday\": \"8AM-8PM\", \"Thursday\": \"8AM-8PM\", \"Friday\": \"8AM-8PM\", \"Saturday\": \"8AM-8PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.921567,
+    "longitude": -94.216402
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-04": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

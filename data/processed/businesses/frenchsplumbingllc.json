@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "frenchsplumbingllc",
+    "place_id": "ChIJn9MHVXcpE4gREDVi5sSJy-E",
+    "google_id": "0x881329775507d39f:0xe1cb89c4e6623510"
+  },
+  "basic_info": {
+    "name": "French's Plumbing LLC",
+    "phone": "+1 765-376-7310",
+    "query_name": "",
+    "rating": 4.5,
+    "working_hours": "{\"Monday\": \"8AM-4PM\", \"Tuesday\": \"8AM-4PM\", \"Wednesday\": \"8AM-4PM\", \"Thursday\": \"8AM-4PM\", \"Friday\": \"8AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 40.03994,
+    "longitude": -86.8937905
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 8,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

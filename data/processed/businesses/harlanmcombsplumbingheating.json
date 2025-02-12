@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "business_id": "harlanmcombsplumbingheating",
+    "place_id": "ChIJBUJ2vKrjtYkRSEGJE9IORG8",
+    "google_id": "0x89b5e3aabc764205:0x6f440ed213894148"
+  },
+  "basic_info": {
+    "name": "Harlan M Combs Plumbing Heating",
+    "phone": "+1 540-955-3505",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "249 Cameron St, Berryville, VA 22611",
+    "city": "Berryville",
+    "state": "Virginia",
+    "postal_code": 22611,
+    "latitude": 39.1507499,
+    "longitude": -77.9751172
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2023-10": 1.0,
+      "2021-02": 1.0,
+      "2020-01": 1.0,
+      "2019-01": 1.0,
+      "2020-05": 1.0
+    },
+    "yearly_totals": {
+      "2020": 2.0,
+      "2021": 1.0,
+      "2023": 1.0,
+      "2019": 1.0
+    },
+    "total_reviews": 5,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

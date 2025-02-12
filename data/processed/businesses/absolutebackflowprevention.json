@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "absolutebackflowprevention",
+    "place_id": "ChIJrTumsUP-zIcRF8V1224ozlA",
+    "google_id": "0x87ccfe43b1a63bad:0x50ce286edb75c517"
+  },
+  "basic_info": {
+    "name": "Absolute Backflow Prevention",
+    "phone": "+1 479-477-2425",
+    "query_name": "",
+    "rating": 1,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"8AM-5PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7520156,
+    "longitude": -92.129428
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-09": 1.0
+    },
+    "yearly_totals": {
+      "2021": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

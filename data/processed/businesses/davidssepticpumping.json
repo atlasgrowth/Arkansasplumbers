@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "davidssepticpumping",
+    "place_id": "ChIJ9xYYzYkeGiAR3aCIO73UhGw",
+    "google_id": "0x201a1e89cd1816f7:0x6c84d4bd3b88a0dd"
+  },
+  "basic_info": {
+    "name": "David's Septic & Pumping",
+    "phone": "+1 501-428-2611",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"7AM-5PM\", \"Sunday\": \"7AM-5PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.0729316,
+    "longitude": -92.4842262
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2023-09": 2.0,
+      "2024-02": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2023": 2.0
+    },
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

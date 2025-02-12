@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "lemjrenterprisesofarkansas",
+    "place_id": "ChIJ266rRvV2rG4RG3tPErb4350",
+    "google_id": "0x6eac76f546abaedb:0x9ddff8b6124f7b1b"
+  },
+  "basic_info": {
+    "name": "LEMJR ENTERPRISES OF ARKANSAS",
+    "phone": "+1 870-816-8289",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.3821175,
+    "longitude": -90.829327
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "business_id": "larrysplumbingandmitchellsconstruction",
+    "place_id": "ChIJCTK1eVof1ocR4bXheNQUGlQ",
+    "google_id": "0x87d61f5a79b53209:0x541a14d478e1b5e1"
+  },
+  "basic_info": {
+    "name": "Larry's Plumbing and Mitchell\u2019s Construction",
+    "phone": "+1 573-888-5969",
+    "query_name": "",
+    "rating": 4.8,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.242052,
+    "longitude": -90.04991
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 2.0,
+      "2024-07": 1.0,
+      "2022-06": 1.0,
+      "2022-09": 2.0,
+      "2023-03": 1.0,
+      "2023-10": 2.0,
+      "2023-01": 2.0,
+      "2023-04": 1.0,
+      "2021-12": 1.0,
+      "2023-12": 1.0,
+      "2023-07": 1.0,
+      "2021-08": 1.0,
+      "2022-12": 3.0
+    },
+    "yearly_totals": {
+      "2024": 3.0,
+      "2021": 2.0,
+      "2022": 6.0,
+      "2023": 8.0
+    },
+    "total_reviews": 19,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

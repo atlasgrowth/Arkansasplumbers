@@ -1,0 +1,51 @@
+{
+  "ids": {
+    "business_id": "curtshandymanservice",
+    "place_id": "ChIJyYcMsXLZLUYROjIlca2IxyU",
+    "google_id": "0x462dd972b10c87c9:0x25c788ad7125323a"
+  },
+  "basic_info": {
+    "name": "Curt's Handyman Service",
+    "phone": "+1 870-321-9350",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "5073 AR-5, Mountain Home, AR 72653",
+    "city": "Mountain Home",
+    "state": "Arkansas",
+    "postal_code": 72653,
+    "latitude": 36.2908979,
+    "longitude": -92.3256866
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 1.0,
+      "2024-07": 1.0,
+      "2024-10": 1.0,
+      "2025-01": 1.0,
+      "2024-01": 1.0,
+      "2023-12": 1.0,
+      "2024-09": 1.0,
+      "2024-03": 1.0
+    },
+    "yearly_totals": {
+      "2024": 6.0,
+      "2025": 1.0,
+      "2023": 1.0
+    },
+    "total_reviews": 7,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "ids": {
+    "business_id": "rachalfacilityservicesllc",
+    "place_id": "ChIJJ5PbvslqVK0RGSrWklXpswE",
+    "google_id": "0xad546ac9bedb9327:0x1b3e95592d62a19"
+  },
+  "basic_info": {
+    "name": "Rachal Facility Services, LLC",
+    "phone": "+1 501-350-6366",
+    "query_name": "",
+    "rating": 4.6,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.6461898,
+    "longitude": -92.5251404
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-06": 1.0,
+      "2023-03": 2.0,
+      "2023-02": 2.0,
+      "2023-05": 1.0,
+      "2023-07": 2.0,
+      "2023-06": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2023": 8.0
+    },
+    "total_reviews": 9,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

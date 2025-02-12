@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "twinlakeshandyman",
+    "place_id": "ChIJf8QP9lhvlYURBk2KLeL8mwI",
+    "google_id": "0x85956f58f60fc47f:0x29bfce22d8a4d06"
+  },
+  "basic_info": {
+    "name": "Twin Lakes Handyman",
+    "phone": "+1 870-421-2031",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.3113472,
+    "longitude": -92.2536422
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

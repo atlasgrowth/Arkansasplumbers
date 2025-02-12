@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "ricksplumbing",
+    "place_id": "ChIJAQAAAMRMyocRlyIoXPTukg4",
+    "google_id": "0x87ca4cc400000001:0xe92eef45c282297"
+  },
+  "basic_info": {
+    "name": "Ricks Plumbing",
+    "phone": "+1 479-459-2931",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7:30AM-5PM\", \"Tuesday\": \"7:30AM-5PM\", \"Wednesday\": \"7:30AM-5PM\", \"Thursday\": \"7:30AM-5PM\", \"Friday\": \"7:30AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "Fort Smith, AR 72901",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "postal_code": 72901,
+    "latitude": 35.3704608,
+    "longitude": -94.4130648
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2019-07": 1.0
+    },
+    "yearly_totals": {
+      "2019": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "business_id": "kensplumbing",
+    "place_id": "ChIJgb6eKDgf0YcRYGhlJMu_ieM",
+    "google_id": "0x87d11f38289ebe81:0xe389bfcb24656860"
+  },
+  "basic_info": {
+    "name": "Ken's Plumbing",
+    "phone": "+1 417-264-7372",
+    "query_name": "",
+    "rating": 3.8,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "421 Chestnut St, Thayer, MO 65791",
+    "city": "Thayer",
+    "state": "Missouri",
+    "postal_code": 65791,
+    "latitude": 36.5240832,
+    "longitude": -91.542064
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-06": 1.0,
+      "2022-05": 1.0,
+      "2022-08": 1.0,
+      "2019-05": 1.0,
+      "2021-03": 1.0,
+      "2020-10": 1.0,
+      "2021-09": 1.0,
+      "2022-02": 1.0
+    },
+    "yearly_totals": {
+      "2020": 2.0,
+      "2021": 2.0,
+      "2022": 3.0,
+      "2019": 1.0
+    },
+    "total_reviews": 8,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

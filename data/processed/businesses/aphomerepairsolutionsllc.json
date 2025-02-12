@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "aphomerepairsolutionsllc",
+    "place_id": "ChIJxZ3nMNaNZUQRDRy_oZRijYE",
+    "google_id": "0x44658dd630e79dc5:0x818d6294a1bf1c0d"
+  },
+  "basic_info": {
+    "name": "AP Home Repair & Solutions LLC",
+    "phone": "+1 479-295-7692",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 46.423669,
+    "longitude": -129.9427086
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "allstarrenovations",
+    "place_id": "ChIJT-_rfTCC0ocRpadX5VVUkRA",
+    "google_id": "0x87d282307debef4f:0x10915455e557a7a5"
+  },
+  "basic_info": {
+    "name": "All-Star Renovations",
+    "phone": "+1 501-504-3398",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.9476112,
+    "longitude": -92.1239222
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2018-12": 1.0,
+      "2017-09": 1.0
+    },
+    "yearly_totals": {
+      "2018": 1.0,
+      "2017": 1.0
+    },
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/AllStarRenovationsLLC/",
+    "instagram": "",
+    "website": ""
+  }
+}

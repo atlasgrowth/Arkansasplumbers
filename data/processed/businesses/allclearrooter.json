@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "business_id": "allclearrooter",
+    "place_id": "ChIJe0NwW4eFM4YRo2hXq0LSVOI",
+    "google_id": "0x863385875b70437b:0xe254d242ab5768a3"
+  },
+  "basic_info": {
+    "name": "ALL CLEAR ROOTER",
+    "phone": "+1 870-703-9056",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"8AM-6PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "101 N Circle Dr, Hope, AR 71801",
+    "city": "Hope",
+    "state": "Arkansas",
+    "postal_code": 71801,
+    "latitude": 33.6448579,
+    "longitude": -93.5965564
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-03": 1.0,
+      "2020-12": 1.0,
+      "2023-11": 1.0,
+      "2021-07": 1.0,
+      "2019-01": 1.0,
+      "2022-07": 1.0,
+      "2021-08": 1.0,
+      "2021-01": 1.0,
+      "2020-05": 1.0
+    },
+    "yearly_totals": {
+      "2020": 3.0,
+      "2021": 3.0,
+      "2022": 1.0,
+      "2023": 1.0,
+      "2019": 1.0
+    },
+    "total_reviews": 9,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

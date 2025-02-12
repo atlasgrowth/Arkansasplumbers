@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "timelesshomesllc",
+    "place_id": "ChIJUTOiU54VyYcRofbbwWiSh48",
+    "google_id": "0x87c9159e53a23351:0x8f879268c1dbf6a1"
+  },
+  "basic_info": {
+    "name": "Timeless Homes LLC",
+    "phone": "+1 479-903-1352",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "5811 Primrose Rd, Lowell, AR 72745",
+    "city": "Lowell",
+    "state": "Arkansas",
+    "postal_code": 72745,
+    "latitude": 36.2361015,
+    "longitude": -94.1057134
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

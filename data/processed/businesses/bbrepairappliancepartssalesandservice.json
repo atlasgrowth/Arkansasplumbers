@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "business_id": "bbrepairappliancepartssalesandservice",
+    "place_id": "ChIJIawW7VXH1ocR1UrE4k0sKJI",
+    "google_id": "0x87d6c755ed16ac21:0x92282c4de2c44ad5"
+  },
+  "basic_info": {
+    "name": "B&B Repair Appliance parts, sales and service",
+    "phone": "+1 870-955-4419",
+    "query_name": "",
+    "rating": 4.3,
+    "working_hours": "{\"Monday\": \"9AM-5:30AM\", \"Tuesday\": \"9AM-5:30AM\", \"Wednesday\": \"9AM-5:30AM\", \"Thursday\": \"9AM-5:30AM\", \"Friday\": \"9AM-5:30AM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "434 Lawrence Rd 410, Walnut Ridge, AR 72476",
+    "city": "Walnut Ridge",
+    "state": "Arkansas",
+    "postal_code": 72476,
+    "latitude": 36.1197067,
+    "longitude": -90.9974661
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 1.0,
+      "2024-11": 3.0,
+      "2024-12": 2.0,
+      "2018-05": 1.0,
+      "2020-01": 1.0,
+      "2019-05": 1.0,
+      "2021-03": 1.0,
+      "2023-08": 1.0,
+      "2019-11": 1.0,
+      "2021-01": 1.0,
+      "2018-04": 1.0
+    },
+    "yearly_totals": {
+      "2024": 6.0,
+      "2020": 1.0,
+      "2021": 2.0,
+      "2023": 1.0,
+      "2018": 2.0,
+      "2019": 2.0
+    },
+    "total_reviews": 12,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "rogershandyman",
+    "place_id": "ChIJ31Fx-bkRyYcR_SK-o2oKl_A",
+    "google_id": "0x87c911b9f97151df:0xf0970a6aa3be22fd"
+  },
+  "basic_info": {
+    "name": "Rogers Handyman",
+    "phone": "+1 479-217-3087",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"9AM-4PM\", \"Sunday\": \"9AM-4PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.3344974,
+    "longitude": -94.1656715
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/people/Rogers-Handyman/100023075394076/",
+    "instagram": "",
+    "website": ""
+  }
+}

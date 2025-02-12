@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "plumbingsolutionsinc",
+    "place_id": "ChIJ0wQwGcuMk4cR5cJq3Jd07JY",
+    "google_id": "0x87938ccb193004d3:0x96ec7497dc6ac2e5"
+  },
+  "basic_info": {
+    "name": "Plumbing Solutions Inc",
+    "phone": "+1 402-980-0200",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 41.236341,
+    "longitude": -96.1298949
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 16,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

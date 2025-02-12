@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "hrplumbstuff",
+    "place_id": "ChIJDaHCppbNzocRpBnTJF9IClc",
+    "google_id": "0x87cecd96a6c2a10d:0x570a485f24d319a4"
+  },
+  "basic_info": {
+    "name": "H R Plumb & Stuff",
+    "phone": "+1 479-244-7288",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"9AM-5PM\", \"Tuesday\": \"9AM-5PM\", \"Wednesday\": \"9AM-5PM\", \"Thursday\": \"9AM-5PM\", \"Friday\": \"9AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "4462 Co Rd 302, Eureka Springs, AR 72632",
+    "city": "Eureka Springs",
+    "state": "Arkansas",
+    "postal_code": 72632,
+    "latitude": 36.3624288,
+    "longitude": -93.6876406
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

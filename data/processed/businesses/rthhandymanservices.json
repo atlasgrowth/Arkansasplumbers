@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "rthhandymanservices",
+    "place_id": "ChIJP4wImcYQyYcRZIH_qsh9pMg",
+    "google_id": "0x87c910c699088c3f:0xc8a47dc8aaff8164"
+  },
+  "basic_info": {
+    "name": "RTH Handyman Services",
+    "phone": "+1 479-685-4858",
+    "query_name": "",
+    "rating": 4.1,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"8AM-6PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.3812995,
+    "longitude": -94.2281584
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 17,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "business_id": "oglesplumbing",
+    "place_id": "ChIJT71U02aC1ocRebpED6PNcWE",
+    "google_id": "0x87d68266d354bd4f:0x6171cda30f44ba79"
+  },
+  "basic_info": {
+    "name": "Ogles Plumbing",
+    "phone": "+1 870-316-4888",
+    "query_name": "",
+    "rating": 3.7,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "7091 AR-141, Jonesboro, AR 72401",
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "postal_code": 72401,
+    "latitude": 35.940571,
+    "longitude": -90.7112609
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2023-03": 1.0,
+      "2023-01": 1.0,
+      "2018-01": 1.0,
+      "2018-05": 1.0,
+      "2018-07": 1.0,
+      "2020-01": 1.0,
+      "2021-07": 1.0,
+      "2021-12": 1.0,
+      "2023-12": 1.0
+    },
+    "yearly_totals": {
+      "2020": 1.0,
+      "2021": 2.0,
+      "2023": 3.0,
+      "2018": 3.0
+    },
+    "total_reviews": 9,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

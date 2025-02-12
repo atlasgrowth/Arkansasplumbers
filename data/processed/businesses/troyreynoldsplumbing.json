@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "troyreynoldsplumbing",
+    "place_id": "ChIJqUvTkkHGy4cRXBEodnhPVGo",
+    "google_id": "0x87cbc64192d34ba9:0x6a544f787628115c"
+  },
+  "basic_info": {
+    "name": "Troy Reynolds Plumbing",
+    "phone": "+1 479-806-3768",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "917 Dow Jones Rd, Alma, AR 72921",
+    "city": "Alma",
+    "state": "Arkansas",
+    "postal_code": 72921,
+    "latitude": 35.556853,
+    "longitude": -94.2085796
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "business_id": "elitemechanicalservicesllc",
+    "place_id": "ChIJcw-uvDwONIYRBJ1DBm79TYE",
+    "google_id": "0x86340e3cbcae0f73:0x814dfd6e06439d04"
+  },
+  "basic_info": {
+    "name": "Elite Mechanical Services, LLC",
+    "phone": "+1 903-490-1844",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "206 Burgess St, Fouke, AR 71837",
+    "city": "Fouke",
+    "state": "Arkansas",
+    "postal_code": 71837,
+    "latitude": 33.265081,
+    "longitude": -93.8986795
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-06": 1.0,
+      "2021-06": 1.0,
+      "2022-06": 1.0,
+      "2022-09": 2.0,
+      "2019-05": 3.0,
+      "2023-02": 1.0,
+      "2022-07": 4.0,
+      "2020-10": 2.0,
+      "2022-10": 1.0,
+      "2018-08": 12.0,
+      "2018-06": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2020": 2.0,
+      "2021": 1.0,
+      "2022": 8.0,
+      "2023": 1.0,
+      "2018": 13.0,
+      "2019": 3.0
+    },
+    "total_reviews": 29,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

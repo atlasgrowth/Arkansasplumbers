@@ -1,0 +1,43 @@
+{
+  "ids": {
+    "business_id": "selfmountainconstructionandplumbing",
+    "place_id": "ChIJM0pmhTxfzocRS6W7rxhrJc4",
+    "google_id": "0x87ce5f3c85664a33:0xce256b18afbba54b"
+  },
+  "basic_info": {
+    "name": "Self Mountain Construction and Plumbing",
+    "phone": "+1 870-754-7807",
+    "query_name": "",
+    "rating": 3,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.1629967,
+    "longitude": -93.1467245
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-03": 1.0,
+      "2021-01": 1.0
+    },
+    "yearly_totals": {
+      "2021": 2.0
+    },
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

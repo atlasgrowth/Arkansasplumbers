@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "aaahomespecialists",
+    "place_id": "ChIJ5wxGj1hTzIcRpm1PEtF2yy8",
+    "google_id": "0x87cc53588f460ce7:0x2fcb76d1124f6da6"
+  },
+  "basic_info": {
+    "name": "AAA Home Specialists",
+    "phone": "+1 479-223-7976",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"9AM-1PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.9958541,
+    "longitude": -102.697528
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 18,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/aaa.services/",
+    "instagram": "",
+    "website": ""
+  }
+}

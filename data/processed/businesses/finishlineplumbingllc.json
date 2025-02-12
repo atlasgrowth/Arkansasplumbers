@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "business_id": "finishlineplumbingllc",
+    "place_id": "ChIJyy1bp7ThtYkRZgadj4F3YvM",
+    "google_id": "0x89b5e1b4a75b2dcb:0xf36277818f9d0666"
+  },
+  "basic_info": {
+    "name": "Finish Line Plumbing, LLC",
+    "phone": "+1 540-771-6333",
+    "query_name": "",
+    "rating": 4.8,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "132 Linster Ln, Berryville, VA 22611",
+    "city": "Berryville",
+    "state": "Virginia",
+    "postal_code": 22611,
+    "latitude": 39.1047437,
+    "longitude": -77.9845485
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 2.0,
+      "2024-06": 5.0,
+      "2024-07": 5.0,
+      "2024-10": 4.0,
+      "2024-11": 2.0,
+      "2024-12": 4.0,
+      "2025-01": 3.0,
+      "2025-02": 2.0,
+      "2022-08": 1.0,
+      "2022-09": 2.0,
+      "2023-03": 2.0,
+      "2023-09": 3.0,
+      "2023-10": 1.0,
+      "2023-11": 3.0,
+      "2024-01": 2.0,
+      "2024-08": 2.0,
+      "2023-12": 4.0,
+      "2024-09": 3.0,
+      "2023-02": 5.0,
+      "2023-05": 2.0,
+      "2023-07": 1.0,
+      "2023-06": 1.0,
+      "2024-02": 3.0,
+      "2024-03": 2.0,
+      "2022-10": 3.0,
+      "2022-11": 6.0,
+      "2022-12": 3.0,
+      "2024-04": 4.0
+    },
+    "yearly_totals": {
+      "2024": 38.0,
+      "2025": 5.0,
+      "2022": 15.0,
+      "2023": 22.0
+    },
+    "total_reviews": 157,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

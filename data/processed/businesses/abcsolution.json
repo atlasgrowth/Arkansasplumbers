@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "abcsolution",
+    "place_id": "ChIJPYaXhvuB0ocR8iJZXkQulBQ",
+    "google_id": "0x87d281fb8697863d:0x14942e445e5922f2"
+  },
+  "basic_info": {
+    "name": "ABC solution",
+    "phone": "+1 501-697-1923",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "604 e robbins, Conway, AR 72032",
+    "city": "Conway",
+    "state": "Arkansas",
+    "postal_code": 72032,
+    "latitude": 35.1067441,
+    "longitude": -92.4457099
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

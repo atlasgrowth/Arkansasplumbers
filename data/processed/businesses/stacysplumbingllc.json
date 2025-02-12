@@ -1,0 +1,48 @@
+{
+  "ids": {
+    "business_id": "stacysplumbingllc",
+    "place_id": "ChIJdTBKjCyyy4cRJEQNHWSoqY4",
+    "google_id": "0x87cbb22c8c4a3075:0x8ea9a8641d0d4424"
+  },
+  "basic_info": {
+    "name": "Stacys Plumbing LLC",
+    "phone": "+1 479-883-5824",
+    "query_name": "",
+    "rating": 4.4,
+    "working_hours": "{\"Monday\": \"7AM-10PM\", \"Tuesday\": \"7AM-10PM\", \"Wednesday\": \"7AM-10PM\", \"Thursday\": \"7AM-10PM\", \"Friday\": \"7AM-10PM\", \"Saturday\": \"7AM-10PM\", \"Sunday\": \"7AM-10PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "9918 Butterfield Landing, Fort Smith, AR 72903",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "postal_code": 72903,
+    "latitude": 35.354926,
+    "longitude": -94.3213203
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2019-07": 1.0,
+      "2023-08": 1.0,
+      "2019-03": 1.0,
+      "2021-01": 1.0,
+      "2021-05": 1.0
+    },
+    "yearly_totals": {
+      "2021": 2.0,
+      "2023": 1.0,
+      "2019": 2.0
+    },
+    "total_reviews": 5,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

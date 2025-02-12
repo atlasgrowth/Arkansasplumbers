@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "business_id": "aroyalflushplumbing",
+    "place_id": "ChIJ_____5tTzIcRA-XOM-Zx4U8",
+    "google_id": "0x87cc539bffffffff:0x4fe171e633cee503"
+  },
+  "basic_info": {
+    "name": "A Royal Flush Plumbing",
+    "phone": "+1 479-264-8344",
+    "query_name": "",
+    "rating": 3.8,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "18 Refuge Rd, Russellville, AR 72802",
+    "city": "Russellville",
+    "state": "Arkansas",
+    "postal_code": 72802,
+    "latitude": 35.3556218,
+    "longitude": -93.0877958
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-02": 1.0,
+      "2021-07": 1.0,
+      "2019-10": 1.0,
+      "2017-10": 1.0,
+      "2019-06": 1.0,
+      "2016-12": 1.0,
+      "2016-05": 1.0,
+      "2016-06": 1.0
+    },
+    "yearly_totals": {
+      "2020": 1.0,
+      "2021": 1.0,
+      "2019": 2.0,
+      "2017": 1.0,
+      "2016": 3.0
+    },
+    "total_reviews": 8,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

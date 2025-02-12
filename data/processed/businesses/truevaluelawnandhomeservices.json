@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "business_id": "truevaluelawnandhomeservices",
+    "place_id": "ChIJ84mPBNHn0ocR2KRXdPz0_eI",
+    "google_id": "0x87d2e7d1048f89f3:0xe2fdf4fc7457a4d8"
+  },
+  "basic_info": {
+    "name": "True Value Lawn and Home Services",
+    "phone": "+1 501-554-6492",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7AM-7PM\", \"Tuesday\": \"7AM-7PM\", \"Wednesday\": \"7AM-7PM\", \"Thursday\": \"7AM-7PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"7AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "101 White Oak Dr, Lonoke, AR 72086",
+    "city": "Lonoke",
+    "state": "Arkansas",
+    "postal_code": 72086,
+    "latitude": 34.900163,
+    "longitude": -91.9629957
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-12": 1.0,
+      "2022-08": 1.0,
+      "2020-09": 4.0,
+      "2020-10": 1.0
+    },
+    "yearly_totals": {
+      "2020": 6.0,
+      "2022": 1.0
+    },
+    "total_reviews": 7,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

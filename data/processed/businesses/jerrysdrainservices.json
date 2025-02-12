@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "business_id": "jerrysdrainservices",
+    "place_id": "ChIJAQAAAMRMyocRhsKFb_9iMe8",
+    "google_id": "0x87ca4cc400000001:0xef3162ff6f85c286"
+  },
+  "basic_info": {
+    "name": "Jerry's Drain Services",
+    "phone": "+1 479-783-0010",
+    "query_name": "",
+    "rating": 3.1,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "Fort Smith, AR 72901",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "postal_code": 72901,
+    "latitude": 35.3704608,
+    "longitude": -94.4130648
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-10": 1.0,
+      "2018-07": 1.0,
+      "2023-12": 1.0,
+      "2021-10": 1.0,
+      "2020-05": 1.0,
+      "2016-04": 1.0,
+      "2017-06": 2.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2020": 1.0,
+      "2021": 1.0,
+      "2023": 1.0,
+      "2018": 1.0,
+      "2017": 2.0,
+      "2016": 1.0
+    },
+    "total_reviews": 8,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

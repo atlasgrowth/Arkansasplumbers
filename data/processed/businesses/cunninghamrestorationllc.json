@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "business_id": "cunninghamrestorationllc",
+    "place_id": "ChIJ04WkPqh_0ocRhRbatH26X2E",
+    "google_id": "0x87d27fa83ea485d3:0x615fba7db4da1685"
+  },
+  "basic_info": {
+    "name": "Cunningham Restoration LLC",
+    "phone": "+1 501-314-9957",
+    "query_name": "",
+    "rating": 4.8,
+    "working_hours": "{\"Monday\": \"6AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8:30AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "18 4th St, Greenbrier, AR 72058",
+    "city": "Greenbrier",
+    "state": "Arkansas",
+    "postal_code": 72058,
+    "latitude": 35.2422392,
+    "longitude": -92.39357
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-06": 1.0,
+      "2024-07": 1.0,
+      "2020-03": 1.0,
+      "2023-10": 2.0,
+      "2023-11": 2.0,
+      "2020-01": 2.0,
+      "2019-08": 2.0,
+      "2024-09": 1.0,
+      "2019-07": 2.0,
+      "2019-06": 7.0
+    },
+    "yearly_totals": {
+      "2024": 3.0,
+      "2020": 3.0,
+      "2023": 4.0,
+      "2019": 11.0
+    },
+    "total_reviews": 21,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/people/Cunningham-Restoration-LLC/100069835195183/",
+    "instagram": "",
+    "website": ""
+  }
+}

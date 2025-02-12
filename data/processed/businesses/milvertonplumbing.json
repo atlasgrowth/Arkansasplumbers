@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "milvertonplumbing",
+    "place_id": "ChIJq99fieBW0YcRMO9dP-NJRkA",
+    "google_id": "0x87d156e0895fdfab:0x404649e33f5def30"
+  },
+  "basic_info": {
+    "name": "Milverton Plumbing",
+    "phone": "+1 870-844-0523",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7:30AM-5:30PM\", \"Tuesday\": \"7:30AM-5:30PM\", \"Wednesday\": \"7:30AM-5:30PM\", \"Thursday\": \"7:30AM-5:30PM\", \"Friday\": \"7:30AM-5:30PM\", \"Saturday\": \"10AM-4PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "389 N Main St, Strawberry, AR 72469",
+    "city": "Strawberry",
+    "state": "Arkansas",
+    "postal_code": 72469,
+    "latitude": 35.972254,
+    "longitude": -91.325006
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2022-11": 1.0
+    },
+    "yearly_totals": {
+      "2022": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

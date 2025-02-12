@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "bbplumbing",
+    "place_id": "ChIJG7URbvTq0ocRYA8uo0bovfE",
+    "google_id": "0x87d2eaf46e11b51b:0xf1bde846a32e0f60"
+  },
+  "basic_info": {
+    "name": "B & B Plumbing",
+    "phone": "+1 501-258-6182",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "Jacksonville, AR 72078",
+    "city": "Jacksonville",
+    "state": "Arkansas",
+    "postal_code": 72078,
+    "latitude": 34.87,
+    "longitude": -92.11
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

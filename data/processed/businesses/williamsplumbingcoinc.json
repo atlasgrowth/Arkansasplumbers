@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "business_id": "williamsplumbingcoinc",
+    "place_id": "ChIJ7y3Q1v3a04cRlF4yafU6hsI",
+    "google_id": "0x87d3dafdd6d02def:0xc2863af569325e94"
+  },
+  "basic_info": {
+    "name": "Williams Plumbing Co Inc",
+    "phone": "+1 870-793-3417",
+    "query_name": "",
+    "rating": 4.3,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1435 S Broad, Batesville, AR 72501",
+    "city": "Batesville",
+    "state": "Arkansas",
+    "postal_code": 72501,
+    "latitude": 35.7676,
+    "longitude": -91.639204
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2019-12": 1.0,
+      "2019-04": 1.0,
+      "2023-08": 1.0,
+      "2018-08": 1.0
+    },
+    "yearly_totals": {
+      "2023": 1.0,
+      "2018": 1.0,
+      "2019": 2.0
+    },
+    "total_reviews": 4,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

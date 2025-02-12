@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "branson247plumbingelectrical",
+    "place_id": "ChIJR20tK18Bz4cRTtlJM5A2bLE",
+    "google_id": "0x87cf015f2b2d6d47:0xb16c36903349d94e"
+  },
+  "basic_info": {
+    "name": "Branson 24/7 Plumbing & Electrical",
+    "phone": "+1 417-988-5510",
+    "query_name": "",
+    "rating": 3.4,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "158 Mandolin Dr, Kirbyville, MO 65679",
+    "city": "Kirbyville",
+    "state": "Missouri",
+    "postal_code": 65679,
+    "latitude": 36.6244113,
+    "longitude": -93.1612053
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2022-06": 1.0,
+      "2022-01": 3.0,
+      "2022-12": 1.0
+    },
+    "yearly_totals": {
+      "2022": 5.0
+    },
+    "total_reviews": 5,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

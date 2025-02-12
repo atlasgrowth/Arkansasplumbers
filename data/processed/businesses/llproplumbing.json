@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "llproplumbing",
+    "place_id": "ChIJ6x6lOZ2j0ocRNvc4Lmx79aA",
+    "google_id": "0x87d2a39d39a51eeb:0xa0f57b6c2e38f736"
+  },
+  "basic_info": {
+    "name": "L & L Pro Plumbing",
+    "phone": "+1 501-708-8118",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"9AM-4PM\", \"Tuesday\": \"9AM-4PM\", \"Wednesday\": \"9AM-4PM\", \"Thursday\": \"9AM-4PM\", \"Friday\": \"9AM-1PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7515575,
+    "longitude": -92.3098956
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

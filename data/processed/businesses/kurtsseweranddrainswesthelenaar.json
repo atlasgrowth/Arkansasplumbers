@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "kurtsseweranddrainswesthelenaar",
+    "place_id": "ChIJJWQWGjjV1IcRs6zmrlG_4K8",
+    "google_id": "0x87d4d5381a166425:0xafe0bf51aee6acb3"
+  },
+  "basic_info": {
+    "name": "Kurt's sewer and drains west helena ar",
+    "phone": "+1 870-995-0483",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"7AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "240 Phillips Rd 216, Lexa, AR 72355",
+    "city": "Lexa",
+    "state": "Arkansas",
+    "postal_code": 72355,
+    "latitude": 34.5885677,
+    "longitude": -90.6589822
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

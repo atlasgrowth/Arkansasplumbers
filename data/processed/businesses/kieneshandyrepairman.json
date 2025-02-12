@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "kieneshandyrepairman",
+    "place_id": "ChIJRcIz0B6LsSkRycEthRci2p4",
+    "google_id": "0x29b18b1ed033c245:0x9eda2217852dc1c9"
+  },
+  "basic_info": {
+    "name": "Kiene's Handy-Repairman",
+    "phone": "+1 479-719-0686",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "307 S Vine St, Charleston, AR 72933",
+    "city": "Charleston",
+    "state": "Arkansas",
+    "postal_code": 72933,
+    "latitude": 35.2943968,
+    "longitude": -94.0335253
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

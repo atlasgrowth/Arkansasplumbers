@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "business_id": "tritonplumbinggas",
+    "place_id": "ChIJeQlzsfyX04cRYCPfknMuvwM",
+    "google_id": "0x87d397fcb1730979:0x3bf2e7392df2360"
+  },
+  "basic_info": {
+    "name": "Triton Plumbing & Gas",
+    "phone": "+1 501-283-5197",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"6AM-5PM\", \"Tuesday\": \"6AM-5PM\", \"Wednesday\": \"6AM-5PM\", \"Thursday\": \"6AM-5PM\", \"Friday\": \"6AM-5PM\", \"Saturday\": \"6AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.6654152,
+    "longitude": -91.3576416
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2022-05": 2.0,
+      "2021-02": 1.0,
+      "2023-01": 1.0,
+      "2021-01": 1.0
+    },
+    "yearly_totals": {
+      "2021": 2.0,
+      "2022": 2.0,
+      "2023": 1.0
+    },
+    "total_reviews": 5,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/people/Triton-Plumbing-Gas/100064133827876/?locale=zh_CN",
+    "instagram": "",
+    "website": ""
+  }
+}

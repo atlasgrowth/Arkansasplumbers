@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "vickplumbing",
+    "place_id": "ChIJPdR79wD1pYARxU-qsBLrU-I",
+    "google_id": "0x80a5f500f77bd43d:0xe253eb12b0aa4fc5"
+  },
+  "basic_info": {
+    "name": "Vick Plumbing",
+    "phone": "+1 501-286-0072",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "9001 Roman Ln, Jacksonville, AR 72076",
+    "city": "Jacksonville",
+    "state": "Arkansas",
+    "postal_code": 72076,
+    "latitude": 33.0676111,
+    "longitude": -91.2582377
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2022-06": 1.0
+    },
+    "yearly_totals": {
+      "2022": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

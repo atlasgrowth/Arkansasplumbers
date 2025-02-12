@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "candlenterprisellc",
+    "place_id": "ChIJvzpogKxu5UcRdpn9nuj4Rzg",
+    "google_id": "0x47e56eac80683abf:0x3847f8e89efd9976"
+  },
+  "basic_info": {
+    "name": "C and L Enterprise LLC",
+    "phone": "+1 501-617-7689",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.4823438,
+    "longitude": -92.9546214
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "shanticonstructiongroup",
+    "place_id": "ChIJ69TMBlTL8KARIegcuem-DaM",
+    "google_id": "0xa0f0cb5406ccd4eb:0xa30dbee9b91ce821"
+  },
+  "basic_info": {
+    "name": "Shanti Construction Group",
+    "phone": "+1 870-926-0701",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1904 Grant Ave F, Jonesboro, AR 72401",
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "postal_code": 72401,
+    "latitude": 35.8187327,
+    "longitude": -90.6817902
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

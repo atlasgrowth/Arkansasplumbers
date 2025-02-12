@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "harpersplumbing",
+    "place_id": "ChIJJR6S1DgDM4YRZUTM-gAm8Eo",
+    "google_id": "0x86330338d4921e25:0x4af02600facc4465"
+  },
+  "basic_info": {
+    "name": "Harper's Plumbing",
+    "phone": "+1 870-353-4025",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "400 S Front St, Gurdon, AR 71743",
+    "city": "Gurdon",
+    "state": "Arkansas",
+    "postal_code": 71743,
+    "latitude": 33.9180582,
+    "longitude": -93.1555788
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-01": 1.0,
+      "2021-02": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2021": 1.0
+    },
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/yourharpersplumbing/",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "preferredplumbinginc",
+    "place_id": "ChIJ3efxnNXFfYgR9cMZpAZMuXQ",
+    "google_id": "0x887dc5d59cf1e7dd:0x74b94c06a419c3f5"
+  },
+  "basic_info": {
+    "name": "Preferred Plumbing Inc",
+    "phone": "+1 662-401-8180",
+    "query_name": "",
+    "rating": 1,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "114 Co Rd 793, Corinth, MS 38834",
+    "city": "Corinth",
+    "state": "Mississippi",
+    "postal_code": 38834,
+    "latitude": 34.9892026,
+    "longitude": -88.5572506
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

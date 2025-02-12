@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "manningconstructionheatandair",
+    "place_id": "ChIJj4a-qwJXzYcRPbLJxLh-qBY",
+    "google_id": "0x87cd5702abbe868f:0x16a87eb8c4c9b23d"
+  },
+  "basic_info": {
+    "name": "Manning Construction Heat and Air",
+    "phone": "+1 501-612-8848",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1907 Pine Cir, Bryant, AR 72022",
+    "city": "Bryant",
+    "state": "Arkansas",
+    "postal_code": 72022,
+    "latitude": 34.6160797,
+    "longitude": -92.5096408
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-07": 1.0,
+      "2016-09": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2016": 1.0
+    },
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

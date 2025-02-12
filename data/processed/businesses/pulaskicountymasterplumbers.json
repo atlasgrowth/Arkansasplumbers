@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "pulaskicountymasterplumbers",
+    "place_id": "ChIJfcg2Lzyl0ocRliNuhD1gUvI",
+    "google_id": "0x87d2a53c2f36c87d:0xf252603d846e2396"
+  },
+  "basic_info": {
+    "name": "Pulaski County Master Plumbers",
+    "phone": "+1 501-231-6471",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "6300 Scott Hamilton Dr, Little Rock, AR 72209",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72209,
+    "latitude": 34.691723,
+    "longitude": -92.3191992
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

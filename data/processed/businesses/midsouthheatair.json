@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "business_id": "midsouthheatair",
+    "place_id": "ChIJB-SmCwN91ocRDZkEqljH12c",
+    "google_id": "0x87d67d030ba6e407:0x67d7c758aa04990d"
+  },
+  "basic_info": {
+    "name": "Mid-South Heat & Air",
+    "phone": "+1 870-450-0777",
+    "query_name": "",
+    "rating": 4.9,
+    "working_hours": "{\"Monday\": \"7AM-5:30PM\", \"Tuesday\": \"7AM-5:30PM\", \"Wednesday\": \"7AM-5:30PM\", \"Thursday\": \"7AM-5:30PM\", \"Friday\": \"7AM-5:30PM\", \"Saturday\": \"9AM-4PM\", \"Sunday\": \"12-4PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "6801 W Kingshighway, Paragould, AR 72450",
+    "city": "Paragould",
+    "state": "Arkansas",
+    "postal_code": 72450,
+    "latitude": 36.0679324,
+    "longitude": -90.576413
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-03": 1.0,
+      "2020-06": 2.0,
+      "2020-12": 1.0,
+      "2021-06": 2.0,
+      "2024-01": 1.0,
+      "2023-04": 1.0,
+      "2018-10": 6.0,
+      "2020-01": 1.0,
+      "2021-12": 1.0,
+      "2019-05": 1.0,
+      "2024-09": 1.0,
+      "2018-11": 2.0,
+      "2018-12": 1.0,
+      "2019-01": 1.0,
+      "2019-04": 3.0,
+      "2019-07": 5.0,
+      "2019-10": 2.0,
+      "2020-07": 2.0,
+      "2021-03": 1.0,
+      "2021-04": 1.0,
+      "2022-01": 1.0,
+      "2022-03": 1.0,
+      "2023-02": 1.0,
+      "2023-05": 1.0,
+      "2023-07": 2.0,
+      "2023-08": 2.0
+    },
+    "yearly_totals": {
+      "2024": 2.0,
+      "2020": 7.0,
+      "2021": 5.0,
+      "2022": 2.0,
+      "2023": 7.0,
+      "2018": 9.0,
+      "2019": 12.0
+    },
+    "total_reviews": 44,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/Mid-South-Heat-Air-337457710393009/",
+    "instagram": "",
+    "website": ""
+  }
+}

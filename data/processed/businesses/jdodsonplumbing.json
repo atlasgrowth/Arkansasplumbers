@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "business_id": "jdodsonplumbing",
+    "place_id": "ChIJv2MMMNlUzYcRMfKtJcqV2fI",
+    "google_id": "0x87cd54d9300c63bf:0xf2d995ca25adf231"
+  },
+  "basic_info": {
+    "name": "J Dodson Plumbing",
+    "phone": "+1 501-909-2540",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "7415 Mars Hill Rd, Bauxite, AR 72011",
+    "city": "Bauxite",
+    "state": "Arkansas",
+    "postal_code": 72011,
+    "latitude": 34.498941,
+    "longitude": -92.503152
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 1.0,
+      "2024-07": 1.0,
+      "2024-12": 1.0,
+      "2020-02": 1.0,
+      "2020-03": 2.0,
+      "2020-06": 1.0,
+      "2021-06": 1.0,
+      "2021-11": 1.0,
+      "2023-09": 1.0,
+      "2024-01": 1.0,
+      "2021-02": 1.0,
+      "2023-01": 1.0,
+      "2020-01": 1.0,
+      "2021-07": 1.0,
+      "2019-08": 1.0,
+      "2019-12": 1.0,
+      "2018-11": 1.0,
+      "2020-07": 1.0,
+      "2021-03": 1.0,
+      "2023-07": 1.0,
+      "2023-08": 1.0,
+      "2023-06": 1.0,
+      "2024-03": 1.0,
+      "2022-07": 1.0,
+      "2021-10": 1.0,
+      "2019-02": 2.0,
+      "2020-09": 2.0,
+      "2020-11": 1.0,
+      "2022-12": 1.0,
+      "2024-04": 1.0,
+      "2018-04": 1.0,
+      "2018-09": 1.0,
+      "2018-08": 1.0
+    },
+    "yearly_totals": {
+      "2024": 6.0,
+      "2020": 9.0,
+      "2021": 6.0,
+      "2022": 2.0,
+      "2023": 5.0,
+      "2018": 4.0,
+      "2019": 4.0
+    },
+    "total_reviews": 35,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

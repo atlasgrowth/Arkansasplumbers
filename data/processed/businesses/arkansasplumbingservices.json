@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "arkansasplumbingservices",
+    "place_id": "ChIJ8wwKGgt3y4cRgBbURKtYmF8",
+    "google_id": "0x87cb770b1a0a0cf3:0x5f9858ab44d41680"
+  },
+  "basic_info": {
+    "name": "Arkansas Plumbing Services",
+    "phone": "+1 479-518-8365",
+    "query_name": "",
+    "rating": 1,
+    "working_hours": "{\"Monday\": \"8AM-3PM\", \"Tuesday\": \"8AM-3PM\", \"Wednesday\": \"8AM-3PM\", \"Thursday\": \"8AM-3PM\", \"Friday\": \"8AM-3PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "24 W Main St, Booneville, AR 72927",
+    "city": "Booneville",
+    "state": "Arkansas",
+    "postal_code": 72927,
+    "latitude": 35.1399405,
+    "longitude": -93.9223201
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-04": 1.0
+    },
+    "yearly_totals": {
+      "2021": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

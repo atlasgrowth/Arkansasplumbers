@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "smithsrenovations",
+    "place_id": "ChIJMeIdwv0vM4YRm8j_39mlMH0",
+    "google_id": "0x86332ffdc21de231:0x7d30a5d9dfffc89b"
+  },
+  "basic_info": {
+    "name": "Smith's Renovations",
+    "phone": "+1 206-422-5658",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5AM\", \"Thursday\": \"7AM-5AM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"7AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "2928 Chestnut Dr, Bismarck, AR 71929",
+    "city": "Bismarck",
+    "state": "Arkansas",
+    "postal_code": 71929,
+    "latitude": 34.3033759,
+    "longitude": -93.1992398
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

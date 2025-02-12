@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "twoguysplumbinginc",
+    "place_id": "ChIJlfq9EDop1IcRyLTYZdiMl-k",
+    "google_id": "0x87d4293a10bdfa95:0xe9978cd865d8b4c8"
+  },
+  "basic_info": {
+    "name": "Two Guys Plumbing Inc.",
+    "phone": "+1 870-926-8805",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.8789737,
+    "longitude": -90.6277456
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2025-01": 1.0,
+      "2023-03": 1.0
+    },
+    "yearly_totals": {
+      "2025": 1.0,
+      "2023": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

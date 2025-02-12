@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "thehandypossum",
+    "place_id": "ChIJT6vTDTORQgsR3-4APg3Q27Y",
+    "google_id": "0xb4291330dd3ab4f:0xb6dbd00d3e00eedf"
+  },
+  "basic_info": {
+    "name": "The Handy Possum",
+    "phone": "+1 501-697-8136",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-5AM\", \"Tuesday\": \"8AM-5AM\", \"Wednesday\": \"8AM-5AM\", \"Thursday\": \"8AM-5AM\", \"Friday\": \"8AM-5AM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

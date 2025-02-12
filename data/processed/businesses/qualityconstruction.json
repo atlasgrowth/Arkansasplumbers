@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "qualityconstruction",
+    "place_id": "ChIJwWSemkouQoUR_yBQ7FTQVOc",
+    "google_id": "0x85422e4a9a9e64c1:0xe754d054ec5020ff"
+  },
+  "basic_info": {
+    "name": "Quality Construction",
+    "phone": "+1 620-499-9224",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "48 Enid Dr, Cherokee Village, AR 72529",
+    "city": "Cherokee Village",
+    "state": "Arkansas",
+    "postal_code": 72529,
+    "latitude": 36.2759337,
+    "longitude": -91.5437331
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

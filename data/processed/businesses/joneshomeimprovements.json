@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "joneshomeimprovements",
+    "place_id": "ChIJWYsJ_yaj04cRo9g2VcEOeqc",
+    "google_id": "0x87d3a326ff098b59:0xa77a0ec15536d8a3"
+  },
+  "basic_info": {
+    "name": "Jones home improvements",
+    "phone": "+1 501-442-4075",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.5316612,
+    "longitude": -92.4390306
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-08": 1.0
+    },
+    "yearly_totals": {
+      "2020": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/people/Jones-home-improvements/100042599487023/",
+    "instagram": "",
+    "website": ""
+  }
+}

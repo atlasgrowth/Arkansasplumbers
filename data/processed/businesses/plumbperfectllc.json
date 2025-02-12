@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "plumbperfectllc",
+    "place_id": "ChIJ7YwD1rwSnYcRzLVIcA90rh8",
+    "google_id": "0x879d12bcd6038ced:0x1fae740f7048b5cc"
+  },
+  "basic_info": {
+    "name": "Plumb Perfect LLC",
+    "phone": "+1 870-312-4312",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-4PM\", \"Tuesday\": \"8AM-4PM\", \"Wednesday\": \"8AM-4PM\", \"Thursday\": \"8AM-4PM\", \"Friday\": \"8AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 33.3156029,
+    "longitude": -92.8046015
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2023-11": 1.0
+    },
+    "yearly_totals": {
+      "2023": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

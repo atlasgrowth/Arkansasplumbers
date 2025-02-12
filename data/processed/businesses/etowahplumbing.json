@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "business_id": "etowahplumbing",
+    "place_id": "ChIJPX-L90lBiogR3QgpY7cHZpo",
+    "google_id": "0x888a4149f78b7f3d:0x9a6607b7632908dd"
+  },
+  "basic_info": {
+    "name": "Etowah Plumbing",
+    "phone": "+1 256-441-2898",
+    "query_name": "",
+    "rating": 4.4,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 33.9888775,
+    "longitude": -85.866989
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-06": 1.0,
+      "2020-01": 1.0,
+      "2019-04": 1.0,
+      "2019-03": 1.0,
+      "2020-11": 1.0,
+      "2021-01": 1.0,
+      "2018-03": 1.0,
+      "2018-09": 1.0
+    },
+    "yearly_totals": {
+      "2020": 3.0,
+      "2021": 1.0,
+      "2018": 2.0,
+      "2019": 2.0
+    },
+    "total_reviews": 8,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

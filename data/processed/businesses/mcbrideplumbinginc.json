@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "mcbrideplumbinginc",
+    "place_id": "ChIJcckIpce1y4cRY0CZ_ov2R58",
+    "google_id": "0x87cbb5c7a508c971:0x9f47f68bfe994063"
+  },
+  "basic_info": {
+    "name": "Mc Bride Plumbing Inc",
+    "phone": "+1 479-883-8363",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1521 Saratoga Ct #2845, Van Buren, AR 72956",
+    "city": "Van Buren",
+    "state": "Arkansas",
+    "postal_code": 72956,
+    "latitude": 35.4575853,
+    "longitude": -94.3341578
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2016-03": 1.0
+    },
+    "yearly_totals": {
+      "2016": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

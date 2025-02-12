@@ -1,0 +1,43 @@
+{
+  "ids": {
+    "business_id": "weltonsonscontractingservicesllc",
+    "place_id": "ChIJJ-EMmizB0aIR5Vjg3JA2o5U",
+    "google_id": "0xa2d1c12c9a0ce127:0x95a33690dce058e5"
+  },
+  "basic_info": {
+    "name": "Welton & Sons Contracting Services LLC",
+    "phone": "+1 501-541-1116",
+    "query_name": "",
+    "rating": 4,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7515575,
+    "longitude": -92.3098956
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2023-07": 2.0,
+      "2023-06": 1.0
+    },
+    "yearly_totals": {
+      "2023": 3.0
+    },
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

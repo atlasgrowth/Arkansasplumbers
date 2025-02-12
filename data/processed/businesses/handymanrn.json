@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "handymanrn",
+    "place_id": "ChIJmeR1LJJryYcRGDLs_OaQy-g",
+    "google_id": "0x87c96b922c75e499:0xe8cb90e6fcec3218"
+  },
+  "basic_info": {
+    "name": "HandyMan RN",
+    "phone": "+1 479-340-0513",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "CLOSED_TEMPORARILY"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.3344974,
+    "longitude": -94.1656715
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

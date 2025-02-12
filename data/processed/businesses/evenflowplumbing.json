@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "business_id": "evenflowplumbing",
+    "place_id": "ChIJfdpRCmFtNIYR5-Gk7GEQ--0",
+    "google_id": "0x86346d610a51da7d:0xedfb1061eca4e1e7"
+  },
+  "basic_info": {
+    "name": "Evenflow Plumbing",
+    "phone": "+1 870-571-3186",
+    "query_name": "",
+    "rating": 4.7,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "Tennessee Rd, Texarkana, AR 71854",
+    "city": "Texarkana",
+    "state": "Arkansas",
+    "postal_code": 71854,
+    "latitude": 33.4160613,
+    "longitude": -93.9643434
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-10": 1.0,
+      "2024-12": 1.0,
+      "2025-02": 1.0,
+      "2020-12": 1.0,
+      "2023-11": 1.0,
+      "2021-02": 2.0,
+      "2022-01": 1.0,
+      "2024-03": 1.0,
+      "2021-08": 1.0,
+      "2020-10": 1.0,
+      "2020-11": 1.0,
+      "2022-12": 1.0,
+      "2020-05": 1.0
+    },
+    "yearly_totals": {
+      "2024": 3.0,
+      "2025": 1.0,
+      "2020": 4.0,
+      "2021": 3.0,
+      "2022": 2.0,
+      "2023": 1.0
+    },
+    "total_reviews": 12,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

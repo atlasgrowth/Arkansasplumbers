@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "scherzplumbinginc",
+    "place_id": "ChIJrdCBnjwTyYcRit43i8YIIsI",
+    "google_id": "0x87c9133c9e81d0ad:0xc22208c68b37de8a"
+  },
+  "basic_info": {
+    "name": "Scherz Plumbing Inc",
+    "phone": "+1 479-751-5920",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "4582 Olive Tree Ave, Springdale, AR 72762",
+    "city": "Springdale",
+    "state": "Arkansas",
+    "postal_code": 72762,
+    "latitude": 36.2066946,
+    "longitude": -94.180442
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

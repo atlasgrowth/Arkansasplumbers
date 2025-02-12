@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "business_id": "superiorplumbing",
+    "place_id": "ChIJ583lFvgr1IcR9RH9RZkUnxg",
+    "google_id": "0x87d42bf816e5cde7:0x189f149945fd11f5"
+  },
+  "basic_info": {
+    "name": "Superior Plumbing",
+    "phone": "+1 870-206-7809",
+    "query_name": "",
+    "rating": 3.6,
+    "working_hours": "{\"Monday\": \"8AM-4PM\", \"Tuesday\": \"8AM-4PM\", \"Wednesday\": \"8AM-4AM\", \"Thursday\": \"8AM-4AM\", \"Friday\": \"8AM-4AM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "3008 Riggs St Ste A, Jonesboro, AR 72401",
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "postal_code": 72401,
+    "latitude": 35.8272974,
+    "longitude": -90.6685871
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-12": 1.0,
+      "2023-03": 1.0,
+      "2018-10": 1.0,
+      "2019-05": 1.0,
+      "2019-08": 1.0,
+      "2019-12": 1.0,
+      "2024-09": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2020": 1.0,
+      "2023": 1.0,
+      "2018": 1.0,
+      "2019": 3.0
+    },
+    "total_reviews": 7,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "business_id": "mullenplumbing",
+    "place_id": "ChIJDcgnYulG0ocRqevdjmUcZ4U",
+    "google_id": "0x87d246e96227c80d:0x85671c658eddeba9"
+  },
+  "basic_info": {
+    "name": "Mullen Plumbing",
+    "phone": "+1 501-691-9220",
+    "query_name": "",
+    "rating": 3.7,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.5004725,
+    "longitude": -91.8904734
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-02": 1.0,
+      "2019-07": 1.0,
+      "2016-12": 1.0
+    },
+    "yearly_totals": {
+      "2021": 1.0,
+      "2019": 1.0,
+      "2016": 1.0
+    },
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

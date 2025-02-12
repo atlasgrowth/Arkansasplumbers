@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "andrewsenvironmentalservices",
+    "place_id": "ChIJL7osmQcDyYcRlXC12J619Kk",
+    "google_id": "0x87c90307992cba2f:0xa9f4b59ed8b57095"
+  },
+  "basic_info": {
+    "name": "Andrews Environmental Services",
+    "phone": "+1 479-531-6007",
+    "query_name": "",
+    "rating": 3,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "Bella Vista, AR 72714",
+    "city": "Bella Vista",
+    "state": "Arkansas",
+    "postal_code": 72714,
+    "latitude": 36.4704514,
+    "longitude": -94.2128337
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

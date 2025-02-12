@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "mrtwstreeandlawnservices",
+    "place_id": "ChIJAQDMtf-41YcRDERIteZ3ULw",
+    "google_id": "0x87d5b8ffb5cc0001:0xbc5077e6b548440c"
+  },
+  "basic_info": {
+    "name": "Mr. TW\u2019s Tree and Lawn Services",
+    "phone": "+1 870-273-4031",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"7AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.269334,
+    "longitude": -90.0991216
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 4,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

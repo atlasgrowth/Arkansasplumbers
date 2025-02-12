@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "maxairheatingandair",
+    "place_id": "ChIJWVyUs0BRzYcRE78fLcy0osQ",
+    "google_id": "0x87cd5140b3945c59:0xc4a2b4cc2d1fbf13"
+  },
+  "basic_info": {
+    "name": "MAX AIR HEATING AND AIR",
+    "phone": "+1 501-529-9830",
+    "query_name": "",
+    "rating": 2.7,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7520156,
+    "longitude": -92.129428
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 38,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

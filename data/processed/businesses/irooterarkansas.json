@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "business_id": "irooterarkansas",
+    "place_id": "ChIJFT_6Xt9TzYcRuO5XyQShNG8",
+    "google_id": "0x87cd53df5efa3f15:0x6f34a104c957eeb8"
+  },
+  "basic_info": {
+    "name": "I Rooter Arkansas",
+    "phone": "+1 501-580-3238",
+    "query_name": "",
+    "rating": 4.9,
+    "working_hours": "{\"Monday\": \"7AM-7PM\", \"Tuesday\": \"7AM-7PM\", \"Wednesday\": \"7AM-7PM\", \"Thursday\": \"7AM-7PM\", \"Friday\": \"7AM-7PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "811 Rosewood Dr, Benton, AR 72015",
+    "city": "Benton",
+    "state": "Arkansas",
+    "postal_code": 72015,
+    "latitude": 34.5701214,
+    "longitude": -92.5633943
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2018-01": 1.0,
+      "2018-12": 1.0,
+      "2020-11": 2.0,
+      "2018-06": 1.0,
+      "2022-02": 1.0,
+      "2017-03": 1.0
+    },
+    "yearly_totals": {
+      "2020": 2.0,
+      "2022": 1.0,
+      "2018": 3.0,
+      "2017": 1.0
+    },
+    "total_reviews": 7,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

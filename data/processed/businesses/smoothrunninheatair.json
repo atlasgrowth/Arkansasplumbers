@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "smoothrunninheatair",
+    "place_id": "ChIJF66ylsWrzYcRqbNOqAuAauo",
+    "google_id": "0x87cdabc596b2ae17:0xea6a800ba84eb3a9"
+  },
+  "basic_info": {
+    "name": "Smooth Runnin\u2019 Heat & Air",
+    "phone": "+1 479-264-4462",
+    "query_name": "",
+    "rating": 4.8,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "68 C Ln, Pottsville, AR 72858",
+    "city": "Pottsville",
+    "state": "Arkansas",
+    "postal_code": 72858,
+    "latitude": 35.233007,
+    "longitude": -93.03098
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 16,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/smoothrunnin/",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "residentialmaintenancerepair",
+    "place_id": "ChIJIb2TNu9OWIgRa5C4lCnbxL8",
+    "google_id": "0x88584eef3693bd21:0xbfc4db2994b8906b"
+  },
+  "basic_info": {
+    "name": "Residential Maintenance & Repair",
+    "phone": "+1 864-918-3761",
+    "query_name": "",
+    "rating": 4,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.8499376,
+    "longitude": -82.544613
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 8,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

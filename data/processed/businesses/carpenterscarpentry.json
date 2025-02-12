@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "business_id": "carpenterscarpentry",
+    "place_id": "ChIJ7XfJdzH-mGURrbZ6COQ15BA",
+    "google_id": "0x6598fe3177c977ed:0x10e435e4087ab6ad"
+  },
+  "basic_info": {
+    "name": "Carpenter's Carpentry",
+    "phone": "+1 501-388-8798",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.0807014,
+    "longitude": -92.1239222
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-07": 1.0,
+      "2023-05": 3.0,
+      "2023-07": 3.0,
+      "2023-06": 1.0,
+      "2024-02": 1.0
+    },
+    "yearly_totals": {
+      "2024": 2.0,
+      "2023": 7.0
+    },
+    "total_reviews": 9,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/CarpentersCarpentryAZ/",
+    "instagram": "",
+    "website": ""
+  }
+}

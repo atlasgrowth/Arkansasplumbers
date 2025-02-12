@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "clemensonservicesllc",
+    "place_id": "ChIJfQjMOkJxLYYREbT8ySxAMc4",
+    "google_id": "0x862d71423acc087d:0xce31402cc9fcb411"
+  },
+  "basic_info": {
+    "name": "Clemenson Services LLC",
+    "phone": "+1 430-342-2712",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7AM-7PM\", \"Tuesday\": \"7AM-7PM\", \"Wednesday\": \"7AM-7PM\", \"Thursday\": \"7AM-7PM\", \"Friday\": \"7AM-7PM\", \"Saturday\": \"Closed\", \"Sunday\": \"8AM-5PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "13360 US-79, Kingsland, AR 71652",
+    "city": "Kingsland",
+    "state": "Arkansas",
+    "postal_code": 71652,
+    "latitude": 33.8818346,
+    "longitude": -92.2528968
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 5,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

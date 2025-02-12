@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "bigaslabor",
+    "place_id": "ChIJEwzaD0QTAigRFEroGw5ORg4",
+    "google_id": "0x280213440fda0c13:0xe464e0e1be84a14"
+  },
+  "basic_info": {
+    "name": "Big A's Labor",
+    "phone": "+1 870-688-2621",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7:30AM-8PM\", \"Tuesday\": \"7:30AM-8PM\", \"Wednesday\": \"7:30AM-8PM\", \"Thursday\": \"7:30AM-8PM\", \"Friday\": \"7:30AM-8PM\", \"Saturday\": \"7:30AM-8PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.1399892,
+    "longitude": -93.133306
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-07": 3.0
+    },
+    "yearly_totals": {
+      "2024": 3.0
+    },
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

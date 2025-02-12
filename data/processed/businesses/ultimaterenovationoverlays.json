@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "ultimaterenovationoverlays",
+    "place_id": "ChIJve2DcN4C7kwRekA80Nk-C_c",
+    "google_id": "0x4cee02de7083edbd:0xf70b3ed9d03c407a"
+  },
+  "basic_info": {
+    "name": "Ultimate Renovation & Overlays",
+    "phone": "+1 870-904-3351",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8:30AM-9PM\", \"Tuesday\": \"8:30AM-8:30PM\", \"Wednesday\": \"8:30AM-9PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 31.1689103,
+    "longitude": -97.702017
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

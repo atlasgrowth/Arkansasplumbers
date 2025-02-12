@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "business_id": "davidbrooksplumbingandheatingandair",
+    "place_id": "ChIJ5yg0GGi_0ocRT1CqBMsN7n0",
+    "google_id": "0x87d2bf68183428e7:0x7dee0dcb04aa504f"
+  },
+  "basic_info": {
+    "name": "Davidbrooks Plumbing and Heating and Air",
+    "phone": "+1 501-744-5403",
+    "query_name": "",
+    "rating": 4.8,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "312 E 54th St, North Little Rock, AR 72117",
+    "city": "North Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72117,
+    "latitude": 34.8020063,
+    "longitude": -92.1933226
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-10": 1.0,
+      "2020-03": 1.0,
+      "2020-06": 1.0,
+      "2022-08": 1.0,
+      "2019-05": 2.0,
+      "2019-04": 3.0,
+      "2019-07": 2.0,
+      "2023-08": 3.0,
+      "2023-06": 2.0,
+      "2024-02": 2.0,
+      "2024-03": 2.0,
+      "2019-11": 1.0,
+      "2020-11": 1.0,
+      "2022-12": 1.0,
+      "2024-04": 2.0,
+      "2020-05": 1.0
+    },
+    "yearly_totals": {
+      "2024": 7.0,
+      "2020": 4.0,
+      "2022": 2.0,
+      "2023": 5.0,
+      "2019": 8.0
+    },
+    "total_reviews": 26,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/AmericanPlumbingHVAC",
+    "instagram": "",
+    "website": ""
+  }
+}

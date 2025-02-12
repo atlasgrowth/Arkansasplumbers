@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "business_id": "begleysplumbing",
+    "place_id": "ChIJj-Ng5Tak0ocRvb1kJoGzkIU",
+    "google_id": "0x87d2a436e560e38f:0x8590b3812664bdbd"
+  },
+  "basic_info": {
+    "name": "Begley's Plumbing",
+    "phone": "+1 501-960-8057",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "4222 Potter St, Little Rock, AR 72204",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72204,
+    "latitude": 34.7146429,
+    "longitude": -92.3648129
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-03": 1.0,
+      "2017-11": 1.0,
+      "2020-11": 1.0
+    },
+    "yearly_totals": {
+      "2020": 1.0,
+      "2021": 1.0,
+      "2017": 1.0
+    },
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

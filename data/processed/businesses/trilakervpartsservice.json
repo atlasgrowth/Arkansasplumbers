@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "trilakervpartsservice",
+    "place_id": "ChIJSdlcawAnM4YRy0QTgF47BuM",
+    "google_id": "0x863327006b5cd949:0xe3063b5e801344cb"
+  },
+  "basic_info": {
+    "name": "Tri-Lake RV Parts-Service",
+    "phone": "+1 501-547-4701",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"9AM-5PM\", \"Wednesday\": \"9AM-5PM\", \"Thursday\": \"9AM-5PM\", \"Friday\": \"9AM-5PM\", \"Saturday\": \"9AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "2745 AR 7, Bismarck, AR 71929",
+    "city": "Bismarck",
+    "state": "Arkansas",
+    "postal_code": 71929,
+    "latitude": 34.2680999,
+    "longitude": -93.1436572
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

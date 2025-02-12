@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "moyerturnerhevnercontracting",
+    "place_id": "ChIJV4iUlvPNy4cRXZeNlUup2ms",
+    "google_id": "0x87cbcdf396948857:0x6bdaa94b958d975d"
+  },
+  "basic_info": {
+    "name": "MOYER & TURNER & HEVNER CONTRACTING",
+    "phone": "+1 479-929-5741",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.6187235,
+    "longitude": -93.8721669
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "expressrooter",
+    "place_id": "ChIJk9pYRMq90ocR7ojXOuCM_FA",
+    "google_id": "0x87d2bdca4458da93:0x50fc8ce03ad788ee"
+  },
+  "basic_info": {
+    "name": "Express Rooter",
+    "phone": "+1 501-744-4306",
+    "query_name": "",
+    "rating": 1,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "5012 Randolph Rd, North Little Rock, AR 72116",
+    "city": "North Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72116,
+    "latitude": 34.801331,
+    "longitude": -92.241712
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-05": 1.0
+    },
+    "yearly_totals": {
+      "2020": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

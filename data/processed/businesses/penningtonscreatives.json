@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "penningtonscreatives",
+    "place_id": "ChIJv3qsZM8MO2gRMMNRgRfAvls",
+    "google_id": "0x683b0ccf64ac7abf:0x5bbec0178151c330"
+  },
+  "basic_info": {
+    "name": "Pennington's Creatives",
+    "phone": "+1 870-810-3008",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.9835856,
+    "longitude": -90.6805994
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2023-05": 4.0
+    },
+    "yearly_totals": {
+      "2023": 4.0
+    },
+    "total_reviews": 4,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/smcreatives2019/photos/",
+    "instagram": "",
+    "website": ""
+  }
+}

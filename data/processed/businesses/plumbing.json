@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "plumbing",
+    "place_id": "ChIJl_rWNwq90ocR73TPqBi_fUg",
+    "google_id": "0x87d2bd0a37d6fa97:0x487dbf18a8cf74ef"
+  },
+  "basic_info": {
+    "name": "plumbing",
+    "phone": "+1 501-249-7700",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "16 Remount Rd, North Little Rock, AR 72116",
+    "city": "North Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72116,
+    "latitude": 34.8151226,
+    "longitude": -92.2649767
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "bricoleurmaintenancerepairllc",
+    "place_id": "ChIJRYEyeFD-3CgRuU12zJNPrRY",
+    "google_id": "0x28dcfe5078328145:0x16ad4f93cc764db9"
+  },
+  "basic_info": {
+    "name": "Bricoleur Maintenance & Repair LLC",
+    "phone": "+1 870-809-9535",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.2007037,
+    "longitude": -90.5586342
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 9,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

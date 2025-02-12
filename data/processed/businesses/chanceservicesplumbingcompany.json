@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "chanceservicesplumbingcompany",
+    "place_id": "ChIJ1wxBamK_0ocRxnHg4ylj23Q",
+    "google_id": "0x87d2bf626a410cd7:0x74db6329e3e071c6"
+  },
+  "basic_info": {
+    "name": "Chance Services & Plumbing Company",
+    "phone": "+1 501-412-1286",
+    "query_name": "",
+    "rating": 1,
+    "working_hours": "{\"Monday\": \"7:30AM-4:30PM\", \"Tuesday\": \"7:30AM-4:30PM\", \"Wednesday\": \"7:30AM-4:30PM\", \"Thursday\": \"7:30AM-4:30PM\", \"Friday\": \"7:30AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "506 1/2, 506 Freda Rd, North Little Rock, AR 72117",
+    "city": "North Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72117,
+    "latitude": 34.7946386,
+    "longitude": -92.1857685
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

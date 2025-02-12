@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "coryshomeandautohandymanservices",
+    "place_id": "ChIJx68Htgz4o64R28K5JYsMhnI",
+    "google_id": "0xaea3f80cb607afc7:0x72860c8b25b9c2db"
+  },
+  "basic_info": {
+    "name": "Cory's Home and Auto Handyman Services",
+    "phone": "+1 501-507-8653",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"10AM-8PM\", \"Tuesday\": \"10AM-8PM\", \"Wednesday\": \"10AM-8PM\", \"Thursday\": \"10AM-8PM\", \"Friday\": \"10AM-8PM\", \"Saturday\": \"10AM-8PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.631872,
+    "longitude": -97.4791974
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/coryshandymanservice/",
+    "instagram": "",
+    "website": ""
+  }
+}

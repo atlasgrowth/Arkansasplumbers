@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "cartertileservice",
+    "place_id": "ChIJZb9TDZ5olacRHknk1mouG4E",
+    "google_id": "0xa795689e0d53bf65:0x811b2e6ad6e4491e"
+  },
+  "basic_info": {
+    "name": "Carter Tile Service",
+    "phone": "+1 870-329-1707",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.2109042,
+    "longitude": -92.0072253
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/CarterTileCo/",
+    "instagram": "",
+    "website": ""
+  }
+}

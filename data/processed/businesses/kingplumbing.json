@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "business_id": "kingplumbing",
+    "place_id": "ChIJEzJ4v1mA1ocRaY-rj8LgkBY",
+    "google_id": "0x87d68059bf783213:0x1690e0c28fab8f69"
+  },
+  "basic_info": {
+    "name": "King Plumbing",
+    "phone": "+1 870-268-0587",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "137 Co Rd 7808, Jonesboro, AR 72401",
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "postal_code": 72401,
+    "latitude": 35.9532508,
+    "longitude": -90.6286761
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-06": 1.0,
+      "2024-11": 1.0,
+      "2018-02": 1.0
+    },
+    "yearly_totals": {
+      "2024": 2.0,
+      "2018": 1.0
+    },
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "business_id": "wintersplumbingllc",
+    "place_id": "ChIJ6ynF3_IBy4cRTQkSSdxGfD8",
+    "google_id": "0x87cb01f2dfc529eb:0x3f7c46dc4912094d"
+  },
+  "basic_info": {
+    "name": "Winters Plumbing, LLC",
+    "phone": "+1 479-739-0345",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "5504 W Browntown Rd, Huntington, AR 72940",
+    "city": "Huntington",
+    "state": "Arkansas",
+    "postal_code": 72940,
+    "latitude": 35.1053918,
+    "longitude": -94.3381089
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-12": 8.0,
+      "2025-01": 3.0,
+      "2025-02": 1.0,
+      "2020-12": 1.0
+    },
+    "yearly_totals": {
+      "2024": 8.0,
+      "2025": 4.0,
+      "2020": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

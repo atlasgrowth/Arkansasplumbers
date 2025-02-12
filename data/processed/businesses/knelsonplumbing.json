@@ -1,0 +1,53 @@
+{
+  "ids": {
+    "business_id": "knelsonplumbing",
+    "place_id": "ChIJhWDI-6Dv0ocRQOmp7Kw6c8U",
+    "google_id": "0x87d2efa0fbc86085:0xc5733aaceca9e940"
+  },
+  "basic_info": {
+    "name": "K Nelson Plumbing",
+    "phone": "+1 501-286-7955",
+    "query_name": "",
+    "rating": 2,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1013 N 2nd St, Cabot, AR 72023",
+    "city": "Cabot",
+    "state": "Arkansas",
+    "postal_code": 72023,
+    "latitude": 34.9817443,
+    "longitude": -92.0086765
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2018-10": 1.0,
+      "2019-01": 1.0,
+      "2024-03": 1.0,
+      "2017-11": 1.0,
+      "2020-09": 1.0,
+      "2018-03": 1.0,
+      "2017-07": 1.0,
+      "2017-02": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2020": 1.0,
+      "2018": 2.0,
+      "2019": 1.0,
+      "2017": 3.0
+    },
+    "total_reviews": 8,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

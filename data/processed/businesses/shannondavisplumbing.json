@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "shannondavisplumbing",
+    "place_id": "ChIJ_____5MrzYcRjqokow5jpT8",
+    "google_id": "0x87cd2b93ffffffff:0x3fa5630ea324aa8e"
+  },
+  "basic_info": {
+    "name": "Shannon Davis Plumbing",
+    "phone": "+1 501-617-3885",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "Hot Springs, AR 71901",
+    "city": "Hot Springs",
+    "state": "Arkansas",
+    "postal_code": 71901,
+    "latitude": 34.5037004,
+    "longitude": -93.0551795
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "hectorsconstructionremodelingllc",
+    "place_id": "ChIJ93kFXXADM4YRngHmBesCES4",
+    "google_id": "0x863303705d0579f7:0x2e1102eb05e6019e"
+  },
+  "basic_info": {
+    "name": "Hector\u2019s Construction & Remodeling LLC.",
+    "phone": "+1 870-210-9396",
+    "query_name": "",
+    "rating": 4.9,
+    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"8AM-12PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "710 E Beech St, Gurdon, AR 71743",
+    "city": "Gurdon",
+    "state": "Arkansas",
+    "postal_code": 71743,
+    "latitude": 33.920637,
+    "longitude": -93.146056
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 26,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

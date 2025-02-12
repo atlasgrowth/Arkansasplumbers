@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "business_id": "allinoneservices",
+    "place_id": "ChIJjy8EKfM7X6cRjVVNorsmQT0",
+    "google_id": "0xa75f3bf329042f8f:0x3d4126bba24d558d"
+  },
+  "basic_info": {
+    "name": "All In One Services",
+    "phone": "+1 870-810-7688",
+    "query_name": "",
+    "rating": 4.6,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "613 W Marr St, Pocahontas, AR 72455",
+    "city": "Pocahontas",
+    "state": "Arkansas",
+    "postal_code": 72455,
+    "latitude": 36.2579875,
+    "longitude": -90.9754053
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 1.0,
+      "2024-06": 1.0,
+      "2023-03": 1.0,
+      "2023-11": 1.0,
+      "2024-09": 1.0,
+      "2023-06": 1.0,
+      "2024-02": 1.0,
+      "2024-03": 2.0
+    },
+    "yearly_totals": {
+      "2024": 6.0,
+      "2023": 3.0
+    },
+    "total_reviews": 9,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

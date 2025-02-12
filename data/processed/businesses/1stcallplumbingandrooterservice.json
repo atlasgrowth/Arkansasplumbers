@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "business_id": "1stcallplumbingandrooterservice",
+    "place_id": "ChIJkxoTEefq0ocRDv-RCXPG-XA",
+    "google_id": "0x87d2eae711131a93:0x70f9c6730991ff0e"
+  },
+  "basic_info": {
+    "name": "1st call plumbing and rooter service",
+    "phone": "+1 501-772-7352",
+    "query_name": "",
+    "rating": 4.9,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1409 Rebel Dr, Jacksonville, Arkansas 72076",
+    "city": "Jacksonville",
+    "state": "Arkansas",
+    "postal_code": 72076,
+    "latitude": 35.3186489,
+    "longitude": -87.6136849
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 2.0,
+      "2020-04": 2.0,
+      "2021-11": 2.0,
+      "2023-09": 1.0,
+      "2021-02": 1.0,
+      "2018-05": 4.0,
+      "2018-07": 1.0,
+      "2018-12": 1.0,
+      "2019-04": 1.0,
+      "2019-07": 1.0,
+      "2021-03": 2.0,
+      "2021-04": 1.0,
+      "2023-07": 1.0,
+      "2023-06": 1.0,
+      "2018-02": 1.0,
+      "2021-08": 2.0,
+      "2017-11": 2.0,
+      "2020-11": 1.0,
+      "2022-12": 2.0,
+      "2017-12": 1.0,
+      "2019-09": 1.0
+    },
+    "yearly_totals": {
+      "2024": 2.0,
+      "2020": 3.0,
+      "2021": 8.0,
+      "2022": 2.0,
+      "2023": 3.0,
+      "2018": 7.0,
+      "2019": 3.0,
+      "2017": 3.0
+    },
+    "total_reviews": 31,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

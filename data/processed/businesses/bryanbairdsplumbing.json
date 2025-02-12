@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "bryanbairdsplumbing",
+    "place_id": "ChIJC6GpNPlSzIcRHSxz7el2OaA",
+    "google_id": "0x87cc52f934a9a10b:0xa03976e9ed732c1d"
+  },
+  "basic_info": {
+    "name": "Bryan Baird's Plumbing",
+    "phone": "+1 479-747-6492",
+    "query_name": "",
+    "rating": 4,
+    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "305 E Gum St #8961, Russellville, AR 72802",
+    "city": "Russellville",
+    "state": "Arkansas",
+    "postal_code": 72802,
+    "latitude": 35.3116932,
+    "longitude": -93.1343564
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 49,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

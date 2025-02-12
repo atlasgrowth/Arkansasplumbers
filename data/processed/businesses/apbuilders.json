@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "apbuilders",
+    "place_id": "ChIJA_P2K9qdNIYRu6uXrL1KVNQ",
+    "google_id": "0x86349dda2bf6f303:0xd4544abdac97abbb"
+  },
+  "basic_info": {
+    "name": "A-P Builders",
+    "phone": "+1 903-490-8343",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-4:30PM\", \"Tuesday\": \"8AM-4:30PM\", \"Wednesday\": \"8AM-4:30PM\", \"Thursday\": \"8AM-4:30PM\", \"Friday\": \"8AM-4:30PM\", \"Saturday\": \"8AM-12PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 33.742286,
+    "longitude": -93.9334234
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-07": 2.0
+    },
+    "yearly_totals": {
+      "2020": 2.0
+    },
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

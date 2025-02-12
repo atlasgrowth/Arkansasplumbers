@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "business_id": "hawkinsplumbing",
+    "place_id": "ChIJR2Y8vHWmy4cRK_DAwB6GNGA",
+    "google_id": "0x87cba675bc3c6647:0x6034861ec0c0f02b"
+  },
+  "basic_info": {
+    "name": "Hawkins Plumbing",
+    "phone": "+1 479-461-8347",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"8AM-5PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.1972306,
+    "longitude": -94.1944319
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-11": 1.0,
+      "2025-01": 1.0,
+      "2020-04": 1.0,
+      "2020-12": 1.0,
+      "2021-06": 1.0,
+      "2022-09": 1.0,
+      "2024-01": 1.0,
+      "2021-02": 2.0,
+      "2023-12": 1.0,
+      "2019-05": 1.0,
+      "2019-12": 2.0,
+      "2018-12": 1.0,
+      "2019-01": 1.0,
+      "2019-10": 2.0,
+      "2020-07": 2.0,
+      "2021-03": 3.0,
+      "2021-04": 1.0,
+      "2023-07": 1.0,
+      "2023-06": 1.0,
+      "2024-03": 1.0,
+      "2022-07": 1.0,
+      "2021-08": 1.0,
+      "2021-10": 1.0,
+      "2021-01": 1.0,
+      "2020-08": 1.0,
+      "2018-06": 1.0
+    },
+    "yearly_totals": {
+      "2024": 3.0,
+      "2025": 1.0,
+      "2020": 5.0,
+      "2021": 10.0,
+      "2022": 2.0,
+      "2023": 3.0,
+      "2018": 2.0,
+      "2019": 6.0
+    },
+    "total_reviews": 31,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/hawkinsplumber/",
+    "instagram": "",
+    "website": ""
+  }
+}

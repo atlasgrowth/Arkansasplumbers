@@ -1,0 +1,50 @@
+{
+  "ids": {
+    "business_id": "trilakespumpingserviceseptic",
+    "place_id": "ChIJ383bUCMvzYcREJveebRTTcI",
+    "google_id": "0x87cd2f2350dbcddf:0xc24d53b479de9b10"
+  },
+  "basic_info": {
+    "name": "Tri-Lakes Pumping Service Septic",
+    "phone": "+1 501-318-7124",
+    "query_name": "",
+    "rating": 4.1,
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "242 Gilmer Ln, Hot Springs, AR 71901",
+    "city": "Hot Springs",
+    "state": "Arkansas",
+    "postal_code": 71901,
+    "latitude": 34.5650097,
+    "longitude": -93.0024268
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-11": 1.0,
+      "2023-02": 1.0,
+      "2024-03": 1.0,
+      "2021-08": 2.0,
+      "2021-10": 1.0,
+      "2021-09": 1.0,
+      "2024-04": 1.0
+    },
+    "yearly_totals": {
+      "2024": 2.0,
+      "2021": 5.0,
+      "2023": 1.0
+    },
+    "total_reviews": 9,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

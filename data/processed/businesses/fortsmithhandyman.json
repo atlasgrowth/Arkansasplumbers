@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "business_id": "fortsmithhandyman",
+    "place_id": "ChIJ9cQuXTizy4cRMBqrpgsy708",
+    "google_id": "0x87cbb3385d2ec4f5:0x4fef320ba6ab1a30"
+  },
+  "basic_info": {
+    "name": "Fort Smith Handyman",
+    "phone": "+1 479-651-9863",
+    "query_name": "",
+    "rating": 3.5,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"7AM-7PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "5600 Fresno St, Fort Smith, AR 72903",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "postal_code": 72903,
+    "latitude": 35.3495098,
+    "longitude": -94.3707471
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 3.0,
+      "2021-06": 1.0,
+      "2021-11": 1.0,
+      "2024-01": 1.0,
+      "2018-05": 6.0,
+      "2018-07": 1.0,
+      "2019-05": 3.0,
+      "2019-08": 3.0,
+      "2018-11": 1.0,
+      "2019-01": 1.0,
+      "2019-07": 1.0,
+      "2019-10": 1.0,
+      "2020-07": 1.0,
+      "2021-04": 1.0,
+      "2022-01": 1.0,
+      "2022-03": 1.0,
+      "2023-02": 1.0,
+      "2023-07": 1.0,
+      "2018-02": 1.0,
+      "2019-03": 2.0,
+      "2022-04": 1.0,
+      "2019-02": 1.0,
+      "2019-06": 1.0,
+      "2020-09": 1.0,
+      "2020-10": 1.0,
+      "2020-08": 1.0,
+      "2018-08": 1.0
+    },
+    "yearly_totals": {
+      "2024": 4.0,
+      "2020": 4.0,
+      "2021": 3.0,
+      "2022": 3.0,
+      "2023": 2.0,
+      "2018": 10.0,
+      "2019": 13.0
+    },
+    "total_reviews": 39,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

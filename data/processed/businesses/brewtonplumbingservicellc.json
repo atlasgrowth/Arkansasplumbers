@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "business_id": "brewtonplumbingservicellc",
+    "place_id": "ChIJiZTNf8yuIgwRvMjsM42TByQ",
+    "google_id": "0xc22aecc7fcd9489:0x2407938d33ecc8bc"
+  },
+  "basic_info": {
+    "name": "Brewton Plumbing Service LLC",
+    "phone": "+1 479-459-4283",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.3477315,
+    "longitude": -94.1926943
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 6.0,
+      "2024-06": 2.0,
+      "2024-07": 1.0,
+      "2024-10": 5.0,
+      "2024-11": 4.0,
+      "2024-12": 1.0,
+      "2025-01": 4.0,
+      "2025-02": 2.0,
+      "2023-09": 1.0,
+      "2023-11": 3.0,
+      "2024-01": 4.0,
+      "2024-08": 4.0,
+      "2023-12": 1.0,
+      "2024-09": 1.0,
+      "2023-06": 4.0,
+      "2024-02": 7.0,
+      "2024-03": 7.0,
+      "2024-04": 14.0
+    },
+    "yearly_totals": {
+      "2024": 56.0,
+      "2025": 6.0,
+      "2023": 9.0
+    },
+    "total_reviews": 65,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/people/Brewton-Plumbing-Service-LLC/100078886325905/",
+    "instagram": "",
+    "website": ""
+  }
+}

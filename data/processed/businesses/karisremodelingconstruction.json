@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "karisremodelingconstruction",
+    "place_id": "ChIJw25Rj-LkUm4RWLDVsa9qrhY",
+    "google_id": "0x6e52e4e28f516ec3:0x16ae6aafb1d5b058"
+  },
+  "basic_info": {
+    "name": "Kari\u2019s Remodeling & Construction",
+    "phone": "+1 916-871-7885",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5AM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.1368376,
+    "longitude": -92.3250453
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

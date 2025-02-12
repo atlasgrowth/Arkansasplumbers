@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "jbsconcretemore",
+    "place_id": "ChIJK9NsNUuv0ocRwV4WvS_rGxw",
+    "google_id": "0x87d2af4b356cd32b:0x1c1beb2fbd165ec1"
+  },
+  "basic_info": {
+    "name": "JB'S Concrete & More",
+    "phone": "+1 501-218-6555",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-7PM\", \"Tuesday\": \"8AM-7PM\", \"Wednesday\": \"8AM-7PM\", \"Thursday\": \"8AM-7PM\", \"Friday\": \"8AM-7PM\", \"Saturday\": \"8AM-7PM\", \"Sunday\": \"9AM-5PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7864769,
+    "longitude": -92.5507007
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

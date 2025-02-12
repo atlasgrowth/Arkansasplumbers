@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "btplumbinginc",
+    "place_id": "ChIJVdiloFxbM4YRS8kngxirBXs",
+    "google_id": "0x86335b5ca0a5d855:0x7b05ab188327c94b"
+  },
+  "basic_info": {
+    "name": "B &T Plumbing Inc",
+    "phone": "+1 501-617-5532",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"6AM-6PM\", \"Tuesday\": \"6AM-6PM\", \"Wednesday\": \"6AM-6PM\", \"Thursday\": \"6AM-6PM\", \"Friday\": \"6AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.6336829,
+    "longitude": -92.9824709
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

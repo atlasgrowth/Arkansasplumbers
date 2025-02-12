@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "business_id": "scplumbing",
+    "place_id": "ChIJ0QbIOpqvzYcRNBzXPEfQ9iw",
+    "google_id": "0x87cdaf9a3ac806d1:0x2cf6d0473cd71c34"
+  },
+  "basic_info": {
+    "name": "SC Plumbing",
+    "phone": "+1 479-223-3780",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-4:30PM\", \"Tuesday\": \"8AM-4:30PM\", \"Wednesday\": \"8AM-4:30PM\", \"Thursday\": \"8AM-4:30PM\", \"Friday\": \"8AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "90 Country Acrs Rd, Atkins, AR 72823",
+    "city": "Atkins",
+    "state": "Arkansas",
+    "postal_code": 72823,
+    "latitude": 35.281928,
+    "longitude": -92.940378
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2023-11": 1.0,
+      "2024-01": 1.0,
+      "2024-02": 1.0
+    },
+    "yearly_totals": {
+      "2024": 2.0,
+      "2023": 1.0
+    },
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

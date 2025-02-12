@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "rpmconsultingoftexas",
+    "place_id": "ChIJwzgHzMOj0ocRUjT8EnQ9Dg0",
+    "google_id": "0x87d2a3c3cc0738c3:0xd0e3d7412fc3452"
+  },
+  "basic_info": {
+    "name": "RPM Consulting of Texas",
+    "phone": "+1 501-529-8686",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "8315 Cantrell Rd, Little Rock, AR 72227",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72227,
+    "latitude": 34.7763298,
+    "longitude": -92.3674868
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

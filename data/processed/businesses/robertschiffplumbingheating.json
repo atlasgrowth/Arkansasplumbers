@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "robertschiffplumbingheating",
+    "place_id": "ChIJfye3CJ7nwokRFUHkFCG3Pq4",
+    "google_id": "0x89c2e79e08b7277f:0xae3eb72114e44115"
+  },
+  "basic_info": {
+    "name": "Robert Schiff Plumbing & Heating",
+    "phone": "+1 201-275-2003",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 41.0780414,
+    "longitude": -74.176363
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 10,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/schiffplumbing/",
+    "instagram": "",
+    "website": ""
+  }
+}

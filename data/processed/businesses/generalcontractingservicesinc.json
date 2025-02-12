@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "generalcontractingservicesinc",
+    "place_id": "ChIJ21NQN7CZ0ocRp9UvFto_Zio",
+    "google_id": "0x87d299b0375053db:0x2a663fda162fd5a7"
+  },
+  "basic_info": {
+    "name": "General Contracting Services Inc",
+    "phone": "+1 501-851-8355",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "5818 Wilkiewicz Rd, North Little Rock, AR 72118",
+    "city": "North Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72118,
+    "latitude": 34.89322,
+    "longitude": -92.331069
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

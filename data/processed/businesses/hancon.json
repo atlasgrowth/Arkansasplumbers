@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "hancon",
+    "place_id": "ChIJI9L42Mpx9wURtytqo-j7XWQ",
+    "google_id": "0x5f771cad8f8d223:0x645dfbe8a36a2bb7"
+  },
+  "basic_info": {
+    "name": "Hancon",
+    "phone": "+1 501-690-3168",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7669973,
+    "longitude": -92.3098956
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

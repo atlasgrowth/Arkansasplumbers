@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "rivervalleyplumbing",
+    "place_id": "ChIJ2XhggTlTzIcR1HYCVViM8PA",
+    "google_id": "0x87cc5339816078d9:0xf0f08c58550276d4"
+  },
+  "basic_info": {
+    "name": "River Valley Plumbing",
+    "phone": "+1 479-970-1610",
+    "query_name": "",
+    "rating": 3.3,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "Russellville, AR 72812",
+    "city": "Russellville",
+    "state": "Arkansas",
+    "postal_code": 72812,
+    "latitude": 35.29,
+    "longitude": -93.11
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 7,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/people/River-Valley-Plumbing/100063502993203/",
+    "instagram": "",
+    "website": ""
+  }
+}

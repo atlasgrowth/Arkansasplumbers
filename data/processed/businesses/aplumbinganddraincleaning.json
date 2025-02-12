@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "business_id": "aplumbinganddraincleaning",
+    "place_id": "ChIJ4Y-BLTjjzocRkQZQjQ4sxaU",
+    "google_id": "0x87cee3382d818fe1:0xa5c52c0e8d500691"
+  },
+  "basic_info": {
+    "name": "A+ Plumbing and Drain Cleaning",
+    "phone": "+1 870-350-3504",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.5550275,
+    "longitude": -93.3276255
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-10": 8.0,
+      "2023-03": 1.0,
+      "2021-03": 1.0,
+      "2023-05": 2.0,
+      "2024-02": 1.0,
+      "2024-03": 2.0,
+      "2022-07": 1.0,
+      "2021-01": 1.0,
+      "2022-10": 1.0,
+      "2022-11": 1.0
+    },
+    "yearly_totals": {
+      "2024": 11.0,
+      "2021": 2.0,
+      "2022": 3.0,
+      "2023": 3.0
+    },
+    "total_reviews": 19,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

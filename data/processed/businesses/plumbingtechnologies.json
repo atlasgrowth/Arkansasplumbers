@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "plumbingtechnologies",
+    "place_id": "ChIJhw6TJkuzy4cRvAn2eTzzIhE",
+    "google_id": "0x87cbb34b26930e87:0x1122f33c79f609bc"
+  },
+  "basic_info": {
+    "name": "Plumbing Technologies",
+    "phone": "+1 479-414-0882",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "7716 Euper Ln, Fort Smith, AR 72903",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "postal_code": 72903,
+    "latitude": 35.3626462,
+    "longitude": -94.3469456
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "business_id": "unityenterprisesofnortheastarkansas",
+    "place_id": "ChIJi4da6Vwp1IcR0bX5offer6g",
+    "google_id": "0x87d4295ce95a878b:0xa8afdef7a1f9b5d1"
+  },
+  "basic_info": {
+    "name": "Unity Enterprises of Northeast Arkansas",
+    "phone": "+1 870-844-4000",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "CLOSED_TEMPORARILY"
+  },
+  "location": {
+    "full_address": "115 Co Rd 345, Jonesboro, AR 72401",
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "postal_code": 72401,
+    "latitude": 35.9004411,
+    "longitude": -90.7441102
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2022-01": 1.0,
+      "2021-08": 1.0,
+      "2021-10": 1.0,
+      "2022-04": 2.0
+    },
+    "yearly_totals": {
+      "2021": 2.0,
+      "2022": 3.0
+    },
+    "total_reviews": 5,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

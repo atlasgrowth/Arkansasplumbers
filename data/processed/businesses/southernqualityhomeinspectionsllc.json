@@ -1,0 +1,48 @@
+{
+  "ids": {
+    "business_id": "southernqualityhomeinspectionsllc",
+    "place_id": "ChIJQaXjGj2lJwQR6dRJhq0D3Z4",
+    "google_id": "0x427a53d1ae3a541:0x9edd03ad8649d4e9"
+  },
+  "basic_info": {
+    "name": "Southern Quality Home Inspections LLC",
+    "phone": "+1 870-212-8372",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-9PM\", \"Tuesday\": \"8AM-9PM\", \"Wednesday\": \"8AM-9PM\", \"Thursday\": \"8AM-9PM\", \"Friday\": \"8AM-9PM\", \"Saturday\": \"8AM-9PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7520156,
+    "longitude": -92.129428
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2022-05": 2.0,
+      "2022-06": 2.0,
+      "2022-01": 1.0,
+      "2022-03": 1.0,
+      "2022-07": 1.0,
+      "2022-04": 2.0,
+      "2022-02": 1.0
+    },
+    "yearly_totals": {
+      "2022": 10.0
+    },
+    "total_reviews": 10,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/people/Southern-Quality-Home-Inspections-LLC/100072369346969/",
+    "instagram": "",
+    "website": ""
+  }
+}

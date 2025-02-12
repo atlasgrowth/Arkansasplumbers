@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "business_id": "allcallsplumbing",
+    "place_id": "ChIJRau1Ub8QyYcRR0_meilKIHE",
+    "google_id": "0x87c910bf51b5ab45:0x71204a297ae64f47"
+  },
+  "basic_info": {
+    "name": "All Calls Plumbing",
+    "phone": "+1 479-544-3331",
+    "query_name": "",
+    "rating": 4.5,
+    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"7AM-12PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.3779579,
+    "longitude": -94.216675
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 3.0,
+      "2024-06": 1.0,
+      "2020-02": 1.0,
+      "2020-06": 6.0,
+      "2020-12": 1.0,
+      "2023-09": 1.0,
+      "2023-10": 1.0,
+      "2021-02": 1.0,
+      "2018-10": 1.0,
+      "2019-05": 1.0,
+      "2018-11": 1.0,
+      "2018-12": 1.0,
+      "2019-07": 1.0,
+      "2022-01": 1.0,
+      "2023-05": 1.0,
+      "2024-02": 1.0,
+      "2019-03": 1.0,
+      "2017-09": 1.0,
+      "2017-10": 1.0,
+      "2017-11": 1.0,
+      "2019-02": 1.0,
+      "2019-06": 1.0,
+      "2020-09": 1.0,
+      "2020-10": 1.0,
+      "2021-01": 1.0,
+      "2018-09": 1.0,
+      "2020-08": 1.0,
+      "2018-06": 1.0
+    },
+    "yearly_totals": {
+      "2024": 5.0,
+      "2020": 11.0,
+      "2021": 2.0,
+      "2022": 1.0,
+      "2023": 3.0,
+      "2018": 5.0,
+      "2019": 5.0,
+      "2017": 3.0
+    },
+    "total_reviews": 35,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/people/All-Calls-Plumbing/100063746825046/",
+    "instagram": "",
+    "website": ""
+  }
+}

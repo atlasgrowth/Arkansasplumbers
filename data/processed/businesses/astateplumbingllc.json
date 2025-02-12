@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "business_id": "astateplumbingllc",
+    "place_id": "ChIJMzMR5v770ocRH73Tz3HiFYo",
+    "google_id": "0x87d2fbfee6113333:0x8a15e271cfd3bd1f"
+  },
+  "basic_info": {
+    "name": "A State Plumbing LLC",
+    "phone": "+1 501-286-9795",
+    "query_name": "",
+    "rating": 4.7,
+    "working_hours": "{\"Monday\": \"8AM-4:30PM\", \"Tuesday\": \"8AM-4:30PM\", \"Wednesday\": \"8AM-4:30PM\", \"Thursday\": \"8AM-4:30PM\", \"Friday\": \"8AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "705 2nd St, Ward, AR 72176",
+    "city": "Ward",
+    "state": "Arkansas",
+    "postal_code": 72176,
+    "latitude": 35.0361989,
+    "longitude": -91.9452028
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-05": 1.0,
+      "2024-07": 1.0,
+      "2024-12": 1.0,
+      "2025-02": 1.0,
+      "2022-05": 1.0,
+      "2022-08": 1.0,
+      "2022-09": 1.0,
+      "2023-03": 1.0,
+      "2023-09": 1.0,
+      "2023-11": 1.0,
+      "2024-01": 3.0,
+      "2023-04": 1.0,
+      "2021-07": 1.0,
+      "2023-02": 1.0,
+      "2023-05": 2.0,
+      "2023-07": 2.0,
+      "2023-06": 1.0,
+      "2021-09": 1.0
+    },
+    "yearly_totals": {
+      "2024": 6.0,
+      "2025": 1.0,
+      "2021": 2.0,
+      "2022": 3.0,
+      "2023": 10.0
+    },
+    "total_reviews": 20,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/Astateplumbing/",
+    "instagram": "",
+    "website": ""
+  }
+}

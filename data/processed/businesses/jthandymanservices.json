@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "jthandymanservices",
+    "place_id": "ChIJUwPOraMfByYR-z70NTRgQTY",
+    "google_id": "0x26071fa3adce0353:0x3641603435f43efb"
+  },
+  "basic_info": {
+    "name": "J & T Handyman Services",
+    "phone": "+1 479-275-0088",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "2100 Brooken Hill Dr, Fort Smith, AR 72916",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "postal_code": 72916,
+    "latitude": 35.2959394,
+    "longitude": -94.4020859
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

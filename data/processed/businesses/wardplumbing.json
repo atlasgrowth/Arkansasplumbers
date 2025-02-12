@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "wardplumbing",
+    "place_id": "ChIJ-Zmy791NzYcRfCcQYlMR7_U",
+    "google_id": "0x87cd4dddefb299f9:0xf5ef11536210277c"
+  },
+  "basic_info": {
+    "name": "Ward Plumbing",
+    "phone": "+1 501-860-2270",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.4371836,
+    "longitude": -92.3092458
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/wardplumbingheating/",
+    "instagram": "",
+    "website": ""
+  }
+}

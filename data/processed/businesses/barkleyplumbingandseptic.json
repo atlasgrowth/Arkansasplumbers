@@ -1,0 +1,47 @@
+{
+  "ids": {
+    "business_id": "barkleyplumbingandseptic",
+    "place_id": "ChIJvyeTdRotvG8RkmIklJ97REQ",
+    "google_id": "0x6fbc2d1a759327bf:0x44447b9f94246292"
+  },
+  "basic_info": {
+    "name": "Barkley Plumbing and Septic",
+    "phone": "+1 870-926-1296",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.9685639,
+    "longitude": -90.7987036
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-06": 5.0,
+      "2024-11": 1.0,
+      "2024-12": 3.0,
+      "2025-01": 1.0,
+      "2024-08": 2.0
+    },
+    "yearly_totals": {
+      "2024": 11.0,
+      "2025": 1.0
+    },
+    "total_reviews": 8,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

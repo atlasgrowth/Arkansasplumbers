@@ -1,0 +1,44 @@
+{
+  "ids": {
+    "business_id": "hankinsplumbingllc",
+    "place_id": "ChIJy73ecAtxSmsRQhzlqo9zxiQ",
+    "google_id": "0x6b4a710b70debdcb:0x24c6738faae51c42"
+  },
+  "basic_info": {
+    "name": "Hankins Plumbing, LLC",
+    "phone": "+1 870-489-2878",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-4PM\", \"Tuesday\": \"8AM-4PM\", \"Wednesday\": \"8AM-4PM\", \"Thursday\": \"8AM-4PM\", \"Friday\": \"8AM-4PM\", \"Saturday\": \"8AM-4PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.2723398,
+    "longitude": -92.0918724
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2025-02": 1.0,
+      "2023-01": 1.0
+    },
+    "yearly_totals": {
+      "2025": 1.0,
+      "2023": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

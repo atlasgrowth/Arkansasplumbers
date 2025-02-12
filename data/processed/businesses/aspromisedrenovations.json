@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "aspromisedrenovations",
+    "place_id": "ChIJJxOfgIIKnEERc8wU9qpmUeM",
+    "google_id": "0x419c0a82809f1327:0xe35166aaf614cc73"
+  },
+  "basic_info": {
+    "name": "As Promised Renovations",
+    "phone": "+1 417-569-7888",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.692526,
+    "longitude": -93.2334684
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 2,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

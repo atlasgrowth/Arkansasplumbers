@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "jayshandymanandhomeservices",
+    "place_id": "ChIJLeQhG9d_uKQRaQdjUr1rAXA",
+    "google_id": "0xa4b87fd71b21e42d:0x70016bbd52630769"
+  },
+  "basic_info": {
+    "name": "Jay's Handyman and Home Services",
+    "phone": "+1 501-703-7151",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.1562622,
+    "longitude": -93.5613701
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/JaysHandymanLLC/",
+    "instagram": "",
+    "website": ""
+  }
+}

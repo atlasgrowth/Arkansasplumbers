@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "jeffbrewerplumbinginc",
+    "place_id": "ChIJ4yCFImzw0ocRFd7qvRsOk3g",
+    "google_id": "0x87d2f06c228520e3:0x78930e1bbdeade15"
+  },
+  "basic_info": {
+    "name": "Jeff Brewer Plumbing Inc.",
+    "phone": "+1 501-259-4024",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"7:30AM-4PM\", \"Tuesday\": \"7:30AM-4PM\", \"Wednesday\": \"7:30AM-4PM\", \"Thursday\": \"7:30AM-4PM\", \"Friday\": \"7:30AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "3921 AR-319, Austin, AR 72007",
+    "city": "Austin",
+    "state": "Arkansas",
+    "postal_code": 72007,
+    "latitude": 35.0493851,
+    "longitude": -92.0015785
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2018-03": 1.0
+    },
+    "yearly_totals": {
+      "2018": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

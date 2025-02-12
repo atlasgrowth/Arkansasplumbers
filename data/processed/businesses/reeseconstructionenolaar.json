@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "reeseconstructionenolaar",
+    "place_id": "ChIJVVUxH0Jg0ocR0HA0d40a-qo",
+    "google_id": "0x87d260421f315555:0xaafa1a8d773470d0"
+  },
+  "basic_info": {
+    "name": "reese construction enola ar",
+    "phone": "+1 501-269-0788",
+    "query_name": "",
+    "rating": 4.7,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "284 Garland Springs Rd, Enola, AR 72047",
+    "city": "Enola",
+    "state": "Arkansas",
+    "postal_code": 72047,
+    "latitude": 35.2233463,
+    "longitude": -92.1658045
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

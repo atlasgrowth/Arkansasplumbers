@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "samsplumbing",
+    "place_id": "ChIJp_78KhSt0ocRik-_L2Ly2gs",
+    "google_id": "0x87d2ad142afcfea7:0xbdaf2622fbf4f8a"
+  },
+  "basic_info": {
+    "name": "Sam's Plumbing",
+    "phone": "+1 501-412-1315",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"7AM-6PM\", \"Tuesday\": \"7AM-6PM\", \"Wednesday\": \"7AM-6PM\", \"Thursday\": \"7AM-6PM\", \"Friday\": \"7AM-6PM\", \"Saturday\": \"7AM-6PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.881148,
+    "longitude": -91.9394576
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

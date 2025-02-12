@@ -1,0 +1,45 @@
+{
+  "ids": {
+    "business_id": "davidsfastemergencyplumbing",
+    "place_id": "ChIJ-whw30ec1ocRV6TF2A7qwmk",
+    "google_id": "0x87d69c47df7008fb:0x69c2ea0ed8c5a457"
+  },
+  "basic_info": {
+    "name": "David's Fast Emergency Plumbing",
+    "phone": "+1 870-761-7149",
+    "query_name": "",
+    "rating": 2.3,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.9962965,
+    "longitude": -90.8022821
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-02": 1.0,
+      "2023-01": 1.0,
+      "2023-04": 1.0
+    },
+    "yearly_totals": {
+      "2021": 1.0,
+      "2023": 2.0
+    },
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "business_id": "calhounelectricinc",
+    "place_id": "ChIJMVM2MPXq0ocRQD67g-iCzio",
+    "google_id": "0x87d2eaf530365331:0x2ace82e883bb3e40"
+  },
+  "basic_info": {
+    "name": "Calhoun Electric Inc",
+    "phone": "+1 501-982-5686",
+    "query_name": "",
+    "rating": 3.7,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "Jacksonville, AR 72076",
+    "city": "Jacksonville",
+    "state": "Arkansas",
+    "postal_code": 72076,
+    "latitude": 34.8662005,
+    "longitude": -92.1101458
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-02": 1.0,
+      "2021-07": 1.0,
+      "2019-01": 1.0
+    },
+    "yearly_totals": {
+      "2020": 1.0,
+      "2021": 1.0,
+      "2019": 1.0
+    },
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

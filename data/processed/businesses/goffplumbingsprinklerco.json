@@ -1,0 +1,54 @@
+{
+  "ids": {
+    "business_id": "goffplumbingsprinklerco",
+    "place_id": "ChIJr5opmLa90ocRVnlUVa78faY",
+    "google_id": "0x87d2bdb698299aaf:0xa67dfcae55547956"
+  },
+  "basic_info": {
+    "name": "Goff Plumbing & Sprinkler Co",
+    "phone": "+1 501-831-5179",
+    "query_name": "",
+    "rating": 4.5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "1621 Crestwood Rd, North Little Rock, AR 72116",
+    "city": "North Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72116,
+    "latitude": 34.803806,
+    "longitude": -92.246908
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2022-06": 1.0,
+      "2023-09": 1.0,
+      "2021-02": 1.0,
+      "2023-05": 1.0,
+      "2019-03": 1.0,
+      "2022-11": 1.0,
+      "2024-04": 1.0,
+      "2017-07": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2021": 1.0,
+      "2022": 2.0,
+      "2023": 2.0,
+      "2019": 1.0,
+      "2017": 1.0
+    },
+    "total_reviews": 8,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

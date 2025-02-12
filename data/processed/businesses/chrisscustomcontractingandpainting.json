@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "chrisscustomcontractingandpainting",
+    "place_id": "ChIJt_9il6n2Mq8R_JJXI1277MI",
+    "google_id": "0xaf32f6a99762ffb7:0xc2ecbb5d235792fc"
+  },
+  "basic_info": {
+    "name": "Chris's Custom Contracting and Painting",
+    "phone": "+1 585-378-6510",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.6228031,
+    "longitude": -91.2315244
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

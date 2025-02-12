@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "merriottplumbing",
+    "place_id": "ChIJ05DyHFkrM4YRpALB7Mwv9wE",
+    "google_id": "0x86332b591cf290d3:0x1f72fccecc102a4"
+  },
+  "basic_info": {
+    "name": "Merriott Plumbing",
+    "phone": "+1 501-545-5157",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "202 N Moore Rd, Hot Springs, AR 71913",
+    "city": "Hot Springs",
+    "state": "Arkansas",
+    "postal_code": 71913,
+    "latitude": 34.4527622,
+    "longitude": -93.1747628
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

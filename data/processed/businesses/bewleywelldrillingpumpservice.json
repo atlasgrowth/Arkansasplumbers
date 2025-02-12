@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "bewleywelldrillingpumpservice",
+    "place_id": "ChIJZbHX9OJLzIcRmXJ-uOhlS60",
+    "google_id": "0x87cc4be2f4d7b165:0xad4b65e8b87e7299"
+  },
+  "basic_info": {
+    "name": "Bewley Well Drilling & Pump Service",
+    "phone": "+1 479-331-3247",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "379 Johnson Hill Rd, Dover, AR 72837",
+    "city": "Dover",
+    "state": "Arkansas",
+    "postal_code": 72837,
+    "latitude": 35.4446216,
+    "longitude": -93.1619848
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

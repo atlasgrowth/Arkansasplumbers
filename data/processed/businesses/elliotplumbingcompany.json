@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "elliotplumbingcompany",
+    "place_id": "ChIJH1S2OdEr1IcRXxOY6as7lZg",
+    "google_id": "0x87d42bd139b6541f:0x98953babe998135f"
+  },
+  "basic_info": {
+    "name": "Elliot Plumbing Company",
+    "phone": "+1 870-316-5553",
+    "query_name": "",
+    "rating": 3,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.8834545,
+    "longitude": -90.642485
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2018-10": 1.0
+    },
+    "yearly_totals": {
+      "2018": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

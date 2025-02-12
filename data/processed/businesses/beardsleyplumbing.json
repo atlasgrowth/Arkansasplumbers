@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "business_id": "beardsleyplumbing",
+    "place_id": "ChIJiZmI5StH0ocRhRzJOFaUaqY",
+    "google_id": "0x87d2472be5889989:0xa66a945638c91c85"
+  },
+  "basic_info": {
+    "name": "Beardsley Plumbing",
+    "phone": "+1 501-270-6564",
+    "query_name": "",
+    "rating": 3.8,
+    "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"9AM-5PM\", \"Sunday\": \"9AM-5PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "909 S 8th St, Heber Springs, AR 72543",
+    "city": "Heber Springs",
+    "state": "Arkansas",
+    "postal_code": 72543,
+    "latitude": 35.4827878,
+    "longitude": -92.0379231
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-06": 1.0,
+      "2020-12": 1.0,
+      "2021-11": 1.0,
+      "2022-06": 1.0,
+      "2021-02": 1.0,
+      "2020-07": 4.0,
+      "2021-03": 1.0,
+      "2021-10": 1.0,
+      "2020-09": 1.0,
+      "2020-10": 3.0,
+      "2020-11": 1.0,
+      "2021-01": 1.0,
+      "2021-09": 1.0,
+      "2020-08": 1.0
+    },
+    "yearly_totals": {
+      "2020": 12.0,
+      "2021": 6.0,
+      "2022": 1.0
+    },
+    "total_reviews": 20,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

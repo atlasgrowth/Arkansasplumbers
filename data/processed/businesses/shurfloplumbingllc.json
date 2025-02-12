@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "shurfloplumbingllc",
+    "place_id": "ChIJmZG77VofyYcRTEKM4BTz5nE",
+    "google_id": "0x87c91f5aedbb9199:0x71e6f314e08c424c"
+  },
+  "basic_info": {
+    "name": "Shur-Flo Plumbing LLC",
+    "phone": "+1 479-531-4552",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.403562,
+    "longitude": -94.1521209
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

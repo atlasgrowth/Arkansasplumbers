@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "davidsaffordableheatingandcoolingservice",
+    "place_id": "ChIJ3YUOQG2A1YcRZ252wiPO34k",
+    "google_id": "0x87d5806d400e85dd:0x89dfce23c2766e67"
+  },
+  "basic_info": {
+    "name": "David's Affordable Heating and Cooling Service",
+    "phone": "+1 901-859-0574",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.2242826,
+    "longitude": -90.0120204
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

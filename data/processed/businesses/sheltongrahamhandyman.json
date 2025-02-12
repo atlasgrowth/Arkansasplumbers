@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "sheltongrahamhandyman",
+    "place_id": "ChIJme5fU6MVLYYRg6i5iyITpnE",
+    "google_id": "0x862d15a3535fee99:0x71a613228bb9a883"
+  },
+  "basic_info": {
+    "name": "Shelton Graham Handyman",
+    "phone": "+1 501-551-0258",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"9AM-6PM\", \"Tuesday\": \"9AM-6PM\", \"Wednesday\": \"9AM-6PM\", \"Thursday\": \"9AM-6PM\", \"Friday\": \"9AM-6PM\", \"Saturday\": \"9AM-6PM\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 34.7387956,
+    "longitude": -92.3635912
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2021-03": 3.0
+    },
+    "yearly_totals": {
+      "2021": 3.0
+    },
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

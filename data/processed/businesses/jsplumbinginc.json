@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "jsplumbinginc",
+    "place_id": "ChIJAzoBqjCh0ocRYOPv2aOKJok",
+    "google_id": "0x87d2a130aa013a03:0x89268aa3d9efe360"
+  },
+  "basic_info": {
+    "name": "J & S Plumbing Inc.",
+    "phone": "+1 501-707-5140",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "",
+    "business_status": "CLOSED_PERMANENTLY"
+  },
+  "location": {
+    "full_address": "11415 Huron Ln #21212, Little Rock, AR 72211",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "postal_code": 72211,
+    "latitude": 34.7657495,
+    "longitude": -92.4008609
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": 62,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

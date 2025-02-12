@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "business_id": "howesplumbingllc",
+    "place_id": "ChIJzzIoPxulzIsRQKFp8n6G7gg",
+    "google_id": "0x8bcca51b3f2832cf:0x8ee867ef269a140"
+  },
+  "basic_info": {
+    "name": "Howes Plumbing LLC",
+    "phone": "+1 479-287-1477",
+    "query_name": "",
+    "rating": "",
+    "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 36.125038,
+    "longitude": -94.216402
+  },
+  "review_trends": {
+    "monthly_reviews": {},
+    "yearly_totals": {},
+    "total_reviews": "",
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ids": {
+    "business_id": "a1backflowtesting",
+    "place_id": "ChIJG9RdmMyr04cRRD_ULRzPwbo",
+    "google_id": "0x87d3abcc985dd41b:0xbac1cf1c2dd43f44"
+  },
+  "basic_info": {
+    "name": "A-1 Backflow Testing",
+    "phone": "+1 501-681-7971",
+    "query_name": "",
+    "rating": 5,
+    "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"9AM-5PM\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.3807669,
+    "longitude": -91.5367464
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2022-03": 1.0
+    },
+    "yearly_totals": {
+      "2022": 1.0
+    },
+    "total_reviews": 1,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

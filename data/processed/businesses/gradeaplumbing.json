@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "business_id": "gradeaplumbing",
+    "place_id": "ChIJQ793fc7ry4cRGCeVlUQCBks",
+    "google_id": "0x87cbebce7d77bf43:0x4b06024495952718"
+  },
+  "basic_info": {
+    "name": "GRADE A PLUMBING",
+    "phone": "+1 479-217-4262",
+    "query_name": "",
+    "rating": 4.7,
+    "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Closed\"}",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "latitude": 35.3928599,
+    "longitude": -94.1185952
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2020-12": 2.0,
+      "2022-08": 1.0,
+      "2021-02": 3.0,
+      "2020-07": 2.0,
+      "2021-03": 1.0,
+      "2021-08": 1.0,
+      "2022-04": 1.0,
+      "2020-11": 1.0,
+      "2020-08": 2.0
+    },
+    "yearly_totals": {
+      "2020": 7.0,
+      "2021": 5.0,
+      "2022": 2.0
+    },
+    "total_reviews": 14,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}

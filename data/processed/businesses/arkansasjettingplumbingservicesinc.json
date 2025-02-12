@@ -1,0 +1,46 @@
+{
+  "ids": {
+    "business_id": "arkansasjettingplumbingservicesinc",
+    "place_id": "ChIJg4gvel8-0YcRp-QbpDeFWWU",
+    "google_id": "0x87d13e5f7a2f8883:0x65598537a41be4a7"
+  },
+  "basic_info": {
+    "name": "Arkansas Jetting & Plumbing Services, Inc.",
+    "phone": "+1 870-847-5104",
+    "query_name": "",
+    "rating": 3.7,
+    "working_hours": "",
+    "business_status": "OPERATIONAL"
+  },
+  "location": {
+    "full_address": "47 St Catherine Dr, Hardy, AR 72542",
+    "city": "Hardy",
+    "state": "Arkansas",
+    "postal_code": 72542,
+    "latitude": 36.2249387,
+    "longitude": -91.5395848
+  },
+  "review_trends": {
+    "monthly_reviews": {
+      "2024-06": 1.0,
+      "2021-10": 1.0,
+      "2020-09": 1.0
+    },
+    "yearly_totals": {
+      "2024": 1.0,
+      "2020": 1.0,
+      "2021": 1.0
+    },
+    "total_reviews": 3,
+    "owner_responses": 0
+  },
+  "scores": {
+    "photo_score": 0,
+    "facebook_score": 0
+  },
+  "social_media": {
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  }
+}
