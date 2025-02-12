@@ -12,7 +12,7 @@ const useBusiness = (businessId) => {
             }
 
             try {
-                const response = await fetch(`/data/processed/businesses/${businessId}.json`);
+                const response = await fetch(`/Arkansasplumbers/data/processed/businesses/${businessId}.json`);
                 const data = await response.json();
                 setBusiness(data);
             } catch (err) {
