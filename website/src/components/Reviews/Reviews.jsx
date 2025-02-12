@@ -27,7 +27,7 @@ const Reviews = ({ business, loading }) => {
             onClick={() => setCurrentReview((prev) => (prev - 1 + reviews.length) % reviews.length)}
             aria-label="Previous review"
           >
-            <i className="fas fa-chevron-left"></i>
+            <i className="fas fa-arrow-left"></i>
           </button>
           <div className="review-card" key={currentReview}>
             <div className="review-stars">★★★★★</div>
@@ -42,7 +42,7 @@ const Reviews = ({ business, loading }) => {
             onClick={() => setCurrentReview((prev) => (prev + 1) % reviews.length)}
             aria-label="Next review"
           >
-            <i className="fas fa-chevron-right"></i>
+            <i className="fas fa-arrow-right"></i>
           </button>
         </div>
         <div className="review-dots">
