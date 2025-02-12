@@ -6,6 +6,8 @@ import Hero from './components/Hero/Hero';
 import About from './components/About/About'; // Added About import
 import './styles/App.css';
 import Services from './components/Services/Services';
+import Reviews from './components/Reviews/Reviews'; // Added Reviews import
+
 
 function App() {
   // Get the URL parameter (e.g., ?site_id=1stcallplumbing)
@@ -44,7 +46,8 @@ function App() {
       <Header business={business} loading={loading} />
       <Hero business={business} loading={loading} />
       <About business={business} loading={loading} />
-      <Services business={business} loading={loading} />  {/* Added About section */}
+      <Services business={business} loading={loading} />
+      <Reviews business={business} loading={loading} />
     </div>
   );
 }
