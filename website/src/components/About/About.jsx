@@ -4,88 +4,35 @@ import './About.css';
 const About = ({ business, loading }) => {
   if (loading) return <div className="about-loading">Loading...</div>;
 
-  const {
-    name = "",
-    phone = "",
-    city = "",
-    state = "",
-    working_hours = {},
-    rating = 0,
-  } = business?.basic_info || {};
-
-  // Parse working hours
-  let workingHoursText = "Available when you need us";
-  if (typeof working_hours === 'object' && Object.keys(working_hours).length > 0) {
-    const isAlways = Object.values(working_hours).every(hours => hours === "Open 24 hours");
-    workingHoursText = isAlways ? "Open 24/7" : "Contact us for current hours";
-  }
+  const { name = "", phone = "" } = business?.basic_info || {};
 
   return (
-    <section className="about" id="about">
+    <section className="about-v1" id="about">
       <div className="about-container">
-        <div className="about-header">
-          <h2>Why Choose {name || 'Us'}?</h2>
-          <div className="about-header-line"></div>
-          <p className="about-subtitle">Professional Plumbing Services You Can Trust</p>
-        </div>
-
-        <div className="about-features">
-          <div className="feature-card">
-            <div className="feature-icon">
-              <i className="fas fa-shield-alt"></i>
+        <h2 className="about-title">Trusted Plumbing Experts</h2>
+        <div className="about-content">
+          <div className="about-image">
+            <img src="https://images.unsplash.com/photo-1600566753151-384129cf4e3e?auto=format&fit=crop&q=80" alt="Professional Plumber" />
+          </div>
+          <div className="about-text">
+            <p>With over 20 years of experience, {name || 'we'} have been providing top-notch plumbing services to our community. Our team of certified professionals is dedicated to solving your plumbing problems with precision and care.</p>
+            <div className="stats-container">
+              <div className="stat-item">
+                <span className="stat-number">20+</span>
+                <span className="stat-label">Years Experience</span>
+              </div>
+              <div className="stat-item">
+                <span className="stat-number">1000+</span>
+                <span className="stat-label">Projects Done</span>
+              </div>
+              <div className="stat-item">
+                <span className="stat-number">24/7</span>
+                <span className="stat-label">Support</span>
+              </div>
             </div>
-            <h3>Licensed & Insured</h3>
-            <p>Fully certified professionals you can trust with your home</p>
-          </div>
-
-          <div className="feature-card">
-            <div className="feature-icon">
-              <i className="fas fa-clock"></i>
-            </div>
-            <h3>24/7 Availability</h3>
-            <p>{workingHoursText}</p>
-          </div>
-
-          <div className="feature-card">
-            <div className="feature-icon">
-              <i className="fas fa-star"></i>
-            </div>
-            <h3>Top Rated Service</h3>
-            <p>{rating} star rated service in {city || 'your area'}</p>
-          </div>
-
-          <div className="feature-card">
-            <div className="feature-icon">
-              <i className="fas fa-tools"></i>
-            </div>
-            <h3>Expert Solutions</h3>
-            <p>Advanced equipment and proven techniques</p>
-          </div>
-        </div>
-
-        <div className="about-cta">
-          <div className="cta-content">
-            <h3>Need Emergency Plumbing Service?</h3>
-            <p>We're available 24/7 for urgent plumbing issues</p>
-          </div>
-          <a href={`tel:${phone?.replace(/[^0-9]/g, '')}`} className="cta-button">
-            <i className="fas fa-phone"></i>
-            <span>Call Now: {phone || 'Contact Us'}</span>
-          </a>
-        </div>
-
-        <div className="about-benefits">
-          <div className="benefit">
-            <i className="fas fa-check-circle"></i>
-            <span>Same Day Service</span>
-          </div>
-          <div className="benefit">
-            <i className="fas fa-check-circle"></i>
-            <span>Fair & Transparent Pricing</span>
-          </div>
-          <div className="benefit">
-            <i className="fas fa-check-circle"></i>
-            <span>Satisfaction Guaranteed</span>
+            <a href={`tel:${phone?.replace(/[^0-9]/g, '')}`} className="contact-button">
+              <i className="fas fa-phone"></i> Contact Us Now
+            </a>
           </div>
         </div>
       </div>
