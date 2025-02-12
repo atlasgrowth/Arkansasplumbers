@@ -17,7 +17,7 @@ const Hero = ({ business, loading }) => {
     <section className="hero" id="hero">
       <div className="hero-overlay"></div>
       <div className="hero-content">
-        <div className="hero-text-content">
+        <div className="hero-text-content animate-in">
           <h1 className="hero-title">
             <span className="hero-subtitle">Professional & Reliable</span>
             <span className="hero-main-title">{name}</span>

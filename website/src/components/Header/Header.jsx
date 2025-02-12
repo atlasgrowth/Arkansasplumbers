@@ -4,6 +4,7 @@ import './Header.css';
 
 const Header = ({ business, loading }) => {
   const [scrolled, setScrolled] = useState(false);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const businessName = business?.basic_info?.name || "Loading...";
   const phone = business?.basic_info?.phone || "";
   const rating = parseFloat(business?.basic_info?.rating) || 0;
@@ -20,13 +21,23 @@ const Header = ({ business, loading }) => {
   }, []);
 
   return (
-    <header className={`header ${scrolled ? 'scrolled' : ''}`}>
+    <header className={`header ${scrolled ? 'scrolled' : ''} ${mobileMenuOpen ? 'menu-open' : ''}`}>
       <div className="header-container">
         <div className="logo">
           {loading ? "Loading..." : businessName}
         </div>
 
-        <nav className="nav-menu">
+        <button 
+          className="mobile-menu-btn"
+          onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+          aria-label="Toggle menu"
+        >
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+
+        <nav className={`nav-menu ${mobileMenuOpen ? 'active' : ''}`}>
           <a href="#hero" className="nav-link">Home</a>
           <a href="#about" className="nav-link">About</a>
           <a href="#services" className="nav-link">Services</a>

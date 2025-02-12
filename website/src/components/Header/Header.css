@@ -1,4 +1,12 @@
+
 /* components/Header/Header.css */
+:root {
+  --primary-color: #63b3ed;
+  --primary-dark: #1e40af;
+  --text-light: #ffffff;
+  --text-dark: #1a202c;
+}
+
 .header {
   position: fixed;
   top: 0;
@@ -49,7 +57,7 @@
   font-weight: 500;
   padding: 0.5rem;
   position: relative;
-  transition: color 0.3s ease;
+  transition: all 0.3s ease;
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -66,7 +74,7 @@
   left: 50%;
   width: 0;
   height: 2px;
-  background: var(--primary-color);
+  background: var(--primary-dark);
   transition: all 0.3s ease;
   transform: translateX(-50%);
 }
@@ -76,7 +84,7 @@
 }
 
 .review-badge {
-  background: var(--primary-color);
+  background: var(--primary-dark);
   color: white;
   padding: 0.2rem 0.5rem;
   border-radius: 20px;
@@ -89,7 +97,7 @@
   align-items: center;
   gap: 0.5rem;
   padding: 0.5rem 1.5rem;
-  background: var(--primary-color);
+  background: var(--primary-dark);
   color: white;
   text-decoration: none;
   border-radius: 50px;
@@ -103,28 +111,77 @@
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
-/* Mobile menu styles */
+.mobile-menu-btn {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 21px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  z-index: 1001;
+}
+
+.mobile-menu-btn span {
+  width: 100%;
+  height: 3px;
+  background: var(--text-light);
+  transition: all 0.3s ease;
+}
+
+.header.scrolled .mobile-menu-btn span {
+  background: var(--text-dark);
+}
+
+.header.menu-open .mobile-menu-btn span {
+  background: var(--text-light);
+}
+
 @media (max-width: 768px) {
+  .mobile-menu-btn {
+    display: flex;
+  }
+
   .nav-menu {
-    display: none;
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 100%;
+    height: 100vh;
+    background: var(--primary-dark);
+    flex-direction: column;
+    justify-content: center;
+    padding: 2rem;
+    transition: all 0.3s ease;
+  }
+
+  .nav-menu.active {
+    right: 0;
+  }
+
+  .nav-link {
+    color: white;
+    font-size: 1.2rem;
+    padding: 1rem;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .header.scrolled .nav-link {
+    color: white;
+  }
+
+  .phone-button {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    justify-content: center;
   }
 
   .phone-button span {
     display: none;
   }
-
-  .phone-button {
-    padding: 0.5rem;
-    width: 40px;
-    height: 40px;
-    justify-content: center;
-  }
-}
-
-/* CSS Variables */
-:root {
-  --primary-color: #63b3ed;
-  --primary-dark: #3182ce;
-  --text-light: #ffffff;
-  --text-dark: #1a202c;
 }
