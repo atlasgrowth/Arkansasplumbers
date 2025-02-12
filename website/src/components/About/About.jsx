@@ -1,38 +1,51 @@
+
 import React from 'react';
 import './About.css';
 
 const About = ({ business, loading }) => {
   if (loading) return <div className="about-loading">Loading...</div>;
 
-  const { name = "", phone = "" } = business?.basic_info || {};
+  const {
+    name = "",
+    phone = "",
+    city = "",
+    state = "",
+    working_hours = {},
+  } = business?.basic_info || {};
+
+  // Parse working hours
+  let workingHoursText = "Available when you need us";
+  if (typeof working_hours === 'object' && Object.keys(working_hours).length > 0) {
+    const isAlways = Object.values(working_hours).every(hours => hours === "Open 24 hours");
+    workingHoursText = isAlways ? "Open 24/7" : "Contact us for current hours";
+  }
 
   return (
-    <section className="about-v1" id="about">
-      <div className="about-container">
-        <h2 className="about-title">Trusted Plumbing Experts</h2>
-        <div className="about-content">
-          <div className="about-image">
-            <img src="https://images.unsplash.com/photo-1600566753151-384129cf4e3e?auto=format&fit=crop&q=80" alt="Professional Plumber" />
+    <section className="about-parallax" id="about">
+      <div className="parallax-bg"></div>
+      <div className="about-content-wrapper">
+        <div className="about-header">
+          <h2 className="glow-text">Excellence in <span className="highlight">Plumbing</span></h2>
+          <p className="subheadline"><strong>Your Trusted Partner in</strong> Professional Plumbing Solutions</p>
+        </div>
+        
+        <div className="about-main-content">
+          <div className="company-intro">
+            <p className="intro-text">
+              <span className="company-name">{name}</span> is your premier plumbing service provider
+              {city && state ? ` in ${city}, ${state}` : ''}.
+              With a commitment to excellence and customer satisfaction, we deliver
+              top-tier plumbing solutions for both residential and commercial needs.
+              {workingHoursText === "Open 24/7" && " We're proud to offer round-the-clock service to meet your emergency needs."}
+            </p>
           </div>
-          <div className="about-text">
-            <p>With over 20 years of experience, {name || 'we'} have been providing top-notch plumbing services to our community. Our team of certified professionals is dedicated to solving your plumbing problems with precision and care.</p>
-            <div className="stats-container">
-              <div className="stat-item">
-                <span className="stat-number">20+</span>
-                <span className="stat-label">Years Experience</span>
-              </div>
-              <div className="stat-item">
-                <span className="stat-number">1000+</span>
-                <span className="stat-label">Projects Done</span>
-              </div>
-              <div className="stat-item">
-                <span className="stat-number">24/7</span>
-                <span className="stat-label">Support</span>
-              </div>
-            </div>
-            <a href={`tel:${phone?.replace(/[^0-9]/g, '')}`} className="contact-button">
-              <i className="fas fa-phone"></i> Contact Us Now
-            </a>
+
+          <div className="contact-info">
+            {phone && (
+              <a href={`tel:${phone.replace(/[^0-9]/g, '')}`} className="contact-button">
+                <i className="fas fa-phone"></i> {phone}
+              </a>
+            )}
           </div>
         </div>
       </div>
