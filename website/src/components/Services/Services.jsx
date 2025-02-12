@@ -52,7 +52,7 @@ const Services = ({ business, loading }) => {
           </div>
           <h3 className="service-title">24/7 Emergency Service</h3>
           <p className="service-description">
-            Immediate response to all plumbing emergencies. Available day or night.
+            When plumbing disasters strike, we're here 24/7. Our rapid emergency response team arrives fully equipped to handle any crisis, from burst pipes to major leaks, ensuring your home is protected around the clock.
           </p>
           <a href={callHref} className="call-btn">
             <i className="fas fa-phone"></i> Call Now
@@ -66,7 +66,7 @@ const Services = ({ business, loading }) => {
           </div>
           <h3 className="service-title">Residential Plumbing</h3>
           <p className="service-description">
-            Complete home plumbing solutions from repairs to remodels.
+            Transform your home's plumbing with our comprehensive residential services. From kitchen and bathroom remodels to pipe repairs and fixture installations, we deliver lasting solutions that enhance your home's functionality and value.
           </p>
           <a href={callHref} className="call-btn">
             <i className="fas fa-phone"></i> Call Now
@@ -80,7 +80,7 @@ const Services = ({ business, loading }) => {
           </div>
           <h3 className="service-title">Drain Cleaning</h3>
           <p className="service-description">
-            Professional drain cleaning and maintenance. Keep drains flowing smoothly.
+            Using advanced hydro-jetting technology and professional-grade equipment, we clear even the most stubborn blockages. Our preventative maintenance plans help avoid future clogs, keeping your drains flowing perfectly year-round.
           </p>
           <a href={callHref} className="call-btn">
             <i className="fas fa-phone"></i> Call Now
@@ -94,7 +94,7 @@ const Services = ({ business, loading }) => {
           </div>
           <h3 className="service-title">Water Heater Services</h3>
           <p className="service-description">
-            Installation, repair, and maintenance of all water heater types.
+            Expert service for all water heater types - traditional, tankless, and hybrid systems. We help you choose the perfect energy-efficient solution, handle professional installation, and provide regular maintenance to extend system life.
           </p>
           <a href={callHref} className="call-btn">
             <i className="fas fa-phone"></i> Call Now
@@ -108,7 +108,7 @@ const Services = ({ business, loading }) => {
           </div>
           <h3 className="service-title">Repairs & Installation</h3>
           <p className="service-description">
-            Quality-guaranteed repairs and new installations by licensed professionals.
+            Trust our licensed professionals for all your plumbing installations and repairs. We use premium materials and cutting-edge techniques, backing every job with our satisfaction guarantee and extended warranties for your peace of mind.
           </p>
           <a href={callHref} className="call-btn">
             <i className="fas fa-phone"></i> Call Now

@@ -22,6 +22,13 @@ const Reviews = ({ business, loading }) => {
       <div className="reviews-container">
         <h2 className="reviews-title">What Our Customers Say</h2>
         <div className="reviews-slider">
+          <button 
+            className="review-nav prev" 
+            onClick={() => setCurrentReview((prev) => (prev - 1 + reviews.length) % reviews.length)}
+            aria-label="Previous review"
+          >
+            <i className="fas fa-chevron-left"></i>
+          </button>
           <div className="review-card" key={currentReview}>
             <div className="review-stars">★★★★★</div>
             <p className="review-text">{reviews[currentReview].text}</p>
@@ -30,6 +37,13 @@ const Reviews = ({ business, loading }) => {
               {new Date(reviews[currentReview].date).toLocaleDateString()}
             </div>
           </div>
+          <button 
+            className="review-nav next" 
+            onClick={() => setCurrentReview((prev) => (prev + 1) % reviews.length)}
+            aria-label="Next review"
+          >
+            <i className="fas fa-chevron-right"></i>
+          </button>
         </div>
         <div className="review-dots">
           {reviews.map((_, index) => (
