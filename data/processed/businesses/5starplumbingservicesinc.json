@@ -128,5 +128,12 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Justin is great to work with, stays engaged and has a great attitude. Was on schedule and got the job done quickly, even going the extra mile.",
+      "reviewer_name": "Matt Kiefer",
+      "date": "2021-09-24T17:28:12.175Z"
+    }
+  ]
 }

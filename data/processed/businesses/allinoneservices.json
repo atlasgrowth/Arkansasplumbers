@@ -135,5 +135,47 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Came to the house on Saturday afternoon , we called and they called back very quick about fixing our air conditioning unit . The young was very knowledgeable about the matter and told us it wasn\u2019t the air conditioner it was something to do with the electric coming into our house. Very nice young man that we would recommend and will us them again when needed.",
+      "reviewer_name": "Phyllis Stone",
+      "date": "2024-06-01T23:00:30.681Z"
+    },
+    {
+      "text": "The best service I've had since owning the home of ten + years. Thanks. And your company will be recommended in the future.",
+      "reviewer_name": "Brian Etheridge",
+      "date": "2024-05-17T03:25:56.173Z"
+    },
+    {
+      "text": "Answer phone quickly,reasonable, professional, did a great job on putting new duct system. Recommend them to anyone that needs service.",
+      "reviewer_name": "Stefani May",
+      "date": "2024-03-29T12:46:01.093Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "tammy anderson",
+      "date": "2024-03-05T02:37:01.774Z"
+    },
+    {
+      "text": "Called him he immediately fixed my brothers hot water heater within the hour he was very professional bought everything took old water heater off answered the phone quickly I couldn\u2019t ask for any better service period I highly recommend him!!!",
+      "reviewer_name": "Beth Davis",
+      "date": "2024-02-22T01:53:05.810Z"
+    },
+    {
+      "text": "They were very polite, professional and prompt to respond to in home call.\nI would Definitely call them again if I had any troubles",
+      "reviewer_name": "Dawn Ferguson",
+      "date": "2023-11-01T20:05:23.708Z"
+    },
+    {
+      "text": "Called for my AC going out. They got to the house in an impressive timely manner. Very professional and had the issue fixed within no time. Will definitely use thier services in the future and highly recommend them to anyone. Very cost friendly as well.",
+      "reviewer_name": "Zack Rodgers",
+      "date": "2023-06-05T22:30:01.549Z"
+    },
+    {
+      "text": "These guys were fast, efficient, and reasonable. And they actually answer their phone, which is rare around here. They fixed my water heater in no time. Awesome job; highly recommended.",
+      "reviewer_name": "Coleman James",
+      "date": "2023-03-02T19:11:56.399Z"
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+.context-section {
+  padding: 80px 20px;
+  background: linear-gradient(135deg, #f0f4f8, #d9e2ec);
+  text-align: center;
+  color: #333;
+}
+
+.context-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.context-title {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+
+.context-description {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}

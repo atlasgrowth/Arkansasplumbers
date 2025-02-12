@@ -126,5 +126,27 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Had a bad water heater that was previously installed incorrectly and AJ and his assistant were there for us and helped us out, very kind and honest professionals here will definitely call them for any future projects/issues",
+      "reviewer_name": "David Zambardino",
+      "date": "2024-08-24T15:18:52.925Z"
+    },
+    {
+      "text": "Friendly, and shows up when they say they will.",
+      "reviewer_name": "Clark Taylor",
+      "date": "2024-07-11T01:28:43.674Z"
+    },
+    {
+      "text": "Very professional,responded in a timely manner and communicated back to me. Would recommend",
+      "reviewer_name": "James Larue",
+      "date": "2022-12-21T15:37:33.827Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "A.J. Newman",
+      "date": "2022-02-14T21:38:38.608Z"
+    }
+  ]
 }

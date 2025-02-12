@@ -129,5 +129,17 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Great plumber with good prices.  Great communication and hard worker.",
+      "reviewer_name": "Scott Hollis",
+      "date": "2021-03-07T00:06:40.453Z"
+    },
+    {
+      "text": "Remodeled a bathroom and he did the plumbing. Super nice guy, timely work...great service! Will hire again!",
+      "reviewer_name": "Jonathan Smith",
+      "date": "2020-04-20T05:01:10.987Z"
+    }
+  ]
 }

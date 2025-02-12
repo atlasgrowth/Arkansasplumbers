@@ -134,5 +134,32 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "I've used Accuracy several times and Mr. Ray has always been courteous and done excellent work. Accuracy will always have my business.",
+      "reviewer_name": "Woody Hampton",
+      "date": "2024-07-30T01:27:53.631Z"
+    },
+    {
+      "text": "GREAT JOB...Ray did a repair on old unit and fixed other techs problems and when it died called him out...super fast and efficient less than 3 days from order to install.",
+      "reviewer_name": "Patricia Wright",
+      "date": "2021-03-10T00:34:34.704Z"
+    },
+    {
+      "text": "Got here fast very professional friendly knowledgeable and a good price",
+      "reviewer_name": "Arnie Rushing",
+      "date": "2020-08-01T23:46:02.138Z"
+    },
+    {
+      "text": "I love this company! It's the best heat and air around! He has helped me more than once and I'm grateful that he has always been available for me. He is very knowledgeable and reasonably priced. Thank you Ray!",
+      "reviewer_name": "cathy cole",
+      "date": "2020-03-28T15:34:30.151Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Chelsie Sarringar",
+      "date": "2019-06-05T16:17:10.556Z"
+    }
+  ]
 }

@@ -126,5 +126,27 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": null,
+      "reviewer_name": "Gary Lilley",
+      "date": "2023-06-18T00:40:49.278Z"
+    },
+    {
+      "text": "Most professional company I've ever used.",
+      "reviewer_name": "Jacob Beechler",
+      "date": "2023-01-06T03:33:05.372Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Jennifer Doucette",
+      "date": "2022-09-16T02:17:47.134Z"
+    },
+    {
+      "text": "Always does great work at a fair price. Thankful I found him.",
+      "reviewer_name": "Pk D",
+      "date": "2022-08-10T23:12:23.899Z"
+    }
+  ]
 }

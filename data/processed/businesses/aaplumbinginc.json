@@ -126,5 +126,37 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Always helps when needed, even on weekends! Honest and reliable work too.",
+      "reviewer_name": "Allison Raley",
+      "date": "2024-11-20T15:54:46.904Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Jacky Farris",
+      "date": "2023-12-03T00:42:31.396Z"
+    },
+    {
+      "text": "I was looking for a part for a water heater. He didn't have it but he was extremely helpful over the phone!",
+      "reviewer_name": "Katie Denevan",
+      "date": "2023-11-20T17:59:20.210Z"
+    },
+    {
+      "text": "Shane always does a good job",
+      "reviewer_name": "Jeff Bourg",
+      "date": "2020-11-29T18:28:01.544Z"
+    },
+    {
+      "text": "Very responsive! Excellent quality of work - no shortcuts!  Highly Recommend!",
+      "reviewer_name": "Loretta Kirkwood",
+      "date": "2020-05-13T16:16:52.466Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Josh Dalton",
+      "date": "2019-06-14T12:54:15.878Z"
+    }
+  ]
 }

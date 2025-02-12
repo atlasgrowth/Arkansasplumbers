@@ -1,67 +1,68 @@
 import React from 'react';
 import './Hero.css';
 
-// Option 1: Classic hero with centered overlay
-export const HeroDesign1 = ({ business, loading }) => {
-  const businessName = business?.basic_info?.name || "Business Name";
-  const phoneNumber = business?.basic_info?.phone || "Phone Not Available";
-  const backgroundImage = "https://assets.cdn.filesafe.space/A9rd4HdLD0sTvRuuQFZl/media/651501775cf2e93f16638cf9.jpeg";
+const Hero = ({ business, loading }) => {
+  if (loading) return <div className="hero-loading">Loading...</div>;
+
+  const {
+    name = "Business Name",
+    phone = "",
+    rating = 0,
+  } = business?.basic_info || {};
+
+  const totalReviews = business?.review_trends?.total_reviews || 0;
+  const showReviews = parseFloat(rating) >= 4.0 || totalReviews >= 3;
 
   return (
-    <section className="hero-design1" style={{ backgroundImage: `url(${backgroundImage})` }}>
-      <div className="hero-overlay">
-        <h1 className="hero-title">{businessName}</h1>
-        <p className="hero-phone">{phoneNumber}</p>
-        <a href={`tel:${phoneNumber.replace(/[^0-9]/g, '')}`} className="hero-button">Call Now</a>
-      </div>
-    </section>
-  );
-};
+    <section className="hero" id="hero">
+      <div className="hero-overlay"></div>
+      <div className="hero-content">
+        <div className="hero-text-content">
+          <h1 className="hero-title">
+            <span className="hero-subtitle">Professional & Reliable</span>
+            <span className="hero-main-title">{name}</span>
+          </h1>
 
-// Option 2: Full-width background with left-aligned text
-export const HeroDesign2 = ({ business, loading }) => {
-  const businessName = business?.basic_info?.name || "Business Name";
-  const phoneNumber = business?.basic_info?.phone || "Phone Not Available";
-  const backgroundImage = "https://assets.cdn.filesafe.space/A9rd4HdLD0sTvRuuQFZl/media/651501775cf2e93f16638cf9.jpeg";
+          {/* Removed the "24/7 Emergency Service" text */}
+          <p className="hero-description">
+            Expert plumbing solutions. Your trusted local plumber for all repairs and installations.
+          </p>
 
-  return (
-    <section className="hero-design2" style={{ backgroundImage: `url(${backgroundImage})` }}>
-      <div className="hero-overlay">
-        <div className="hero-content-left">
-          <h1 className="hero-title">{businessName}</h1>
-          <p className="hero-phone">{phoneNumber}</p>
-          <a href={`tel:${phoneNumber.replace(/[^0-9]/g, '')}`} className="hero-button">Call Now</a>
+          {showReviews && (
+            <div className="hero-rating">
+              <div className="stars">
+                {[...Array(5)].map((_, index) => (
+                  <i 
+                    key={index}
+                    className={`fas fa-star ${index < Math.floor(rating) ? 'active' : ''}`}
+                  />
+                ))}
+              </div>
+              <span className="rating-text">
+                {rating} out of 5 ({totalReviews} reviews)
+              </span>
+            </div>
+          )}
+
+          <div className="hero-cta">
+            {phone && (
+              <a 
+                href={`tel:${phone.replace(/[^0-9]/g, '')}`}
+                className="cta-button primary"
+              >
+                <i className="fas fa-phone"></i>
+                Call Now
+              </a>
+            )}
+            <a href="#services" className="cta-button secondary">
+              <i className="fas fa-tools"></i>
+              Our Services
+            </a>
+          </div>
         </div>
       </div>
     </section>
   );
-};
-
-// Option 3: Split layout hero (image on one side, text on the other)
-export const HeroDesign3 = ({ business, loading }) => {
-  const businessName = business?.basic_info?.name || "Business Name";
-  const phoneNumber = business?.basic_info?.phone || "Phone Not Available";
-  const backgroundImage = "https://assets.cdn.filesafe.space/A9rd4HdLD0sTvRuuQFZl/media/651501775cf2e93f16638cf9.jpeg";
-
-  return (
-    <section className="hero-design3">
-      <div className="hero-image" style={{ backgroundImage: `url(${backgroundImage})` }}></div>
-      <div className="hero-content">
-        <h1 className="hero-title">{businessName}</h1>
-        <p className="hero-phone">{phoneNumber}</p>
-        <a href={`tel:${phoneNumber.replace(/[^0-9]/g, '')}`} className="hero-button">Call Now</a>
-      </div>
-    </section>
-  );
-};
-
-// Master Hero component: Change selectedVariant to 1, 2, or 3 to choose a design.
-const Hero = (props) => {
-  const selectedVariant = 1; // Change this value to 2 or 3 for a different design
-  if (selectedVariant === 1) return <HeroDesign1 {...props} />;
-  if (selectedVariant === 2) return <HeroDesign2 {...props} />;
-  if (selectedVariant === 3) return <HeroDesign3 {...props} />;
-  return <HeroDesign1 {...props} />;
 };
 
 export default Hero;

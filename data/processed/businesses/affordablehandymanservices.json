@@ -130,5 +130,22 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "They came over to fix my fence , the price was good and they used quality materials . Stacey was knolageable and polite I will definitely hire him again",
+      "reviewer_name": "Stacey Brainard",
+      "date": "2024-03-27T10:39:43.034Z"
+    },
+    {
+      "text": "Did an amazing job, very affordable quality work done quickly.",
+      "reviewer_name": "Shawn Duncan",
+      "date": "2023-12-17T04:14:58.985Z"
+    },
+    {
+      "text": "Affordable & Professional",
+      "reviewer_name": "RL Brainard",
+      "date": "2023-04-08T16:51:05.241Z"
+    }
+  ]
 }

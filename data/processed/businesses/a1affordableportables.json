@@ -147,5 +147,117 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "I called on thusday morning and they came out the same day and pumped my tank out the gentlman was very friendly and answered every question we had and showed us the tank afterward and ill use them each and everytime i need my tank pumped I would highly recomend them to all my friends and family.",
+      "reviewer_name": "Linda Miller",
+      "date": "2024-11-22T01:58:15.078Z"
+    },
+    {
+      "text": "Called the number at 9pm to see what time they open.  Someone answered and I got it scheduled for the next day.  They came out at 8:20am and it took 10 min.  They were nice, professional, quick.  Will call them again.",
+      "reviewer_name": "Kathyleen Haughom",
+      "date": "2023-12-14T15:40:51.148Z"
+    },
+    {
+      "text": "Realized we needed our septic tank pumped asap because of bubbling in the toilets and sure enough it was full.  Called a couple places that didn't answer and A-1 picked up right away and were so kind.  We received same day service.  So grateful.  The price is reasonable considering our need.  Well worth it. Would definitely call A-1 again.",
+      "reviewer_name": "Marie G",
+      "date": "2023-08-07T20:52:27.487Z"
+    },
+    {
+      "text": "These guys are amazing didn\u2019t service my area but helped me when I needed them!! Thank you so much I highly recommend these guys 1000000%",
+      "reviewer_name": "Kenny Vaughn",
+      "date": "2023-05-22T15:00:17.007Z"
+    },
+    {
+      "text": "He came right out the very next day. He was quick and very affordable. I will use them again in the future, for sure!",
+      "reviewer_name": "Charity White",
+      "date": "2023-01-27T20:29:49.577Z"
+    },
+    {
+      "text": "Did a \" SUPER DUPER \"  job!!",
+      "reviewer_name": "Baby Doll",
+      "date": "2023-01-16T14:42:56.300Z"
+    },
+    {
+      "text": "Contacted them and they were very prompt to return call.  Had a house at Greers Ferry (45 minutes) from Batesville.  Gentleman could not find the tank at first and tried for almost 2 hours.  Was not his fault, we had bought this house (built in 1979) and one of the previous owners had covered septic access with a concrete walkway with no cleanout. He was able to get us in the vicinity of the tank.\n\nAfter having the tank location confirmed with a camera in the sewer line by another local company. Access was gained and we had A-1 come back and pump out the tank.\n\nVery professional and courteous as well.  Would recommend.",
+      "reviewer_name": "Vernon Bunch",
+      "date": "2022-09-06T20:17:09.331Z"
+    },
+    {
+      "text": "I called to get my septic tank pumped and they came by right away. The man was friendly and professional. I recommend them to all.",
+      "reviewer_name": "Paul Brockman",
+      "date": "2022-06-29T17:14:13.886Z"
+    },
+    {
+      "text": "Call to have our moterhome septic and gray water dumped and were out within 45 minutes of my call. Very prompt and polite.",
+      "reviewer_name": "Cheryl Allen",
+      "date": "2022-04-21T19:06:30.344Z"
+    },
+    {
+      "text": "They came out to pump septic tank, the man was super nice, very personable. Explained things to me as I had questions. Thank you",
+      "reviewer_name": "Bonnie Shanks",
+      "date": "2022-03-03T23:58:28.893Z"
+    },
+    {
+      "text": "They are great Best service",
+      "reviewer_name": "Laymon Tunstall",
+      "date": "2022-02-17T18:07:01.485Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Cheryl Staggs",
+      "date": "2022-02-13T11:28:22.990Z"
+    },
+    {
+      "text": "Fast reliable and they did a fantastic job..",
+      "reviewer_name": "Carol Martni",
+      "date": "2021-12-27T20:40:42.369Z"
+    },
+    {
+      "text": "Fast and professional service. Was quick, thorough and answered all my questions. Super impressed with this company!",
+      "reviewer_name": "Casey Bromley",
+      "date": "2021-10-14T14:36:49.646Z"
+    },
+    {
+      "text": "Hal , done good",
+      "reviewer_name": "Mark Wilhite",
+      "date": "2021-07-27T16:29:40.079Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "dusten Gourley",
+      "date": "2021-03-27T19:44:05.577Z"
+    },
+    {
+      "text": "Very quick service",
+      "reviewer_name": "Michael and Emily Webb",
+      "date": "2021-03-06T16:24:21.521Z"
+    },
+    {
+      "text": "Quick same day response.  Second time using them.  Highly recommend.",
+      "reviewer_name": "Troy Schilling",
+      "date": "2020-08-25T18:17:53.335Z"
+    },
+    {
+      "text": "Polite",
+      "reviewer_name": "Glenn Waggoner",
+      "date": "2020-05-30T22:40:00.989Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Jimmy Swindle",
+      "date": "2019-12-30T18:15:03.269Z"
+    },
+    {
+      "text": "They were at my home within an hour of callilng them.  Were extremely courteous and took care of the problem within an hour.  I felt the cost was very resonable.  Would definitely recommend them.",
+      "reviewer_name": "Ruth Quintana",
+      "date": "2019-11-27T01:33:06.309Z"
+    },
+    {
+      "text": "Prompt, courteous device.",
+      "reviewer_name": "Mary Riley",
+      "date": "2019-03-29T19:21:37.988Z"
+    }
+  ]
 }

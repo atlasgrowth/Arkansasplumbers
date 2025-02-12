@@ -132,5 +132,22 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Kudos these guys were great. Thanks",
+      "reviewer_name": "Constance Peterson",
+      "date": "2022-02-26T01:18:21.631Z"
+    },
+    {
+      "text": "Best thing I ever done was use this service...absolutely  outstanding",
+      "reviewer_name": "Rick Qualls",
+      "date": "2021-10-17T05:33:59.443Z"
+    },
+    {
+      "text": "I've had a lot of repair work done over the years in my homes andI must say these were some of the best results yet.These folks Did multiple jobs for me in a very Short time And did an excellent job cleaning up. I will definitely use them again!",
+      "reviewer_name": "Rhonda Browen",
+      "date": "2021-09-08T15:55:55.403Z"
+    }
+  ]
 }

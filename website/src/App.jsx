@@ -1,9 +1,11 @@
+import Context from './components/Context/Context';
 import React, { useState, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import Header from './components/Header/Header';
 import Hero from './components/Hero/Hero';
 import About from './components/About/About'; // Added About import
 import './styles/App.css';
+import Services from './components/Services/Services';
 
 function App() {
   // Get the URL parameter (e.g., ?site_id=1stcallplumbing)
@@ -41,6 +43,7 @@ function App() {
     <div className="app">
       <Header business={business} loading={loading} />
       <Hero business={business} loading={loading} />
+      <Services business={business} loading={loading} />
       <About business={business} loading={loading} />  {/* Added About section */}
     </div>
   );

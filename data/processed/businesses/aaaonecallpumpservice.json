@@ -126,5 +126,62 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": null,
+      "reviewer_name": "Kimberly Beaudry",
+      "date": "2021-07-28T20:15:37.845Z"
+    },
+    {
+      "text": "They came out the day after we got 4-6 inches of snow...so obviously not easy conditions to work in.  They didn't leave until we were up and going again with our new pump!  Excellent water pressure now!",
+      "reviewer_name": "Cortney Joines",
+      "date": "2020-03-12T13:54:29.032Z"
+    },
+    {
+      "text": "Great guys really considerate and I would most definitely recommend them do anybody having well problems.",
+      "reviewer_name": "Cameron Freeston",
+      "date": "2020-01-05T00:09:19.439Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Kevin Dean",
+      "date": "2019-12-07T21:33:58.165Z"
+    },
+    {
+      "text": "I called and got Mr. McGuire out of bed at 7 in the morning I had no water it was 5 degrees outside and a wind chill of -7 he was out here with in a hour and got the water back we will use no one else have used him several times once on Thanksgiving got the same service and reasonably priced.",
+      "reviewer_name": "Annette McMahan",
+      "date": "2019-03-04T16:10:30.265Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Jessica Anderson",
+      "date": "2019-02-05T14:21:49.506Z"
+    },
+    {
+      "text": "Great service, knowledgeable, and very reasonable rates. Very responsive,  especially since they needed to get across a flooded creek to get to me. I would highly recommend them to anyone!",
+      "reviewer_name": "Bob Scott",
+      "date": "2018-03-28T19:24:19.681Z"
+    },
+    {
+      "text": "Great customer service & pricing, especially with us being a weekend call! We greatly appreciated the quick response and repair time. Thanks again!!",
+      "reviewer_name": "Stephanie Mikeska",
+      "date": "2018-03-19T05:28:07.111Z"
+    },
+    {
+      "text": "We called later in the evening and he helped us right away! Very nice honest people!!",
+      "reviewer_name": "pamela Alexander",
+      "date": "2017-04-26T19:25:48.956Z"
+    },
+    {
+      "text": "Was there on time.. was cheap..",
+      "reviewer_name": "Tiana Adkins",
+      "date": "2017-04-07T22:47:57.561Z"
+    },
+    {
+      "text": "Nice people..  Got my water back up fast",
+      "reviewer_name": "Amber Smiley",
+      "date": "2017-04-07T22:33:45.445Z"
+    }
+  ]
 }

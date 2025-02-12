@@ -133,5 +133,27 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Chilled...",
+      "reviewer_name": "Nikki Salmon",
+      "date": "2024-06-06T19:32:02.177Z"
+    },
+    {
+      "text": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+      "reviewer_name": "Kayla Rene",
+      "date": "2022-02-05T07:11:11.764Z"
+    },
+    {
+      "text": "A hard working man",
+      "reviewer_name": "Speedy Maples",
+      "date": "2019-06-08T15:11:01.558Z"
+    },
+    {
+      "text": "Very pleased.  They were the only plumber in the area I called that called back soon.  They tried to fix our drainage and found it was a bigger problem.  The pipe was packed from 70+ years of good and junk.  They had to replace about 12 or so foot of pipe. They gave a reasonable estimate and we're able to stick to it.",
+      "reviewer_name": "mechanikor",
+      "date": "2018-01-03T17:49:55.075Z"
+    }
+  ]
 }

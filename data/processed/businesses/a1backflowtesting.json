@@ -128,5 +128,12 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Definitely recommend A-1 Backflow Testing. Fast and friendly service. They were able to provide same day service. Will use them yearly for our required Backflow Testing services. - KaCee, Manager, Renegade Customs and Covers",
+      "reviewer_name": "Jim Konermann",
+      "date": "2022-03-22T00:43:27.216Z"
+    }
+  ]
 }

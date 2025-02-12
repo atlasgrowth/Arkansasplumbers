@@ -1,332 +1,130 @@
-/***************************************************************
- * HEADER DESIGN OPTIONS - Comprehensive Styles
- * Three variants are defined below: Minimalist, Centered, and Transparent Overlay.
- * Each section includes extra animations, transitions, vendor prefixes, and detailed comments.
- * Total length: ~400 lines.
- ***************************************************************/
+/* components/Header/Header.css */
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  transition: all 0.3s ease;
+  background: transparent;
+  padding: 1rem 0;
+}
 
-/* =============================================================
- * COMMON GLOBAL HEADER PROPERTIES
- * These styles apply to all header variants.
- ============================================================= */
+.header.scrolled {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  padding: 0.5rem 0;
+}
+
 .header-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 1rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    /* For smooth resizing */
-    transition: all 0.3s ease-in-out;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-/* A common shadow to give depth */
-.site-header,
-.header-design1,
-.header-design2,
-.header-design3 {
-    -webkit-box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-       -moz-box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-            box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+.logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-light);
+  transition: color 0.3s ease;
 }
 
-/* =============================================================
- * OPTION 1: Minimalist Header with Horizontal Navigation
- ============================================================= */
-.header-design1 {
-    background-color: #333;
-    color: #fff;
-    padding: 1rem 0;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    display: flex;
-    align-items: center;
+.header.scrolled .logo {
+  color: var(--text-dark);
+}
+
+.nav-menu {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.nav-link {
+  color: var(--text-light);
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.5rem;
+  position: relative;
+  transition: color 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.header.scrolled .nav-link {
+  color: var(--text-dark);
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 2px;
+  background: var(--primary-color);
+  transition: all 0.3s ease;
+  transform: translateX(-50%);
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+.review-badge {
+  background: var(--primary-color);
+  color: white;
+  padding: 0.2rem 0.5rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.phone-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1.5rem;
+  background: var(--primary-color);
+  color: white;
+  text-decoration: none;
+  border-radius: 50px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.phone-button:hover {
+  transform: translateY(-2px);
+  background: var(--primary-dark);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Mobile menu styles */
+@media (max-width: 768px) {
+  .nav-menu {
+    display: none;
+  }
+
+  .phone-button span {
+    display: none;
+  }
+
+  .phone-button {
+    padding: 0.5rem;
+    width: 40px;
+    height: 40px;
     justify-content: center;
-    position: relative;
-    /* Smooth background change */
-    transition: background-color 0.3s ease;
-    /* Extra spacing for larger screens */
-    margin-bottom: 1rem;
+  }
 }
 
-/* Logo styling for Option 1 */
-.header-design1 .logo {
-    font-size: 2rem;
-    font-weight: bold;
-    margin-right: 2rem;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    transition: transform 0.3s ease, color 0.3s ease;
+/* CSS Variables */
+:root {
+  --primary-color: #63b3ed;
+  --primary-dark: #3182ce;
+  --text-light: #ffffff;
+  --text-dark: #1a202c;
 }
-
-/* Navigation container for Option 1 */
-.header-design1 .nav {
-    flex-grow: 1;
-}
-.header-design1 .nav ul {
-    list-style: none;
-    display: flex;
-    gap: 2rem;
-    margin: 0;
-    padding: 0;
-}
-
-/* Navigation link styles with underline animation */
-.header-design1 .nav ul li a {
-    color: #fff;
-    text-decoration: none;
-    font-size: 1.1rem;
-    position: relative;
-    padding: 0.2rem 0;
-    transition: color 0.3s ease;
-}
-.header-design1 .nav ul li a::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 0;
-    height: 2px;
-    background: #63b3ed;
-    transition: width 0.3s ease;
-}
-.header-design1 .nav ul li a:hover {
-    color: #63b3ed;
-}
-.header-design1 .nav ul li a:hover::after {
-    width: 100%;
-}
-
-/* Extra hover effect on logo */
-.header-design1 .logo:hover {
-    transform: scale(1.05);
-}
-
-/* Responsive styles for Option 1 */
-@media (max-width: 768px) {
-    .header-design1 .nav ul {
-        flex-direction: column;
-        gap: 1rem;
-    }
-}
-
-/* Additional comments and extra properties to extend length */
-/* Extra border styling */
-.header-design1 {
-    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
-}
-/* Adding a subtle gradient overlay */
-.header-design1::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 100%;
-    background: linear-gradient(to right, rgba(0,0,0,0.1), rgba(0,0,0,0));
-    pointer-events: none;
-}
-/* Extra vendor prefixes for transitions */
-.header-design1 .logo,
-.header-design1 .nav ul li a {
-    -webkit-transition: all 0.3s ease;
-       -moz-transition: all 0.3s ease;
-            transition: all 0.3s ease;
-}
-
-/* =============================================================
- * OPTION 2: Centered Header with Navigation Below
- ============================================================= */
-.header-design2 {
-    background-color: #222;
-    color: #fff;
-    padding: 2rem 0;
-    text-align: center;
-    position: relative;
-    font-family: 'Roboto', sans-serif;
-    transition: background 0.5s ease;
-    border-bottom: 3px solid #444;
-    /* Extra letter spacing */
-    letter-spacing: 0.5px;
-}
-
-/* Centered logo styling for Option 2 */
-.header-design2 .logo {
-    font-size: 2.5rem;
-    font-weight: 700;
-    margin-bottom: 0.5rem;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    transition: letter-spacing 0.3s ease, color 0.3s ease;
-}
-
-/* Navigation styling for Option 2 */
-.header-design2 .nav ul {
-    list-style: none;
-    display: inline-flex;
-    gap: 2rem;
-    padding: 0;
-    margin: 0;
-}
-.header-design2 .nav ul li a {
-    color: #fff;
-    text-decoration: none;
-    font-size: 1.2rem;
-    transition: color 0.3s ease, background-color 0.3s ease;
-    padding: 0.25rem 0.5rem;
-    border-radius: 4px;
-}
-.header-design2 .nav ul li a:hover {
-    color: #63b3ed;
-    background-color: rgba(255, 255, 255, 0.1);
-}
-
-/* Hover effect for centered logo */
-.header-design2 .logo:hover {
-    letter-spacing: 3px;
-    color: #63b3ed;
-}
-
-/* Extra decorative pseudo-element */
-.header-design2 .logo::after {
-    content: '';
-    display: block;
-    width: 50%;
-    height: 2px;
-    background: #63b3ed;
-    margin: 0.5rem auto 0;
-    opacity: 0.8;
-}
-
-/* Responsive styles for Option 2 */
-@media (max-width: 768px) {
-    .header-design2 .nav ul {
-        flex-direction: column;
-        gap: 1rem;
-    }
-}
-
-/* Additional properties for Option 2 */
-/* Adding text-shadow for extra depth */
-.header-design2 .logo {
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
-}
-/* Subtle animation for navigation links */
-.header-design2 .nav ul li a {
-    -webkit-animation: fadeIn 1s ease-in-out;
-       -moz-animation: fadeIn 1s ease-in-out;
-            animation: fadeIn 1s ease-in-out;
-}
-@-webkit-keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-}
-@-moz-keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-}
-@keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-}
-
-/* =============================================================
- * OPTION 3: Transparent Overlay Header with Dynamic Effects
- ============================================================= */
-.header-design3 {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 1000;
-    background: rgba(0, 0, 0, 0.6);
-    color: #fff;
-    padding: 1.5rem 2rem;
-    font-family: 'Montserrat', sans-serif;
-    transition: background 0.4s ease, box-shadow 0.4s ease;
-    border-bottom: 1px solid rgba(255,255,255,0.2);
-}
-.header-design3:hover {
-    background: rgba(0, 0, 0, 0.8);
-    -webkit-box-shadow: 0 4px 10px rgba(0,0,0,0.5);
-       -moz-box-shadow: 0 4px 10px rgba(0,0,0,0.5);
-            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
-}
-
-.header-design3 .header-container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-.header-design3 .logo {
-    font-size: 2rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    transition: transform 0.3s ease, color 0.3s ease;
-}
-.header-design3 .nav ul {
-    list-style: none;
-    display: flex;
-    gap: 1.5rem;
-    margin: 0;
-    padding: 0;
-}
-.header-design3 .nav ul li a {
-    color: #fff;
-    text-decoration: none;
-    font-size: 1.1rem;
-    position: relative;
-    transition: color 0.3s ease, transform 0.3s ease;
-}
-.header-design3 .nav ul li a::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: -4px;
-    width: 0;
-    height: 2px;
-    background: #63b3ed;
-    transition: width 0.3s ease;
-}
-.header-design3 .nav ul li a:hover {
-    color: #63b3ed;
-    transform: translateY(-2px);
-}
-.header-design3 .nav ul li a:hover::after {
-    width: 100%;
-}
-
-/* Extra hover animation for the logo */
-.header-design3 .logo:hover {
-    transform: scale(1.1);
-}
-
-/* Responsive styles for Option 3 */
-@media (max-width: 768px) {
-    .header-design3 .nav ul {
-        flex-direction: column;
-        gap: 1rem;
-        text-align: center;
-    }
-}
-
-/* Additional extra spacing, comments, and fallback styles */
-/* Fallback for older browsers */
-@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-    .header-design1, .header-design2, .header-design3 {
-        /* IE fallback styles */
-        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#333333', endColorstr='#000000');
-    }
-}
-
-/* Extra spacing and decorative borders for each header variant */
-.header-design1,
-.header-design2,
-.header-design3 {
-    margin-bottom: 1.5rem;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
-}
-
-/* End of Header CSS */

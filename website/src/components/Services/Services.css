@@ -1,178 +1,106 @@
-/************************************************************************
- * SERVICES SECTION STYLES
- * This file contains comprehensive styling for the Services section,
- * including grid layout, hover effects, responsive design, and extra
- * animations for a modern, professional look.
- ************************************************************************/
+/* src/components/Services/Services.css */
 
-/* Base styles for the services section */
+/* 
+   Full-height section with a plumbing-themed background. 
+   You can swap the background URL for any image you prefer. 
+*/
 .services-section {
+  position: relative;
+  min-height: 100vh;
   padding: 4rem 2rem;
-  background-color: #f8f8f8;
-  position: relative;
-  overflow: hidden;
+  color: #fff;
+  background: url('https://images.pexels.com/photos/461029/pexels-photo-461029.jpeg?cs=srgb&dl=pexels-pixabay-461029.jpg&fm=jpg')
+    no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed; /* optional parallax effect */
+  overflow: hidden; /* so overlay covers everything */
 }
-.services-section::before {
-  content: "";
+
+.services-overlay {
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.03);
-  pointer-events: none;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6); /* Darken the background */
+  z-index: 0;
 }
 
-/* Service heading */
+/* Title at the top */
 .service-heading {
+  position: relative; /* to stay above the overlay */
   text-align: center;
-  font-size: 2.5rem;
-  font-family: 'Oswald', sans-serif;
-  color: #333;
+  font-size: 2rem;
   margin-bottom: 2rem;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-.service-heading span[data-business-name] {
-  color: #63b3ed;
-  font-weight: bold;
+  z-index: 1;
 }
 
-/* Grid layout for service boxes */
+/* The grid of service boxes */
 .services-grid {
+  position: relative; /* ensure it’s above overlay */
+  z-index: 1;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 2rem;
-  max-width: 1200px;
-  margin: 0 auto;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 
-/* Service box styling */
 .service-box {
-  background: #fff;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(8px);
+  border-radius: 12px;
   padding: 2rem;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  position: relative;
-  overflow: hidden;
-}
-.service-box:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+  text-align: center;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+
+  /* IntersectionObserver fade-in default state */
+  opacity: 0;
+  transform: translateY(40px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
 }
 
-/* Icon container */
+/* When in view, fade in */
+.service-box.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Icon styling */
 .icon-container {
-  font-size: 3rem;
-  color: #63b3ed;
+  font-size: 2rem;
   margin-bottom: 1rem;
-  transition: transform 0.3s ease;
-}
-.service-box:hover .icon-container {
-  transform: scale(1.1);
+  color: #f6e05e; /* a gold-ish color */
 }
 
-/* Service title */
-.service-box h3 {
-  font-size: 1.5rem;
-  margin-bottom: 0.5rem;
-  font-family: 'Oswald', sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #222;
+/* Service title & description */
+.service-title {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
 }
 
-/* Service paragraph */
-.service-box p {
+.service-description {
   font-size: 1rem;
-  color: #555;
-  line-height: 1.5;
-  margin-bottom: 1rem;
+  line-height: 1.4;
+  margin-bottom: 1.5rem;
 }
 
-/* Call button styling */
+/* "Call Now" button */
 .call-btn {
-  display: inline-block;
-  background: #63b3ed;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #3182ce;
   color: #fff;
   padding: 0.75rem 1.5rem;
+  border-radius: 30px;
   text-decoration: none;
-  border-radius: 4px;
-  font-size: 1rem;
   transition: background 0.3s ease, transform 0.3s ease;
 }
+
 .call-btn:hover {
-  background: #4299e1;
+  background: #2b6cb0;
   transform: translateY(-2px);
 }
-.call-btn i {
-  margin-right: 0.5rem;
-}
 
-/* Decorative underline on hover */
-.service-box::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 0;
-  height: 4px;
-  background: #63b3ed;
-  transition: width 0.3s ease;
-}
-.service-box:hover::after {
-  width: 100%;
-}
-
-/* Responsive adjustments */
+/* Responsive: stack the boxes on smaller screens */
 @media (max-width: 768px) {
-  .service-heading {
-    font-size: 2rem;
-  }
   .services-grid {
     grid-template-columns: 1fr;
   }
 }
-
-/* Extra animations and vendor prefixes */
-@-webkit-keyframes boxPulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.02); }
-  100% { transform: scale(1); }
-}
-@-moz-keyframes boxPulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.02); }
-  100% { transform: scale(1); }
-}
-@keyframes boxPulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.02); }
-  100% { transform: scale(1); }
-}
-.service-box:hover {
-  animation: boxPulse 0.6s ease-in-out;
-}
-
-/* Extra verbose filler and detailed comments */
-/*
-   Additional properties can be added here for further customization,
-   including vendor-specific rules, extra media queries, and fallback styles.
-   This block is intentionally verbose to add extra length and detail.
-   ---------------------------------------------------------------------------
-   // More complex hover effects, text shadows, gradients, and transitions
-   // can be defined here.
-   // For example, you might include:
-   //    background-blend-mode: multiply;
-   //    filter: brightness(0.95);
-   // And extra keyframe animations.
-   ---------------------------------------------------------------------------
-*/
-body {
-  background-color: #f0f0f0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  font-size: 16px;
-}
-/* End of Services CSS */

@@ -4,15 +4,15 @@ modules = ["nodejs-20", "python-3.11", "web"]
 channel = "stable-24_05"
 
 [workflows]
-runButton = "Run"
+runButton = "Start Dev Server"
 
 [[workflows.workflow]]
-name = "Run"
+name = "Start Dev Server"
 author = 39581396
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
-args = "cd website && npm install && npm run dev -- --host 0.0.0.0"
+args = "cd website && npm run dev -- --host 0.0.0.0"
 
 [[ports]]
 localPort = 3000

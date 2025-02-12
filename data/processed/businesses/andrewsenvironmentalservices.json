@@ -126,5 +126,12 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "I recommend her to my clients and use her for my lots.  She's quick, thorough and easy to deal with.  I found her to be an excellent communicator via email.  She's out of the office so much and is a one woman show.",
+      "reviewer_name": "Kelly Marie",
+      "date": "2023-05-09T21:36:07.881Z"
+    }
+  ]
 }

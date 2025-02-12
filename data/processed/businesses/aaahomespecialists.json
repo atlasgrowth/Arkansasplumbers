@@ -126,5 +126,97 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "Jesse is very knowledgeable and does quality work at a very reasonable price.  He fixed plumbing any electrical issues for us.  Will not hesitate to call him if issues come up in the future",
+      "reviewer_name": "Charles Fulmer",
+      "date": "2024-09-13T16:39:38.136Z"
+    },
+    {
+      "text": "Sean did an excellent job clearing an abandoned lot! I believe we will continue to do business together!",
+      "reviewer_name": "Rhonda anderson",
+      "date": "2024-08-30T19:20:17.800Z"
+    },
+    {
+      "text": "Excellent, reliable, dependable,great customer service, and a great price. He did a great job and would call him back again anytime. The best in the state to call if you need a good job done with efficiency and easy to work with.",
+      "reviewer_name": "Kathy Marshall",
+      "date": "2024-08-09T17:19:55.868Z"
+    },
+    {
+      "text": "Really friendly guy. He saved the day on a DIY plumbing project that went awry. Thanks again.",
+      "reviewer_name": "Ryan",
+      "date": "2024-03-10T01:08:06.164Z"
+    },
+    {
+      "text": "Very good work and fast at his job and gets it done quick and done right no question asked 100% I will use this guy for ever thank u",
+      "reviewer_name": "Adam Hughes",
+      "date": "2023-12-09T14:19:22.538Z"
+    },
+    {
+      "text": "Jesse was amazing to work with. He is professional and collaborated well on what we wanted and the best way to do that. He did a variety of different projects for us and each one was done to a high quality. I highly recommend him for your next project.",
+      "reviewer_name": "Annie Ashander",
+      "date": "2023-05-20T17:10:51.022Z"
+    },
+    {
+      "text": "He installed my new sink, faucet, garbage disposal, and ice maker all in one day! He was thorough but quick. Incredibly nice, professional as well as responsive to texts. So glad to have found a good handyman for future projects!",
+      "reviewer_name": "Morgan Nelson",
+      "date": "2023-01-04T18:32:11.199Z"
+    },
+    {
+      "text": "He was very professional and down to earth. He fixed everything that was wrong and it was done right the first time. He even fixed another person\u2019s hack job! He was extremely well priced! We will definitely use his services again \u2665\ufe0f!!!",
+      "reviewer_name": "Melisa Beaty",
+      "date": "2022-09-05T21:13:59.970Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Shane Robinson",
+      "date": "2022-02-06T20:03:49.468Z"
+    },
+    {
+      "text": "So glad I found this handyman! Jesse is awesome! Very thorough and affordable! Excellent job...definitely would recommend and will be calling him again!",
+      "reviewer_name": "Angela Johnson",
+      "date": "2021-11-07T00:53:09.406Z"
+    },
+    {
+      "text": "Jesse is the best!  Very dependable and trustworthy!  He does very good work and his prices are more than fair.  If you have a home project or need something repaired, I highly recommend him!",
+      "reviewer_name": "Bill Lewis",
+      "date": "2021-05-04T20:46:25.090Z"
+    },
+    {
+      "text": "Being new to the community, I didn't know where to start when I needed repairs around the house. After shopping around for a handyman with bad results, I almost gave up. Then I found Jesse. He does very good work and has become my go to person whenever I need something done, from flooring to shelves. I can always depend on Jesse.",
+      "reviewer_name": "Brenda White",
+      "date": "2021-04-21T17:40:47.983Z"
+    },
+    {
+      "text": "I called Jesse about repairing my floor because I had a water heater go out and leaked on the floor causing it to swell. He came right out and gave me a quote, he did a good job and tried to save us money any way he could, I will definitely use him again in the future when something else comes up.",
+      "reviewer_name": "WEEKEND WARRIOR",
+      "date": "2021-02-22T16:12:03.962Z"
+    },
+    {
+      "text": "Jesse had become our go-to fix it guy and is not satisfied with anything but perfection-- tremendous attention to detail.   We love our new garage interior.   My wife's \"Jesse-do\"  list is growing!",
+      "reviewer_name": "Ron Anderson",
+      "date": "2020-11-24T16:24:59.285Z"
+    },
+    {
+      "text": "Jesse replaced our attic pull down stairs. Great job! Very pleased with his work. Will use again.",
+      "reviewer_name": "phala harrison",
+      "date": "2020-10-15T18:57:51.308Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Larry England",
+      "date": "2020-07-18T20:59:26.526Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Kyle Wewers",
+      "date": "2020-07-18T18:11:31.780Z"
+    },
+    {
+      "text": "I was completely satisfied with the work. He was able to work around my schedule which made it much easier for me. Not only fixed the things that i asked but went out of his way to get me the information for garage door pricing among other things.  Great, friendly, professional service...will be using again.",
+      "reviewer_name": "Chris Duran",
+      "date": "2019-05-07T15:23:42.979Z"
+    }
+  ]
 }

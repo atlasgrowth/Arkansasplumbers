@@ -126,5 +126,72 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": "He arrived the same day and fixed the issue immediately.  Definitely would recommend.",
+      "reviewer_name": "Brad",
+      "date": "2025-01-09T20:09:35.655Z"
+    },
+    {
+      "text": "Mike from All-In-One Plumbing & Heating did an outstanding job installing a R.O system and a water softener in my home. He was punctual, highly experienced, and incredibly attentive to detail. The installation was seamless, with neatly done piping and no issues whatsoever. Mike took the time to explain everything clearly, from maintenance to proper use. If you\u2019re looking for a professional, reliable plumber, Mike is the one to call! Highly recommend!",
+      "reviewer_name": "Ravi Boyanapalli",
+      "date": "2025-01-06T17:55:38.308Z"
+    },
+    {
+      "text": "Mike is very knowledgable of what is need to solve plumbing issues. We have used him often because he has reasonable rated.",
+      "reviewer_name": "Debbie Gallogly",
+      "date": "2024-07-28T21:06:13.351Z"
+    },
+    {
+      "text": "Mike Is knowledgeable and prices are reasonable get right to the problem I have used his services several times and am Very satisfied",
+      "reviewer_name": "Cruz Suarez",
+      "date": "2024-07-28T20:56:15.434Z"
+    },
+    {
+      "text": "Mike from All-in-One Plumbing remains our go-to plumber for any plumbing problems we have. We have used his services three times over the past two years and he is a total professional. Very personable and a problem-solver, Mike assesses the problem quickly, then works until it's solved. Our service call with him yesterday (24 July) is a great example of his commitment to customer service and satisfaction.",
+      "reviewer_name": "Melissa Bustamante",
+      "date": "2024-07-25T12:10:35.933Z"
+    },
+    {
+      "text": "I highly recommend Mike at All-in-one Plumbing. He was not only flexible, he went above and beyond helping me get my new gas stove up and running. He was extremely reasonable as well. You\u2019re missing out and spending too much if you choose otherwise.",
+      "reviewer_name": "Michael Hornsey",
+      "date": "2024-07-24T00:59:24.156Z"
+    },
+    {
+      "text": "Mike was fast to respond when my toilet flooded my 1st floor. Very nice and professional. Didn\u2019t leave a mess, either! Will definitely make All in One my go to from now on!",
+      "reviewer_name": "Kristi Arhangelsky",
+      "date": "2024-07-24T00:47:06.762Z"
+    },
+    {
+      "text": "Mike has been my go to pro for over 10 years, friendly, reliable, hardworking and always a quality job.   He\u2019s the best.",
+      "reviewer_name": "Rolf Wilkin",
+      "date": "2024-07-23T23:09:11.942Z"
+    },
+    {
+      "text": "They were here very quickly,my toilet was leaking,they replaced the turn off valve, Michael was very professional even our dog liked him.Thank you All-in- one Plumbing & Heating",
+      "reviewer_name": "Bob Schumacher",
+      "date": "2024-07-23T22:13:01.816Z"
+    },
+    {
+      "text": "Had a toilet leak and flooded my house and Mike was there within 15 minutes ready to help at 5am on a Sunday. Great guy with great prices. Very reliable plumber. \ud83d\udc4d\ud83d\udc4d",
+      "reviewer_name": "Bailey Bridgeford",
+      "date": "2024-07-23T21:20:04.066Z"
+    },
+    {
+      "text": "Mike does a fantastic job and does honest and exceptional work. He\u2019s done so many jobs for me snd charges ONLY what he says. He is timely and respects your time. Give him a call for all your plumbing and HVAC needs!",
+      "reviewer_name": "Andrew Bailey",
+      "date": "2024-07-23T21:13:00.794Z"
+    },
+    {
+      "text": "All - in-One has handled several jobs for me.  From complete line replacements to water heaters, little leaks to large lakes - Mike has always been there to get the job done fast.  Its rare to find contractors who back up their work with quality and assurance.  Look no further for a great fix at a great price.",
+      "reviewer_name": "Levi Duncan",
+      "date": "2024-07-23T20:40:00.649Z"
+    },
+    {
+      "text": "Mike is the best! He was quick, polite, informative, and he fixed the leak issue we\u2019ve had on and off for months!\nSo grateful for his kind service!",
+      "reviewer_name": "Rylin Bridgeford",
+      "date": "2024-07-23T20:26:41.809Z"
+    }
+  ]
 }

@@ -136,5 +136,52 @@
   "scores": {
     "photo_score": 0,
     "facebook_score": 0
-  }
+  },
+  "five_star_reviews": [
+    {
+      "text": null,
+      "reviewer_name": "Tina Behrens",
+      "date": "2023-11-29T16:34:47.482Z"
+    },
+    {
+      "text": "Awesome service , reasonable prices , showed up in a timely manner , No complaints at all.",
+      "reviewer_name": "Nancy Still",
+      "date": "2022-07-19T00:13:29.591Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "Changhee Lee",
+      "date": "2021-08-05T13:38:42.320Z"
+    },
+    {
+      "text": "Great work. Reasonable price. Follow up customer service!",
+      "reviewer_name": "Ronnie Ford",
+      "date": "2021-07-27T20:47:12.171Z"
+    },
+    {
+      "text": "Mr. Randy went  above and beyond the call of duty. He refused to receive any payment until he finished his work. I haven\u2019t seen such honesty and great work ethic in a very long time. I will 100% recommend his services.  5++ stars",
+      "reviewer_name": "Israel Diaz",
+      "date": "2021-01-23T18:03:56.728Z"
+    },
+    {
+      "text": null,
+      "reviewer_name": "isidro Jr",
+      "date": "2020-12-30T17:40:16.260Z"
+    },
+    {
+      "text": "Randy was very nice and he knew exactly what was wrong with the drains.",
+      "reviewer_name": "Andy Sherbert",
+      "date": "2020-05-01T22:07:30.235Z"
+    },
+    {
+      "text": "Always the best!!wont use anybody else!!!",
+      "reviewer_name": "Timothy Ward",
+      "date": "2020-03-02T12:01:52.146Z"
+    },
+    {
+      "text": "Excellent and fast service!",
+      "reviewer_name": "Jamee Heflin",
+      "date": "2019-01-08T20:34:47.322Z"
+    }
+  ]
 }
