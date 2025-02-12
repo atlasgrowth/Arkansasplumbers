@@ -1,4 +1,3 @@
-
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
@@ -7,7 +6,27 @@ export default defineConfig({
   base: '/Arkansasplumbers/',
   build: {
     outDir: 'dist',
-    sourcemap: true
+    sourcemap: true,
+    rollupOptions: {
+      external: [],
+      output: {
+        assetFileNames: 'assets/[name].[ext]'
+      }
+    }
+  },
+  css: {
+    // This ensures CSS files are processed correctly
+    preprocessorOptions: {
+      css: {
+        charset: false
+      }
+    }
+  },
+  resolve: {
+    // This helps Vite find node_modules packages
+    alias: {
+      '@fortawesome': '/node_modules/@fortawesome'
+    }
   },
   server: {
     host: '0.0.0.0',
