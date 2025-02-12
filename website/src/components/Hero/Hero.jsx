@@ -11,10 +11,14 @@ const Hero = () => {
 
     return (
         <div className="hero">
-            <div className="hero-content">
+            <header className="hero-header">
                 <h1>{loading ? "Loading..." : business?.basic_info?.name}</h1>
                 <p className="phone">{loading ? "" : business?.basic_info?.phone}</p>
-            </div>
+            </header>
+            <section className="hero-about">
+                <h2>About</h2>
+                <p>{loading ? "Loading about..." : business?.basic_info?.about}</p>
+            </section>
         </div>
     );
 };
