@@ -13,3 +13,7 @@ author = 39581396
 [[workflows.workflow.tasks]]
 task = "shell.exec"
 args = "cd website && npm install && npm run dev"
+
+[[ports]]
+localPort = 3000
+externalPort = 80
