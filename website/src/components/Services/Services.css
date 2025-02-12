@@ -35,11 +35,13 @@
 
 /* The grid of service boxes */
 .services-grid {
-  position: relative; /* ensure it’s above overlay */
+  position: relative;
   z-index: 1;
   display: grid;
   gap: 2rem;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .service-box {

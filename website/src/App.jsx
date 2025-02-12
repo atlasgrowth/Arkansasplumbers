@@ -56,4 +56,9 @@ function App() {
   );
 }
 
+// Scroll to top on page load
+window.onload = () => {
+  window.scrollTo(0, 0);
+};
+
 export default App;

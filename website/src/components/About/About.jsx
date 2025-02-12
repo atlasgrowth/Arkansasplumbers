@@ -43,6 +43,16 @@ const About = ({ business, loading }) => {
             </p>
           </div>
 
+          <div className="about-cta">
+            <a href="#services" className="cta-button primary">
+              <i className="fas fa-wrench"></i> Our Services
+            </a>
+            {phone && (
+              <a href={`tel:${phone.replace(/[^0-9]/g, '')}`} className="cta-button secondary">
+                <i className="fas fa-phone"></i> Call Now
+              </a>
+            )}
+          </div>
           
         </div>
       </div>
