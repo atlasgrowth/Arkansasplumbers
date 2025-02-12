@@ -12,12 +12,15 @@ import Footer from './components/Footer/Footer';
 
 
 function App() {
-  // Get the URL parameter (e.g., ?site_id=1stcallplumbing)
   const [searchParams] = useSearchParams();
   const siteId = searchParams.get('site_id');
 
   const [business, setBusiness] = useState(null);
   const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   useEffect(() => {
     if (!siteId) {
@@ -56,9 +59,5 @@ function App() {
   );
 }
 
-// Scroll to top on page load
-window.onload = () => {
-  window.scrollTo(0, 0);
-};
 
 export default App;
