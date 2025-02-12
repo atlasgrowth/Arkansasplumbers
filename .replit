@@ -1,0 +1,15 @@
+modules = ["web", "nodejs-20"]
+
+[nix]
+channel = "stable-24_05"
+
+[workflows]
+runButton = "Run"
+
+[[workflows.workflow]]
+name = "Run"
+author = 39581396
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "cd website && npm install && npm run dev"
