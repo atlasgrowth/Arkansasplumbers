@@ -14,11 +14,11 @@ const Header = () => {
         <div className="logo">MyBusiness</div>
         <nav className={`nav ${menuOpen ? 'open' : ''}`}>
           <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/#about">About</a></li>
-            <li><a href="/#services">Services</a></li>
-            <li><a href="/#reviews">Reviews</a></li>
-            <li><a href="/#contact">Contact</a></li>
+            <li><a href="/Arkansasplumbers/">Home</a></li>
+            <li><a href="/Arkansasplumbers/#about">About</a></li>
+            <li><a href="/Arkansasplumbers/#services">Services</a></li>
+            <li><a href="/Arkansasplumbers/#reviews">Reviews</a></li>
+            <li><a href="/Arkansasplumbers/#contact">Contact</a></li>
           </ul>
         </nav>
         <button className="menu-toggle" onClick={toggleMenu}>

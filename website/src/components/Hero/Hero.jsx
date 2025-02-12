@@ -1,11 +1,12 @@
 import React from 'react';
 import './Hero.css';
 
-const Hero = () => {
-  // Sample static data—you can later make these dynamic or pass them as props.
+const Hero = ({ siteId }) => {
+  // For demo purposes, we use static values.
+  // In a real scenario, you could fetch data based on siteId.
   const businessName = "Your Business Name";
   const phoneNumber = "(123) 456-7890";
-  const backgroundImage = "https://source.unsplash.com/1600x900/?business"; // stock photo URL
+  const backgroundImage = "https://source.unsplash.com/1600x900/?business";
 
   return (
     <section className="hero" style={{ backgroundImage: `url(${backgroundImage})` }}>
