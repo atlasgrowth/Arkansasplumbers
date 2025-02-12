@@ -1,31 +1,18 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
+import path from 'path';
 
 export default defineConfig({
   plugins: [react()],
   base: '/Arkansasplumbers/',
   build: {
     outDir: 'dist',
-    sourcemap: true,
-    rollupOptions: {
-      external: [],
-      output: {
-        assetFileNames: 'assets/[name].[ext]'
-      }
-    }
-  },
-  css: {
-    // This ensures CSS files are processed correctly
-    preprocessorOptions: {
-      css: {
-        charset: false
-      }
-    }
+    sourcemap: true
   },
   resolve: {
-    // This helps Vite find node_modules packages
     alias: {
-      '@fortawesome': '/node_modules/@fortawesome'
+      '@': path.resolve(__dirname, './src'),
+      '@fortawesome': path.resolve(__dirname, './node_modules/@fortawesome')
     }
   },
   server: {
