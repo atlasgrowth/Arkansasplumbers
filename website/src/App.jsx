@@ -43,8 +43,8 @@ function App() {
     <div className="app">
       <Header business={business} loading={loading} />
       <Hero business={business} loading={loading} />
-      <Services business={business} loading={loading} />
-      <About business={business} loading={loading} />  {/* Added About section */}
+      <About business={business} loading={loading} />
+      <Services business={business} loading={loading} />  {/* Added About section */}
     </div>
   );
 }

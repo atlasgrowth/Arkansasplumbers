@@ -49,7 +49,7 @@
   font-weight: 800;
   line-height: 1.2;
   margin-bottom: 1.5rem;
-  color: var(--text-dark);
+  color: white; /* Updated color */
 }
 
 .location-highlight {
@@ -61,7 +61,7 @@
   font-size: 1.1rem;
   line-height: 1.7;
   margin-bottom: 3rem;
-  color: var(--text-dark);
+  color: white; /* Updated color */
 }
 
 .about-grid {
@@ -92,7 +92,7 @@
 .about-card h3 {
   font-size: 1.25rem;
   margin-bottom: 0.5rem;
-  color: var(--text-dark);
+  color: white; /* Updated color */
 }
 
 .about-card p {
@@ -168,7 +168,7 @@
 .rating-number {
   font-size: 1.5rem;
   font-weight: 700;
-  color: var(--text-dark);
+  color: white; /* Updated color */
   margin-bottom: 0.5rem;
 }
 
