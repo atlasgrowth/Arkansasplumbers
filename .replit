@@ -28,4 +28,5 @@ localPort = 3000
 externalPort = 80
 
 [deployment]
-run = ["sh", "-c", "node index.js"]
+run = ["sh", "-c", "npm run preview"]
+build = ["sh", "-c", "npm run build"]
