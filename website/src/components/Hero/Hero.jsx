@@ -1,10 +1,11 @@
 import React from 'react';
 import './Hero.css';
 
-const Hero = ({ siteId }) => {
-  // For now, static content is used.
-  const businessName = "Cool Business Inc.";
-  const phoneNumber = "(800) 123-4567";
+const Hero = ({ business, loading }) => {
+  // Use dynamic business info if available; fallback to default values.
+  const businessName = business?.basic_info?.name || "Business Name";
+  const phoneNumber = business?.basic_info?.phone || "Phone Not Available";
+  // Use your provided hero image URL:
   const backgroundImage = "https://assets.cdn.filesafe.space/A9rd4HdLD0sTvRuuQFZl/media/651501775cf2e93f16638cf9.jpeg";
 
   return (
