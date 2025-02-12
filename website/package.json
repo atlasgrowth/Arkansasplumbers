@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && cp -r ../data/processed/businesses dist/data/processed/businesses",
     "preview": "vite preview"
   },
   "dependencies": {
