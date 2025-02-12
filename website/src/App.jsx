@@ -6,7 +6,9 @@ import Hero from './components/Hero/Hero';
 import About from './components/About/About'; // Added About import
 import './styles/App.css';
 import Services from './components/Services/Services';
-import Reviews from './components/Reviews/Reviews'; // Added Reviews import
+import Reviews from './components/Reviews/Reviews';
+import Contact from './components/Contact/Contact';
+import Footer from './components/Footer/Footer';
 
 
 function App() {
@@ -48,6 +50,8 @@ function App() {
       <About business={business} loading={loading} />
       <Services business={business} loading={loading} />
       <Reviews business={business} loading={loading} />
+      <Contact business={business} loading={loading} />
+      <Footer business={business} loading={loading} />
     </div>
   );
 }
