@@ -1,6 +1,7 @@
 
 import React from 'react';
 import './About.css';
+import plumberImage from '../../assets/plumber-stock.jpg';
 
 const About = ({ business, loading }) => {
   if (loading) return <div className="about-loading">Loading...</div>;
@@ -13,6 +14,9 @@ const About = ({ business, loading }) => {
     working_hours = {},
   } = business?.basic_info || {};
 
+  // Create location text
+  const locationText = city && state ? `${city}, ${state}` : "your local area";
+
   // Parse working hours
   let workingHoursText = "Available when you need us";
   if (typeof working_hours === 'object' && Object.keys(working_hours).length > 0) {
@@ -21,32 +25,58 @@ const About = ({ business, loading }) => {
   }
 
   return (
-    <section className="about-parallax" id="about">
-      <div className="parallax-bg"></div>
-      <div className="about-content-wrapper">
-        <div className="about-header">
-          <h2 className="glow-text">Excellence in <span className="highlight">Plumbing</span></h2>
-          <p className="subheadline"><strong>Your Trusted Partner in</strong> Professional Plumbing Solutions</p>
+    <section className="about" id="about">
+      <div className="about-content">
+        <div className="about-text">
+          <span className="about-label">About Us</span>
+          <h2 className="about-title">
+            Professional Plumbing Services in <span className="highlight">{locationText}</span>
+          </h2>
+          
+          <p className="about-description">
+            At {name}, we pride ourselves on delivering exceptional plumbing services with 
+            professionalism and reliability. Our team of experienced plumbers is dedicated 
+            to solving your plumbing needs efficiently and effectively.
+          </p>
+
+          <div className="about-features">
+            <div className="feature-item">
+              <div className="feature-icon">
+                <i className="fas fa-clock"></i>
+              </div>
+              <div className="feature-text">
+                <h3>Availability</h3>
+                <p>{workingHoursText}</p>
+              </div>
+            </div>
+
+            <div className="feature-item">
+              <div className="feature-icon">
+                <i className="fas fa-shield-alt"></i>
+              </div>
+              <div className="feature-text">
+                <h3>Licensed & Insured</h3>
+                <p>Your peace of mind is our priority</p>
+              </div>
+            </div>
+
+            <div className="feature-item">
+              <div className="feature-icon">
+                <i className="fas fa-phone"></i>
+              </div>
+              <div className="feature-text">
+                <h3>Quick Response</h3>
+                <p>Contact us anytime</p>
+                <a href={`tel:${phone}`} className="phone-button">
+                  {phone}
+                </a>
+              </div>
+            </div>
+          </div>
         </div>
         
-        <div className="about-main-content">
-          <div className="company-intro">
-            <p className="intro-text">
-              <span className="company-name">{name}</span> is your premier plumbing service provider
-              {city && state ? ` in ${city}, ${state}` : ''}.
-              With a commitment to excellence and customer satisfaction, we deliver
-              top-tier plumbing solutions for both residential and commercial needs.
-              {workingHoursText === "Open 24/7" && " We're proud to offer round-the-clock service to meet your emergency needs."}
-            </p>
-          </div>
-
-          <div className="contact-info">
-            {phone && (
-              <a href={`tel:${phone.replace(/[^0-9]/g, '')}`} className="contact-button">
-                <i className="fas fa-phone"></i> {phone}
-              </a>
-            )}
-          </div>
+        <div className="about-image">
+          <img src={plumberImage} alt="Professional Plumber" />
         </div>
       </div>
     </section>
