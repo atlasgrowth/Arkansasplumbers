@@ -1,4 +1,3 @@
-
 import React from 'react';
 import './About.css';
 
@@ -20,15 +19,19 @@ const About = ({ business, loading }) => {
     workingHoursText = isAlways ? "Open 24/7" : "Contact us for current hours";
   }
 
+  const plumberImage = "https://images.unsplash.com/photo-1608283833336-5fb6f919e5ea?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
+
   return (
     <section className="about-parallax" id="about">
-      <div className="parallax-bg"></div>
+      <div className="parallax-bg">
+        <img src={plumberImage} alt="Plumber" className="about-image" />
+      </div>
       <div className="about-content-wrapper">
         <div className="about-header">
           <h2 className="glow-text">Excellence in <span className="highlight">Plumbing</span></h2>
           <p className="subheadline"><strong>Your Trusted Partner in</strong> Professional Plumbing Solutions</p>
         </div>
-        
+
         <div className="about-main-content">
           <div className="company-intro">
             <p className="intro-text">
