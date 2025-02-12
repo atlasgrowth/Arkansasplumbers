@@ -1,10 +1,11 @@
-modules = ["nodejs-20", "python-3.11", "web"]
+modules = ["nodejs-20", "web", "python-3.11"]
+run = "node index.js"
 
 [nix]
 channel = "stable-24_05"
 
 [workflows]
-runButton = "Start Dev Server"
+runButton = "Run Website"
 
 [[workflows.workflow]]
 name = "Start Dev Server"
@@ -14,10 +15,17 @@ author = 39581396
 task = "shell.exec"
 args = "cd website && npm run dev -- --host 0.0.0.0"
 
+[[workflows.workflow]]
+name = "Run Website"
+author = 39618996
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "npm run dev"
+
 [[ports]]
 localPort = 3000
 externalPort = 80
 
 [deployment]
-run = ["sh", "-c", "cd website && npx serve dist"]
-build = ["sh", "-c", "cd website && npm run build"]
+run = ["sh", "-c", "node index.js"]
