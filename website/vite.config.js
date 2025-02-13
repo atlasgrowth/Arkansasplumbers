@@ -5,7 +5,8 @@ export default defineConfig({
   plugins: [react()],
   base: '/Arkansasplumbers/',
   build: {
-    outDir: 'dist'
+    
+    outDir: 'dist',outDir: 'dist'
   },
   server: {
     host: '0.0.0.0',
