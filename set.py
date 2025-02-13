@@ -8,109 +8,150 @@ import json
 GITHUB_USERNAME = "greekfreek23"
 REPO_NAME = "Arkansasplumbers"
 
-# Read GitHub token from environment variable
+# 1) Make sure you have a GitHub token in Replit secrets:
+#    GITHUB_TOKEN=<your personal access token>
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 if not GITHUB_TOKEN:
     print("ERROR: GITHUB_TOKEN environment variable not set!")
     sys.exit(1)
 
 def run_cmd(cmd):
-    """Run a shell command with real-time output."""
+    """Run a shell command with real-time output. Raises error on non-zero exit."""
     print(f"\n[CMD] {cmd}")
     result = subprocess.run(cmd, shell=True)
     if result.returncode != 0:
         raise RuntimeError(f"Command failed (exit code {result.returncode}): {cmd}")
 
-def main():
-    # 1) Remove .git folder inside 'website/' if it exists (so we only track from root)
+def remove_website_git():
+    """Remove any .git folder inside website/ so we only track from root .git."""
     website_git = os.path.join("website", ".git")
     if os.path.isdir(website_git):
-        print(f"Removing {website_git} to ensure we only have one .git at root.")
+        print(f"Removing {website_git} to ensure single .git at root.")
         run_cmd(f"rm -rf {website_git}")
+    else:
+        print("No .git folder in website/ to remove.")
 
-    print("===================================================")
-    print(" Step 1: Install NPM dependencies in 'website/'")
-    print("===================================================")
-    run_cmd("npm install --prefix website")
+def fix_gitignore():
+    """Remove lines ignoring data/ or *.json from .gitignore if it exists."""
+    gitignore_path = ".gitignore"
+    if not os.path.isfile(gitignore_path):
+        print("No .gitignore found at root; skipping fix.")
+        return
 
-    print("===================================================")
-    print(" Step 2: Install gh-pages (dev) in 'website/'")
-    print("===================================================")
-    run_cmd("npm install --save-dev gh-pages --prefix website")
+    # Read lines
+    with open(gitignore_path, "r") as f:
+        lines = f.readlines()
 
-    print("===================================================")
-    print(" Step 3: Modify 'website/package.json' to add 'predeploy' & 'deploy'")
-    print("===================================================")
-    pkg_path = os.path.join("website", "package.json")
-    if not os.path.isfile(pkg_path):
-        print(f"ERROR: Can't find {pkg_path}.")
-        sys.exit(1)
+    # Filter out lines that contain 'data/' or '*.json'
+    new_lines = []
+    removed_lines = []
+    for line in lines:
+        line_strip = line.strip()
+        if "data/" in line_strip or "*.json" in line_strip:
+            removed_lines.append(line_strip)
+        else:
+            new_lines.append(line)
 
-    with open(pkg_path, "r", encoding="utf-8") as f:
-        package_data = json.load(f)
+    if removed_lines:
+        print("Removed these lines from .gitignore:")
+        for r in removed_lines:
+            print("  ", r)
+        # Write back filtered lines
+        with open(gitignore_path, "w") as f:
+            f.writelines(new_lines)
+    else:
+        print("No lines ignoring data/ or *.json found in .gitignore.")
 
-    scripts = package_data.get("scripts", {})
-    scripts["predeploy"] = "npm run build"
-    scripts["deploy"] = "gh-pages -d dist"
-    package_data["scripts"] = scripts
-
-    with open(pkg_path, "w", encoding="utf-8") as f:
-        json.dump(package_data, f, indent=2)
-
-    print("Updated website/package.json with predeploy & deploy scripts")
-
-    print("===================================================")
-    print(" Step 4: Initialize Git at the ROOT, force-add data/, and force-push everything")
-    print("         so 'data/' is definitely included on main branch.")
-    print("===================================================")
-
-    # If not already a git repo at root, init
+def init_git_root():
+    """Initialize git at root if needed, configure user."""
     if not os.path.isdir(".git"):
         run_cmd("git init")
-
-    # Configure user (can change name/email)
     run_cmd('git config user.name "Replit Deployer"')
     run_cmd('git config user.email "nicksanford2341@gmail.com"')
 
-    # Check if remote origin exists. If not, add it
+def set_remote():
+    """Force remote origin to token-based URL."""
     remote_url = f"https://{GITHUB_TOKEN}@github.com/{GITHUB_USERNAME}/{REPO_NAME}.git"
-    try:
-        run_cmd("git remote get-url origin")
-        print("Remote 'origin' already exists.")
-    except RuntimeError:
-        print("No remote origin found; adding now...")
-        run_cmd(f"git remote add origin {remote_url}")
+    # Overwrite origin remote
+    # (If you want to skip overwriting if it exists, remove --set-url)
+    run_cmd(f"git remote remove origin || true")  # remove old origin if any
+    run_cmd(f"git remote add origin {remote_url}")
 
-    # Add everything at ROOT (includes data/, website/, etc.)
+def add_commit_push_root():
+    """Add all files at root, forcibly add data/ if needed, push to main (force)."""
     run_cmd("git add .")
-    # Force-add the data folder in case .gitignore excludes .json
     run_cmd("git add data/ -f")
-
-    # Commit changes
-    run_cmd('git commit -m "Deploy setup (root-level) with data" || true')
+    run_cmd('git commit -m "Deploy everything with data" || true')
     run_cmd("git branch -M main || true")
-
-    # FORCE push to overwrite the remote if needed
-    print("Force-pushing to main branch on GitHub...")
     run_cmd("git push -u origin main --force")
 
-    print("===================================================")
-    print(" Step 5: Deploy using 'npm run deploy --prefix website'")
-    print("         This builds site & pushes dist/ to gh-pages.")
-    print("===================================================")
+def setup_and_deploy_website():
+    """Install deps in website/, add predeploy/deploy scripts, run npm run deploy."""
+    # 1) npm install
+    run_cmd("npm install --prefix website")
+    # 2) npm install --save-dev gh-pages
+    run_cmd("npm install --save-dev gh-pages --prefix website")
+    # 3) Modify package.json
+    pkg_path = os.path.join("website", "package.json")
+    if not os.path.isfile(pkg_path):
+        print("ERROR: No package.json in website/")
+        sys.exit(1)
+
+    with open(pkg_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    scripts = data.get("scripts", {})
+    scripts["predeploy"] = "npm run build"
+    scripts["deploy"] = "gh-pages -d dist"
+    data["scripts"] = scripts
+
+    with open(pkg_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2)
+    print("Updated website/package.json with predeploy/deploy scripts")
+
+    # 4) Deploy
     run_cmd("npm run deploy --prefix website")
 
+def main():
     print("===================================================")
-    print(" ALL DONE!")
+    print("STEP 1: Remove .git in website/ (if any)")
     print("===================================================")
-    print(f"Your code (including data/) is now on GitHub main branch:")
-    print(f"  https://github.com/{GITHUB_USERNAME}/{REPO_NAME}/")
-    print(f"Your built website is on gh-pages at:")
-    print(f"  https://{GITHUB_USERNAME}.github.io/{REPO_NAME}/")
-    print("Enable Pages on the gh-pages branch if needed.")
-    print("Check query param, e.g.:")
-    print(f"  https://{GITHUB_USERNAME}.github.io/{REPO_NAME}/?site_id=1stcallplumbing")
+    remove_website_git()
 
+    print("===================================================")
+    print("STEP 2: Fix .gitignore to allow data/ and *.json")
+    print("===================================================")
+    fix_gitignore()
+
+    print("===================================================")
+    print("STEP 3: Initialize Git at root, set user")
+    print("===================================================")
+    init_git_root()
+
+    print("===================================================")
+    print("STEP 4: Overwrite remote origin with token-based URL")
+    print("===================================================")
+    set_remote()
+
+    print("===================================================")
+    print("STEP 5: Add, commit, force-push all root files (incl. data/)")
+    print("===================================================")
+    add_commit_push_root()
+
+    print("===================================================")
+    print("STEP 6: Install and deploy from 'website/'")
+    print("===================================================")
+    setup_and_deploy_website()
+
+    print("===================================================")
+    print("ALL DONE!")
+    print("===================================================")
+    print("Your code (including data/) should be on main branch.")
+    print(f"Check: https://github.com/{GITHUB_USERNAME}/{REPO_NAME}")
+    print("Your built site is on gh-pages branch. Check Pages:")
+    print(f"  https://{GITHUB_USERNAME}.github.io/{REPO_NAME}/")
+    print("Try a param, e.g.:")
+    print(f"  https://{GITHUB_USERNAME}.github.io/{REPO_NAME}/?site_id=1stcallplumbing")
 
 if __name__ == "__main__":
     main()
