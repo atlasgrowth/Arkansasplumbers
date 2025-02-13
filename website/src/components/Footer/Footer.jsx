@@ -2,16 +2,24 @@ import React from 'react';
 import './Footer.css';
 
 const Footer = ({ business }) => {
-  const { name = "", phone = "" } = business?.basic_info || {};
+  const { name = '', phone = '', latitude, longitude } = business?.basic_info || {};
   const currentYear = new Date().getFullYear();
+
+  // If we have lat/long, build a no-API-key embed URL
+  const mapSrc = latitude && longitude
+    ? `https://www.google.com/maps?q=${latitude},${longitude}&z=15&output=embed`
+    : '';
 
   return (
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-section">
-          <h3>{name || "Professional Plumbing Services"}</h3>
+          <h3>{name || 'Professional Plumbing Services'}</h3>
           {phone && (
-            <a href={`tel:${phone.replace(/[^0-9]/g, '')}`} className="footer-phone">
+            <a
+              href={`tel:${phone.replace(/[^0-9]/g, '')}`}
+              className="footer-phone"
+            >
               <i className="fas fa-phone"></i> {phone}
             </a>
           )}
@@ -29,9 +37,26 @@ const Footer = ({ business }) => {
           <p>Emergency Plumbing Services</p>
           <p>Professional & Reliable</p>
         </div>
+        {mapSrc && (
+          <div className="footer-section">
+            <h4>Our Location</h4>
+            <iframe
+              src={mapSrc}
+              width="300"
+              height="200"
+              style={{ border: 0 }}
+              allowFullScreen=""
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              title="Location Map"
+            />
+          </div>
+        )}
       </div>
       <div className="footer-bottom">
-        <p>&copy; {currentYear} {name || "Professional Plumbing"}. All rights reserved.</p>
+        <p>
+          &copy; {currentYear} {name || 'Professional Plumbing'}. All rights reserved.
+        </p>
       </div>
     </footer>
   );

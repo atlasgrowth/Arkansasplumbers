@@ -1,16 +1,16 @@
-
 import React, { useState, useEffect } from 'react';
 import './Reviews.css';
 
 const Reviews = ({ business, loading }) => {
   const [currentReview, setCurrentReview] = useState(0);
   const reviews = business?.five_star_reviews || [];
+  const reviewsLink = business?.basic_info?.reviews_link || '';
 
   useEffect(() => {
+    if (!reviews.length) return;
     const timer = setInterval(() => {
       setCurrentReview((prev) => (prev + 1) % reviews.length);
     }, 5000);
-
     return () => clearInterval(timer);
   }, [reviews.length]);
 
@@ -41,6 +41,18 @@ const Reviews = ({ business, loading }) => {
             />
           ))}
         </div>
+        {reviewsLink && (
+          <div style={{ textAlign: 'center', marginTop: '2rem' }}>
+            <a
+              href={reviewsLink}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="review-button"
+            >
+              Read Our Reviews
+            </a>
+          </div>
+        )}
       </div>
     </section>
   );
