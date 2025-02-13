@@ -3,42 +3,51 @@ import React, { useState, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import Header from './components/Header/Header';
 import Hero from './components/Hero/Hero';
-import About from './components/About/About'; // Added About import
+import About from './components/About/About';
 import Services from './components/Services/Services';
-import Reviews from './components/Reviews/Reviews'; // Added Reviews import
-import Footer from './components/Footer/Footer'; // Added Footer import
+import Reviews from './components/Reviews/Reviews';
+import Footer from './components/Footer/Footer';
 import './styles/App.css';
 
 function App() {
-  // Get the URL parameter (e.g., ?site_id=1stcallplumbing)
   const [searchParams] = useSearchParams();
   const siteId = searchParams.get('site_id');
-
   const [business, setBusiness] = useState(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    if (!siteId) {
-      setLoading(false);
-      return;
-    }
-    // Fetch JSON data directly from GitHub using the raw content URL.
-    // Adjust the branch if necessary.
-    fetch(`https://raw.githubusercontent.com/greekfreek23/Arkansasplumbers/main/data/processed/businesses/${siteId}.json`)
-      .then((res) => {
-        if (!res.ok) {
-          throw new Error('Network response was not ok');
+    // Only run this effect in the browser
+    if (typeof window !== 'undefined') {
+      if (!siteId) {
+        setLoading(false);
+        return;
+      }
+
+      // Add cache-busting query parameter
+      const timestamp = new Date().getTime();
+      const url = `https://raw.githubusercontent.com/greekfreek23/Arkansasplumbers/main/data/processed/businesses/${siteId}.json?t=${timestamp}`;
+
+      fetch(url, {
+        headers: {
+          'Cache-Control': 'no-cache',
+          'Pragma': 'no-cache'
         }
-        return res.json();
       })
-      .then((data) => {
-        setBusiness(data);
-        setLoading(false);
-      })
-      .catch((err) => {
-        console.error('Error fetching business data:', err);
-        setLoading(false);
-      });
+        .then((res) => {
+          if (!res.ok) {
+            throw new Error('Network response was not ok');
+          }
+          return res.json();
+        })
+        .then((data) => {
+          setBusiness(data);
+          setLoading(false);
+        })
+        .catch((err) => {
+          console.error('Error fetching business data:', err);
+          setLoading(false);
+        });
+    }
   }, [siteId]);
 
   return (
