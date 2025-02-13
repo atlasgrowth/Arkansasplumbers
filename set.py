@@ -22,6 +22,12 @@ def run_cmd(cmd):
         raise RuntimeError(f"Command failed (exit code {result.returncode}): {cmd}")
 
 def main():
+    # 1) Remove .git folder inside 'website/' if it exists (so we only track from root)
+    website_git = os.path.join("website", ".git")
+    if os.path.isdir(website_git):
+        print(f"Removing {website_git} to ensure we only have one .git at root.")
+        run_cmd(f"rm -rf {website_git}")
+
     print("===================================================")
     print(" Step 1: Install NPM dependencies in 'website/'")
     print("===================================================")
@@ -54,11 +60,11 @@ def main():
     print("Updated website/package.json with predeploy & deploy scripts")
 
     print("===================================================")
-    print(" Step 4: Initialize Git at the ROOT and force-push everything ")
-    print("         so that 'data/' is included on main branch.")
+    print(" Step 4: Initialize Git at the ROOT, force-add data/, and force-push everything")
+    print("         so 'data/' is definitely included on main branch.")
     print("===================================================")
 
-    # If not already a git repo, init
+    # If not already a git repo at root, init
     if not os.path.isdir(".git"):
         run_cmd("git init")
 
@@ -77,7 +83,11 @@ def main():
 
     # Add everything at ROOT (includes data/, website/, etc.)
     run_cmd("git add .")
-    run_cmd('git commit -m "Deploy setup (root-level)" || true')  
+    # Force-add the data folder in case .gitignore excludes .json
+    run_cmd("git add data/ -f")
+
+    # Commit changes
+    run_cmd('git commit -m "Deploy setup (root-level) with data" || true')
     run_cmd("git branch -M main || true")
 
     # FORCE push to overwrite the remote if needed
@@ -93,7 +103,8 @@ def main():
     print("===================================================")
     print(" ALL DONE!")
     print("===================================================")
-    print(f"Your code (including data/) is now on GitHub main branch.")
+    print(f"Your code (including data/) is now on GitHub main branch:")
+    print(f"  https://github.com/{GITHUB_USERNAME}/{REPO_NAME}/")
     print(f"Your built website is on gh-pages at:")
     print(f"  https://{GITHUB_USERNAME}.github.io/{REPO_NAME}/")
     print("Enable Pages on the gh-pages branch if needed.")
