@@ -4,10 +4,10 @@ import { useSearchParams } from 'react-router-dom';
 import Header from './components/Header/Header';
 import Hero from './components/Hero/Hero';
 import About from './components/About/About'; // Added About import
-import './styles/App.css';
 import Services from './components/Services/Services';
 import Reviews from './components/Reviews/Reviews'; // Added Reviews import
-
+import Footer from './components/Footer/Footer'; // Added Footer import
+import './styles/App.css';
 
 function App() {
   // Get the URL parameter (e.g., ?site_id=1stcallplumbing)
@@ -48,6 +48,7 @@ function App() {
       <About business={business} loading={loading} />
       <Services business={business} loading={loading} />
       <Reviews business={business} loading={loading} />
+      <Footer business={business} loading={loading} />
     </div>
   );
 }
