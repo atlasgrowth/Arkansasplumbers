@@ -41,6 +41,8 @@ const Reviews = ({ business, loading }) => {
             />
           ))}
         </div>
+
+        {/* "Read Our Reviews" Button */}
         {reviewsLink && (
           <div style={{ textAlign: 'center', marginTop: '2rem' }}>
             <a

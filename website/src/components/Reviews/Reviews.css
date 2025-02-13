@@ -1,4 +1,3 @@
-
 .reviews-section {
   position: relative;
   min-height: 400px;
@@ -100,15 +99,34 @@
   background: white;
 }
 
+/* The "Read Our Reviews" button */
+.review-button {
+  display: inline-block;
+  background-color: #facc15; /* nice gold color */
+  color: #333;
+  text-decoration: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  font-weight: 600;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.review-button:hover {
+  background-color: #eab308;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
 @media (max-width: 768px) {
   .reviews-section {
     padding: 3rem 1rem;
   }
-  
+
   .review-card {
     padding: 1.5rem;
   }
-  
+
   .review-text {
     font-size: 1rem;
   }
