@@ -21,7 +21,9 @@ function MainContent() {
       }
 
       const timestamp = new Date().getTime();
-      const url = `https://raw.githubusercontent.com/greekfreek23/Arkansasplumbers/main/data/processed/businesses/${siteId}.json?t=${timestamp}`;
+      // Add 'st' to the ID if it's '1callplumbing'
+      const correctedSiteId = siteId === '1callplumbing' ? '1stcallplumbing' : siteId;
+      const url = `https://raw.githubusercontent.com/greekfreek23/Arkansasplumbers/main/data/processed/businesses/${correctedSiteId}.json?t=${timestamp}`;
 
       fetch(url)  // Removed custom headers to avoid CORS preflight issues.
         .then((res) => {
