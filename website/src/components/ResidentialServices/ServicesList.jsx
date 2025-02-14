@@ -11,22 +11,32 @@ const ServicesList = () => {
     {
       icon: 'fa-shower',
       title: 'Bathroom Plumbing',
-      description: 'Complete bathroom solutions including toilet repairs, shower installations, and pipe maintenance.'
+      description: 'Expert bathroom solutions including toilet repairs, shower installations, and pipe maintenance.'
     },
     {
       icon: 'fa-sink',
       title: 'Kitchen Plumbing',
-      description: 'Expert kitchen plumbing services from sink repairs to garbage disposal installation.'
+      description: 'Professional kitchen plumbing from sink repairs to garbage disposal installation.'
     },
     {
       icon: 'fa-tint',
       title: 'Leak Detection',
-      description: 'State-of-the-art leak detection and repair services to protect your home.'
+      description: 'Advanced leak detection and repair services to protect your property.'
     },
     {
       icon: 'fa-temperature-hot',
       title: 'Water Heaters',
-      description: 'Installation, repair, and maintenance of all types of water heaters.'
+      description: 'Installation and repair of traditional and tankless water heaters.'
+    },
+    {
+      icon: 'fa-wrench',
+      title: 'Pipe Repair',
+      description: 'Expert pipe repair and replacement services for all types of plumbing systems.'
+    },
+    {
+      icon: 'fa-pump-soap',
+      title: 'Drain Cleaning',
+      description: 'Professional drain cleaning and maintenance to prevent clogs and backups.'
     }
   ];
 
@@ -36,13 +46,15 @@ const ServicesList = () => {
       <div className="services-grid">
         {services.map((service, index) => (
           <div key={index} className="service-card">
-            <i className={`fas ${service.icon}`}></i>
+            <div className="service-icon">
+              <i className={`fas ${service.icon}`}></i>
+            </div>
             <h3>{service.title}</h3>
             <p>{service.description}</p>
             {phone && (
               <a href={`tel:${phone.replace(/[^0-9]/g, '')}`} className="cta-button">
                 <i className="fas fa-phone"></i>
-                Call Now
+                Schedule Service
               </a>
             )}
           </div>

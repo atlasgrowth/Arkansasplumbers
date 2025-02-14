@@ -1,80 +1,91 @@
 .residential-services {
   position: relative;
-  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1581094289810-adf5d25690e3?q=80&w=2070&auto=format&fit=crop');
+  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('https://images.unsplash.com/photo-1581094289810-adf5d25690e3?q=80&w=2070&auto=format&fit=crop');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 100px 0;
+  padding: 80px 0;
   color: white;
 }
 
 .services-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 20px;
 }
 
 .service-card {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(10px);
-  border-radius: 15px;
-  padding: 2rem;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  padding: 1.5rem;
+  transition: transform 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  text-align: center;
 }
 
 .service-card:hover {
-  transform: translateY(-10px);
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+}
+
+.service-icon {
+  width: 60px;
+  height: 60px;
+  background: #4CAF50;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1rem;
 }
 
 .fas {
-  font-size: 2.5rem;
-  margin-bottom: 1.5rem;
-  color: #4CAF50;
+  font-size: 1.8rem;
+  color: white;
 }
 
 .service-card h3 {
-  font-size: 1.5rem;
-  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  margin-bottom: 0.8rem;
   color: white;
 }
 
 .service-card p {
   color: rgba(255, 255, 255, 0.8);
-  line-height: 1.6;
-  margin-bottom: 1.5rem;
+  line-height: 1.5;
+  margin-bottom: 1.2rem;
+  font-size: 0.95rem;
 }
 
 .cta-button {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
   background: #4CAF50;
   color: white;
-  padding: 12px 25px;
-  border-radius: 50px;
+  padding: 10px 20px;
+  border-radius: 25px;
   text-decoration: none;
-  font-weight: 600;
-  transition: transform 0.3s ease, background 0.3s ease;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: background 0.3s ease;
 }
 
 .cta-button:hover {
   background: #45a049;
-  transform: scale(1.05);
 }
 
 .section-title {
   text-align: center;
-  font-size: 2.5rem;
-  margin-bottom: 3rem;
+  font-size: 2.2rem;
+  margin-bottom: 2.5rem;
   color: white;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 
 @media (max-width: 768px) {
@@ -87,6 +98,7 @@
     padding: 60px 0;
   }
 }
+
 .back-home {
   position: absolute;
   top: 20px;
