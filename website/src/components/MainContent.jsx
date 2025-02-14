@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import React, { useContext, useState, useEffect } from 'react';
 import { Context } from './Context/Context';
 import { useSearchParams } from 'react-router-dom';
 import Header from './Header/Header';
@@ -8,6 +8,7 @@ import Services from './Services/Services';
 import Reviews from './Reviews/Reviews';
 
 function MainContent() {
+  const { business, loading } = useContext(Context);
   const [searchParams] = useSearchParams();
   const siteId = searchParams.get('site_id');
 
