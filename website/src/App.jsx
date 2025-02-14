@@ -1,6 +1,7 @@
 import Context from './components/Context/Context';
 import React, { useState, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom'; // Updated import
 import Header from './components/Header/Header';
 import Hero from './components/Hero/Hero';
 import About from './components/About/About';
@@ -51,14 +52,16 @@ function App() {
   }, [siteId]);
 
   return (
-    <div className="app">
-      <Header business={business} loading={loading} />
-      <Hero business={business} loading={loading} />
-      <About business={business} loading={loading} />
-      <Services business={business} loading={loading} />
-      <Reviews business={business} loading={loading} />
-      <Footer business={business} loading={loading} />
-    </div>
+    <BrowserRouter basename="/Arkansasplumbers"> {/* Updated BrowserRouter */}
+      <div className="app">
+        <Header business={business} loading={loading} />
+        <Hero business={business} loading={loading} />
+        <About business={business} loading={loading} />
+        <Services business={business} loading={loading} />
+        <Reviews business={business} loading={loading} />
+        <Footer business={business} loading={loading} />
+      </div>
+    </BrowserRouter> {/* Updated closing tag */}
   );
 }
 
