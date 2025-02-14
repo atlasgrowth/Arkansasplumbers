@@ -11,8 +11,14 @@ import './styles/App.css';
 function AppContent() {
   const { business, loading } = useContext(Context);
   const location = useLocation();
+  const [searchParams] = useSearchParams();
 
+  // Preserve site_id when navigating
   useEffect(() => {
+    const siteId = searchParams.get('site_id');
+    if (!location.search && siteId) {
+      window.history.replaceState({}, '', `${location.pathname}?site_id=${siteId}`);
+    }
     // 1) Remove the hash from the URL if present
     if (location.hash) {
       // This erases the hash without reloading the page

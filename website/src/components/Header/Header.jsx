@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useLocation, useNavigate, Link } from 'react-router-dom';
+import { useLocation, useNavigate, Link, useSearchParams } from 'react-router-dom';
 import './Header.css';
 
 const Header = ({ business, loading }) => {
@@ -26,9 +26,11 @@ const Header = ({ business, loading }) => {
    * If we’re not on the home page ("/"), navigate to "/"
    * then scroll to the element after a short delay.
    */
+  const [searchParams] = useSearchParams();
   const handleNavClick = (sectionId) => {
+    const siteId = searchParams.get('site_id');
     if (location.pathname !== '/') {
-      navigate('/');
+      navigate(`/?site_id=${siteId}`);
       // small timeout so the DOM on "/" has time to render
       setTimeout(() => {
         const element = document.getElementById(sectionId);
@@ -79,8 +81,8 @@ const Header = ({ business, loading }) => {
           >
             Services
             <div className="services-dropdown">
-              <Link to="/residential" className="dropdown-link">Residential Services</Link>
-              <Link to="/commercial" className="dropdown-link">Commercial Services</Link>
+              <Link to={`/residential${location.search}`} className="dropdown-link">Residential Services</Link>
+              <Link to={`/commercial${location.search}`} className="dropdown-link">Commercial Services</Link>
             </div>
           </span>
 
