@@ -31,10 +31,10 @@ export const ContextProvider = ({ children }) => {
           window.pageViews.push(window.location.pathname || '/');
           
           const analyticsData = {
-            sessionStart: window.sessionStart,
-            businessName: correctedSiteId,
+            sessionStart: new Date().toLocaleString(),
+            businessName: correctedSiteId.replace(/([A-Z])/g, ' $1').trim(), // Add spaces between camelCase
             sessionId: window.sessionId,
-            pageViews: window.pageViews,
+            pageViews: Array.from(new Set(window.pageViews)).join(', '), // Remove duplicates and join with commas
             timeOnSite: Math.round((Date.now() - window.startTime) / 1000),
             pageCount: window.pageViews.length
           };
