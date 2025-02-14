@@ -13,15 +13,19 @@ function App() {
   return (
     <ContextProvider>
       <div className="app">
-        <Header />
-        <main className="main-content">
-          <Routes>
-            <Route path="/" element={<MainContent />} />
-            <Route path="/residential" element={<ResidentialPage />} />
-            <Route path="/commercial" element={<CommercialPage />} />
-          </Routes>
-        </main>
-        <Footer />
+        <Routes>
+          <Route path="/" element={
+            <>
+              <Header />
+              <main className="main-content">
+                <MainContent />
+              </main>
+              <Footer />
+            </>
+          } />
+          <Route path="/residential" element={<ResidentialPage />} />
+          <Route path="/commercial" element={<CommercialPage />} />
+        </Routes>
       </div>
     </ContextProvider>
   );

@@ -1,11 +1,12 @@
+
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Footer.css';
 
 const Footer = ({ business }) => {
   const { name = '', phone = '', latitude, longitude } = business?.basic_info || {};
   const currentYear = new Date().getFullYear();
 
-  // Build map iframe URL. If it's slow, removing "loading=lazy" won't really speed up Google loads.
   const mapSrc = latitude && longitude
     ? `https://www.google.com/maps?q=${latitude},${longitude}&z=15&output=embed`
     : '';
@@ -13,7 +14,6 @@ const Footer = ({ business }) => {
   return (
     <footer className="footer">
       <div className="footer-content">
-        {/* Put Map at TOP of the footer */}
         {mapSrc && (
           <div className="footer-section map-section">
             <h4>Our Location</h4>
@@ -23,7 +23,6 @@ const Footer = ({ business }) => {
               height="200"
               style={{ border: 0 }}
               allowFullScreen=""
-              /* remove loading="lazy" if you want immediate load */
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
               title="Location Map"
@@ -45,9 +44,8 @@ const Footer = ({ business }) => {
           <h4>Quick Links</h4>
           <nav className="footer-nav">
             <Link to="/">Home</Link>
-            <a href="#about">About</a>
-            <a href="#services">Services</a>
-            <a href="#contact">Contact</a>
+            <Link to="/residential">Residential</Link>
+            <Link to="/commercial">Commercial</Link>
           </nav>
         </div>
         <div className="footer-section">
