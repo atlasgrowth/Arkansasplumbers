@@ -7,58 +7,84 @@ const ServicesList = () => {
   const { business } = useContext(Context);
   const phone = business?.basic_info?.phone || '';
   
-  const services = [
+  const installations = [
     {
       icon: 'fa-shower',
-      title: 'Bathroom Plumbing',
-      description: 'Expert bathroom solutions including toilet repairs, shower installations, and pipe maintenance.'
+      title: 'Bathroom Installation',
+      description: 'Complete bathroom installations including fixtures, toilets, and showers.'
     },
     {
       icon: 'fa-sink',
-      title: 'Kitchen Plumbing',
-      description: 'Professional kitchen plumbing from sink repairs to garbage disposal installation.'
-    },
-    {
-      icon: 'fa-tint',
-      title: 'Leak Detection',
-      description: 'Advanced leak detection and repair services to protect your property.'
+      title: 'Kitchen Installation',
+      description: 'Full kitchen plumbing installations from sinks to dishwashers.'
     },
     {
       icon: 'fa-temperature-hot',
-      title: 'Water Heaters',
-      description: 'Installation and repair of traditional and tankless water heaters.'
-    },
+      title: 'Water Heater Installation',
+      description: 'Expert installation of traditional and tankless water heaters.'
+    }
+  ];
+
+  const repairs = [
     {
       icon: 'fa-wrench',
       title: 'Pipe Repair',
-      description: 'Expert pipe repair and replacement services for all types of plumbing systems.'
+      description: 'Professional repair services for all types of pipe systems.'
+    },
+    {
+      icon: 'fa-tint',
+      title: 'Leak Repair',
+      description: 'Fast and reliable leak detection and repair services.'
     },
     {
       icon: 'fa-pump-soap',
-      title: 'Drain Cleaning',
-      description: 'Professional drain cleaning and maintenance to prevent clogs and backups.'
+      title: 'Drain Repair',
+      description: 'Expert drain repair and cleaning services.'
     }
   ];
 
   return (
     <section className="residential-services">
-      <h2 className="section-title">Our Professional Services</h2>
-      <div className="services-grid">
-        {services.map((service, index) => (
-          <div key={index} className="service-card">
-            <div className="service-icon">
-              <i className={`fas ${service.icon}`}></i>
+      <div className="services-category">
+        <h2 className="category-title">Professional Installations</h2>
+        <div className="services-grid">
+          {installations.map((service, index) => (
+            <div key={index} className="service-card">
+              <div className="service-icon">
+                <i className={`fas ${service.icon}`}></i>
+              </div>
+              <h3>{service.title}</h3>
+              <p>{service.description}</p>
+              {phone && (
+                <a href={`tel:${phone.replace(/[^0-9]/g, '')}`} className="cta-button">
+                  <i className="fas fa-phone"></i>
+                  Schedule Installation
+                </a>
+              )}
             </div>
-            <h3>{service.title}</h3>
-            <p>{service.description}</p>
-            {phone && (
-              <a href={`tel:${phone.replace(/[^0-9]/g, '')}`} className="cta-button">
-                <i className="fas fa-phone"></i>
-                Schedule Service
-              </a>
-            )}
-          </div>
-        ))}
+          ))}
+        </div>
+      </div>
+
+      <div className="services-category">
+        <h2 className="category-title">Expert Repairs</h2>
+        <div className="services-grid">
+          {repairs.map((service, index) => (
+            <div key={index} className="service-card">
+              <div className="service-icon">
+                <i className={`fas ${service.icon}`}></i>
+              </div>
+              <h3>{service.title}</h3>
+              <p>{service.description}</p>
+              {phone && (
+                <a href={`tel:${phone.replace(/[^0-9]/g, '')}`} className="cta-button">
+                  <i className="fas fa-phone"></i>
+                  Request Service
+                </a>
+              )}
+            </div>
+          ))}
+        </div>
       </div>
     </section>
   );
