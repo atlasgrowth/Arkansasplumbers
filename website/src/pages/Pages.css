@@ -1,0 +1,82 @@
+
+.service-page {
+  padding: 4rem 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.service-page h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 3rem;
+}
+
+.service-content {
+  margin-bottom: 3rem;
+}
+
+.services-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.service-item {
+  background: white;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.service-item i {
+  font-size: 2.5rem;
+  color: #007bff;
+  margin-bottom: 1rem;
+}
+
+.service-item h3 {
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.service-item p {
+  color: #666;
+}
+
+.emergency-services {
+  background: #f8d7da;
+  padding: 2rem;
+  border-radius: 10px;
+  margin-top: 3rem;
+}
+
+.emergency-services h2 {
+  color: #721c24;
+  margin-bottom: 1rem;
+}
+
+.emergency-services ul {
+  list-style: none;
+  padding: 0;
+}
+
+.emergency-services li {
+  padding: 0.5rem 0;
+  color: #721c24;
+}
+
+.back-btn {
+  display: inline-block;
+  padding: 0.8rem 1.5rem;
+  background: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.back-btn:hover {
+  background: #0056b3;
+}
