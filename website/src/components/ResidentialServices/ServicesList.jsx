@@ -23,6 +23,26 @@ const ServicesList = () => {
       icon: 'fa-temperature-hot',
       title: 'Water Heaters',
       description: 'Installation, repair, and maintenance of all types of water heaters.'
+    },
+    {
+      icon: 'fa-wrench',
+      title: 'Pipe Repair',
+      description: 'Expert pipe repair and replacement services for all types of plumbing systems.'
+    },
+    {
+      icon: 'fa-pump-soap',
+      title: 'Drain Cleaning',
+      description: 'Professional drain cleaning and maintenance to prevent clogs and backups.'
+    },
+    {
+      icon: 'fa-house-flood-water',
+      title: 'Sewer Services',
+      description: 'Complete sewer line repair, replacement, and maintenance services.'
+    },
+    {
+      icon: 'fa-faucet',
+      title: 'Fixture Installation',
+      description: 'Professional installation of all types of plumbing fixtures and accessories.'
     }
   ];
 

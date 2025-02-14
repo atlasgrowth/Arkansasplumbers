@@ -44,6 +44,7 @@ const Footer = ({ business }) => {
         <div className="footer-section">
           <h4>Quick Links</h4>
           <nav className="footer-nav">
+            <Link to="/">Home</Link>
             <a href="#about">About</a>
             <a href="#services">Services</a>
             <a href="#contact">Contact</a>
