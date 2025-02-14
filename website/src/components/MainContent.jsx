@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import Header from './Header/Header';
@@ -5,7 +6,6 @@ import Hero from './Hero/Hero';
 import About from './About/About';
 import Services from './Services/Services';
 import Reviews from './Reviews/Reviews';
-import Footer from './Footer/Footer';
 
 function MainContent() {
   const [searchParams] = useSearchParams();
@@ -21,11 +21,10 @@ function MainContent() {
       }
 
       const timestamp = new Date().getTime();
-      // Add 'st' to the ID if it's '1callplumbing'
       const correctedSiteId = siteId === '1callplumbing' ? '1stcallplumbing' : siteId;
       const url = `https://raw.githubusercontent.com/greekfreek23/Arkansasplumbers/main/data/processed/businesses/${correctedSiteId}.json?t=${timestamp}`;
 
-      fetch(url)  // Removed custom headers to avoid CORS preflight issues.
+      fetch(url)
         .then((res) => {
           if (!res.ok) {
             throw new Error('Network response was not ok');
@@ -50,7 +49,6 @@ function MainContent() {
       <About business={business} loading={loading} />
       <Services business={business} loading={loading} />
       <Reviews business={business} loading={loading} />
-      <Footer business={business} loading={loading} />
     </div>
   );
 }

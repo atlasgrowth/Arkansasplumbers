@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, useLocation } from 'react-router-dom';
 import MainContent from './components/MainContent';
 import ResidentialPage from './pages/ResidentialPage';
 import CommercialPage from './pages/CommercialPage';
@@ -10,22 +10,19 @@ import { ContextProvider } from './components/Context/Context';
 import './styles/App.css';
 
 function App() {
+  const location = useLocation();
+  const showMainHeader = location.pathname === '/';
+  
   return (
     <ContextProvider>
       <div className="app">
+        {!showMainHeader && <Header />}
         <Routes>
-          <Route path="/" element={
-            <>
-              <Header />
-              <main className="main-content">
-                <MainContent />
-              </main>
-              <Footer />
-            </>
-          } />
+          <Route path="/" element={<MainContent />} />
           <Route path="/residential" element={<ResidentialPage />} />
           <Route path="/commercial" element={<CommercialPage />} />
         </Routes>
+        <Footer />
       </div>
     </ContextProvider>
   );
