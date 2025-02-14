@@ -10,6 +10,10 @@ import Reviews from './Reviews/Reviews';
 function MainContent() {
   const [searchParams] = useSearchParams();
   const siteId = searchParams.get('site_id');
+  
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   const [business, setBusiness] = useState(null);
   const [loading, setLoading] = useState(true);
 
