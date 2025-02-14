@@ -1,12 +1,9 @@
 .residential-services {
   position: relative;
-  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('https://images.unsplash.com/photo-1581094289810-adf5d25690e3?q=80&w=2070&auto=format&fit=crop');
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: #0f172a;
   padding: 80px 0;
   color: white;
+  overflow: hidden;
 }
 
 .services-category {
@@ -191,13 +188,126 @@
   background: #ff3333;
 }
 
-.emergency-section {
-  background: linear-gradient(135deg, #ff4e50, #f9d423);
+.emergency-services-section {
+  background: linear-gradient(45deg, #2c3e50, #3498db);
+  padding: 6rem 2rem;
   color: white;
-  padding: 3rem 2rem;
-  margin-top: 4rem;
-  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+}
+
+.emergency-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+}
+
+.emergency-header {
   text-align: center;
+  margin-bottom: 4rem;
+}
+
+.emergency-subtitle {
+  font-size: 1.2rem;
+  color: #94a3b8;
+  margin-top: 1rem;
+}
+
+.emergency-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-bottom: 4rem;
+}
+
+.emergency-card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 2rem;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.emergency-card:hover {
+  transform: translateY(-5px);
+}
+
+.emergency-icon {
+  width: 80px;
+  height: 80px;
+  background: #60a5fa;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1.5rem;
+}
+
+.emergency-icon i {
+  font-size: 2rem;
+  color: white;
+}
+
+.emergency-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.emergency-card p {
+  color: #94a3b8;
+  line-height: 1.6;
+}
+
+.emergency-cta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 3rem;
+}
+
+.emergency-badge {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 0.75rem 1.5rem;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+}
+
+.emergency-button {
+  background: #60a5fa;
+  color: white;
+  padding: 1rem 2rem;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  transition: all 0.3s ease;
+  font-size: 1.1rem;
+}
+
+.emergency-button:hover {
+  background: #3b82f6;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 768px) {
+  .emergency-services-section {
+    padding: 4rem 1rem;
+  }
+  
+  .emergency-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 .emergency-section h2 {
