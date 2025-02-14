@@ -1,5 +1,5 @@
 import React, { useEffect, useContext } from 'react';
-import { Routes, Route, useLocation } from 'react-router-dom';
+import { Routes, Route, useLocation, useSearchParams } from 'react-router-dom';
 import MainContent from './components/MainContent';
 import ResidentialPage from './pages/ResidentialPage';
 import CommercialPage from './pages/CommercialPage';

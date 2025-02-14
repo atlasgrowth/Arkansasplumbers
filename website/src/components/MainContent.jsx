@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React, { useContext } from 'react';
+import { Context } from './Context/Context';
 import { useSearchParams } from 'react-router-dom';
 import Header from './Header/Header';
 import Hero from './Hero/Hero';
@@ -67,7 +68,7 @@ function MainContent() {
         <Reviews business={business} loading={loading} />
       </section>
 
-    
+
     </div>
   );
 }
