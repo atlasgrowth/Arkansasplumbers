@@ -6,6 +6,52 @@
   min-height: 80vh;
 }
 
+.service-box {
+  position: relative;
+  min-height: 400px;
+  border-radius: 15px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 2rem;
+  color: white;
+  text-align: left;
+  background-size: cover;
+  background-position: center;
+  transition: transform 0.3s ease;
+}
+
+.service-box::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to top, rgba(0,0,0,0.9), rgba(0,0,0,0.4));
+  z-index: 1;
+}
+
+.service-box > * {
+  position: relative;
+  z-index: 2;
+}
+
+.service-box h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+.service-box p {
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+
+.service-box:hover {
+  transform: translateY(-10px);
+}
+
 .services-overlay {
   position: absolute;
   inset: 0;

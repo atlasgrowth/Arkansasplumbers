@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './Services.css';
@@ -9,37 +10,30 @@ const Services = ({ business }) => {
 
   return (
     <section className="services-section" id="services">
-      <div className="services-overlay"></div>
       <h2 className="service-heading">Our Professional Services</h2>
 
       <div className="services-grid">
-        {/* Residential Plumbing */}
-        <div className="service-box">
-          <div className="icon-container">
-            <i className="fas fa-home"></i>
-          </div>
+        <div className="service-box" style={{
+          backgroundImage: `url('https://st2.depositphotos.com/1006441/9452/i/380/depositphotos_94520022-stock-photo-plumber-on-the-kitchen.jpg')`
+        }}>
           <h3>Residential Plumbing</h3>
-          <p>Complete home plumbing solutions for your family's comfort and safety.</p>
+          <p>Expert home plumbing solutions for your family's comfort and safety. From repairs to installations, we've got you covered.</p>
           <Link to="/residential" className="read-more-btn">Read More</Link>
         </div>
 
-        {/* Commercial Plumbing */}
-        <div className="service-box">
-          <div className="icon-container">
-            <i className="fas fa-building"></i>
-          </div>
+        <div className="service-box" style={{
+          backgroundImage: `url('https://griswoldplumbingct.com/wp-content/uploads/2018/04/5-tips-on-hiring-the-right-plumber.jpeg')`
+        }}>
           <h3>Commercial Plumbing</h3>
-          <p>Professional plumbing services for businesses and commercial properties.</p>
+          <p>Comprehensive plumbing solutions for businesses of all sizes. Minimize downtime with our professional services.</p>
           <Link to="/commercial" className="read-more-btn">Read More</Link>
         </div>
 
-        {/* Emergency Services */}
-        <div className="service-box">
-          <div className="icon-container">
-            <i className="fas fa-exclamation-triangle"></i>
-          </div>
+        <div className="service-box" style={{
+          backgroundImage: `url('https://www.benjaminfranklinplumbing.com/images/blog/24-7-Emergency-Plumbing-Services.jpg')`
+        }}>
           <h3>Emergency Services</h3>
-          <p>24/7 emergency plumbing response when you need it most.</p>
+          <p>24/7 emergency plumbing response when you need it most. Fast, reliable service for urgent plumbing issues.</p>
           <Link to="/residential#emergency" className="read-more-btn">Learn More</Link>
           <a href={callHref} className="emergency-btn">
             <i className="fas fa-phone"></i> Emergency Call
