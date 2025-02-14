@@ -29,14 +29,14 @@
   transform: translateX(-50%);
   width: 60px;
   height: 3px;
-  background: #4CAF50;
+  background: #60a5fa; /* Changed from green */
 }
 
 .services-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 1.5rem;
-  max-width: 1200px;
+  max-width: 900px; /* Adjusted max-width */
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -58,7 +58,7 @@
 .service-icon {
   width: 60px;
   height: 60px;
-  background: #4CAF50;
+  background: #60a5fa; /* Changed to match emergency section primary color */
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -88,7 +88,7 @@
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  background: #4CAF50;
+  background: #60a5fa; /* Changed from green */
   color: white;
   padding: 10px 20px;
   border-radius: 25px;
@@ -174,7 +174,7 @@
 }
 
 .res-cta-button {
-  background: #ff4d4d;
+  background: #60a5fa; /* Changed red to match other colors */
   color: white;
   padding: 1rem 2rem;
   border-radius: 50px;
@@ -185,11 +185,11 @@
 }
 
 .res-cta-button:hover {
-  background: #ff3333;
+  background: #3b82f6; /* Darker shade of blue */
 }
 
 .emergency-services-section {
-  background: linear-gradient(45deg, #2c3e50, #3498db);
+  background: linear-gradient(45deg, #1e3a8a, #3b82f6); /* Updated background */
   padding: 6rem 2rem;
   color: white;
   position: relative;
@@ -210,7 +210,7 @@
 
 .emergency-subtitle {
   font-size: 1.2rem;
-  color: #94a3b8;
+  color: white; /* Changed to white */
   margin-top: 1rem;
 }
 
@@ -258,7 +258,7 @@
 }
 
 .emergency-card p {
-  color: #94a3b8;
+  color: white; /* Changed to white */
   line-height: 1.6;
 }
 
@@ -304,7 +304,7 @@
   .emergency-services-section {
     padding: 4rem 1rem;
   }
-  
+
   .emergency-grid {
     grid-template-columns: 1fr;
   }
