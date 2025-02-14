@@ -1,5 +1,5 @@
 
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import MainContent from './components/MainContent';
 import ResidentialPage from './pages/ResidentialPage';
