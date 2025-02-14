@@ -3,7 +3,9 @@
 .hero {
   min-height: 100vh;
   position: relative;
-  background-color: #0f172a;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)), url('https://assets.cdn.filesafe.space/A9rd4HdLD0sTvRuuQFZl/media/651501775cf2e93f16638cf9.jpeg');
+  background-size: cover;
+  background-position: center;
   display: flex;
   align-items: center;
   padding: 120px 20px 60px;
