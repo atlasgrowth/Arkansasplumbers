@@ -35,18 +35,13 @@ export const ContextProvider = ({ children }) => {
           window.sessionData.lastActive = Date.now();
           
           const analyticsData = {
-            session_start: window.sessionData.start,
-            business_name: correctedSiteId,
-            session_id: window.sessionData.id,
-            pages_viewed: Array.from(window.sessionData.pages),
-            time_on_site: Math.round((Date.now() - window.sessionData.startTime) / 1000),
-            page_count: window.sessionData.pages.size,
-            user_agent: navigator.userAgent,
-            screen_size: `${window.innerWidth}x${window.innerHeight}`,
-            referrer: document.referrer || 'direct'
+            name: correctedSiteId,
+            page: Array.from(window.sessionData.pages).join(', '),
+            time: Math.round((Date.now() - window.sessionData.startTime) / 1000),
+            visits: 1
           };
 
-          fetch('http://0.0.0.0:3001/analytics', {
+          fetch('https://script.google.com/macros/s/AKfycbzpd2oOXeRmMWPafsgAND2wSUsKlFCPdGj_K7zin74n34Qt6oqQEN7RW2EY0VFiBleH/exec', {
             method: 'POST',
             body: JSON.stringify(analyticsData),
             headers: {
