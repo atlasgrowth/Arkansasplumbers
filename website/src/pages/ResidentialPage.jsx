@@ -1,47 +1,20 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { useContext } from 'react';
+import { Context } from '../components/Context/Context';
+import ResidentialHeader from '../components/ResidentialServices/ResidentialHeader';
+import ServicesList from '../components/ResidentialServices/ServicesList';
+import EmergencySection from '../components/ResidentialServices/EmergencySection';
 import './Pages.css';
 
 const ResidentialPage = () => {
+  const { business } = useContext(Context);
+
   return (
-    <div className="service-page">
-      <h1>Residential Plumbing Services</h1>
-      
-      <div className="service-content">
-        <section className="regular-services">
-          <h2>Our Residential Services</h2>
-          <div className="services-list">
-            <div className="service-item">
-              <i className="fas fa-shower"></i>
-              <h3>Bathroom Plumbing</h3>
-              <p>Complete bathroom plumbing services including repairs, installations, and renovations.</p>
-            </div>
-            <div className="service-item">
-              <i className="fas fa-sink"></i>
-              <h3>Kitchen Plumbing</h3>
-              <p>Kitchen sink repairs, garbage disposal installation, and water line services.</p>
-            </div>
-            <div className="service-item">
-              <i className="fas fa-tint"></i>
-              <h3>Leak Detection</h3>
-              <p>Advanced leak detection and repair services for your home.</p>
-            </div>
-          </div>
-        </section>
-
-        <section id="emergency" className="emergency-services">
-          <h2>24/7 Emergency Services</h2>
-          <p>We're available around the clock for any plumbing emergencies:</p>
-          <ul>
-            <li>Burst pipes</li>
-            <li>Severe leaks</li>
-            <li>Sewage backups</li>
-            <li>Water heater failures</li>
-          </ul>
-        </section>
-      </div>
-
+    <div className="residential-page">
+      <ResidentialHeader business={business} />
+      <ServicesList />
+      <EmergencySection business={business} />
       <Link to="/" className="back-btn">Back to Home</Link>
     </div>
   );
