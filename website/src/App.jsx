@@ -11,12 +11,14 @@ import './styles/App.css';
 
 function App() {
   const location = useLocation();
-  const showMainHeader = location.pathname === '/';
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location]);
   
   return (
     <ContextProvider>
       <div className="app">
-        {!showMainHeader && <Header />}
+        <Header />
         <Routes>
           <Route path="/" element={<MainContent />} />
           <Route path="/residential" element={<ResidentialPage />} />
