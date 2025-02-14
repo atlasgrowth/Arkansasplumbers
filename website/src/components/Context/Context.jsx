@@ -21,9 +21,10 @@ export const ContextProvider = ({ children }) => {
         try {
           const analyticsData = {
             name: correctedSiteId,
-            visits: 1,
+            pathname: window.location.pathname || '/',
+            referrer: document.referrer || 'direct',
             time: new Date().toISOString(),
-            pageviews: 1
+            userAgent: navigator.userAgent
           };
 
           fetch('https://script.google.com/macros/s/AKfycbzl7BE82-9JiYSC18DZwL6VXPkScZCA_aGEMW5lZWBTR947Ez0Kg_madw0b4QIcrre2/exec', {
