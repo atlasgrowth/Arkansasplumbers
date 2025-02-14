@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import Header from './Header/Header';
@@ -24,12 +23,7 @@ function MainContent() {
       const timestamp = new Date().getTime();
       const url = `https://raw.githubusercontent.com/greekfreek23/Arkansasplumbers/main/data/processed/businesses/${siteId}.json?t=${timestamp}`;
 
-      fetch(url, {
-        headers: {
-          'Cache-Control': 'no-cache',
-          'Pragma': 'no-cache'
-        }
-      })
+      fetch(url)  // Removed custom headers to avoid CORS preflight issues.
         .then((res) => {
           if (!res.ok) {
             throw new Error('Network response was not ok');
