@@ -1,4 +1,3 @@
-
 import React, { useEffect } from 'react';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import MainContent from './components/MainContent';
@@ -11,14 +10,21 @@ import './styles/App.css';
 
 function App() {
   const location = useLocation();
-  
+
   useEffect(() => {
-    // Only scroll to top if there's no hash in the URL
-    if (!location.hash) {
-      window.scrollTo(0, 0);
+    // 1) Remove the hash from the URL if present
+    if (location.hash) {
+      // This erases the hash without reloading the page
+      window.history.replaceState(
+        '',
+        document.title,
+        location.pathname + location.search
+      );
     }
+    // 2) Always scroll to top on route change
+    window.scrollTo(0, 0);
   }, [location]);
-  
+
   return (
     <ContextProvider>
       <div className="app">
