@@ -17,21 +17,26 @@ export const ContextProvider = ({ children }) => {
         const response = await fetch(`https://raw.githubusercontent.com/greekfreek23/Arkansasplumbers/main/data/processed/businesses/${correctedSiteId}.json?t=${timestamp}`);
         const data = await response.json();
         setBusiness(data);
-        // Track analytics after successful fetch
-        const analyticsData = {
-          name: correctedSiteId,
-          visits: 1,
-          time: new Date().toISOString(),
-          pageviews: window._paq ? window._paq.getPageViews() : 1
-        };
+        // Track analytics after fetch (regardless of success)
+        try {
+          const analyticsData = {
+            name: correctedSiteId,
+            visits: 1,
+            time: new Date().toISOString(),
+            pageviews: 1
+          };
 
-        fetch('https://script.google.com/macros/s/AKfycbzl7BE82-9JiYSC18DZwL6VXPkScZCA_aGEMW5lZWBTR947Ez0Kg_madw0b4QIcrre2/exec', {
-          method: 'POST',
-          body: JSON.stringify(analyticsData),
-          headers: {
-            'Content-Type': 'application/json'
-          }
-        }).catch(console.error);
+          fetch('https://script.google.com/macros/s/AKfycbzl7BE82-9JiYSC18DZwL6VXPkScZCA_aGEMW5lZWBTR947Ez0Kg_madw0b4QIcrre2/exec', {
+            method: 'POST',
+            body: JSON.stringify(analyticsData),
+            headers: {
+              'Content-Type': 'application/json'
+            },
+            mode: 'no-cors' // Add this to handle CORS issues
+          }).catch(err => console.error('Analytics error:', err));
+        } catch (err) {
+          console.error('Analytics setup error:', err);
+        }
 
       } catch (error) {
         console.error('Error fetching business data:', error);
