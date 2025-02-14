@@ -6,6 +6,7 @@ import ResidentialPage from './pages/ResidentialPage';
 import CommercialPage from './pages/CommercialPage';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
+import { ContextProvider } from './components/Context/Context';
 import './styles/App.css';
 
 function App() {
