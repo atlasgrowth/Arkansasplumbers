@@ -19,18 +19,12 @@ function AppContent() {
     if (!location.search && siteId) {
       window.history.replaceState({}, '', `${location.pathname}?site_id=${siteId}`);
     }
-    // 1) Remove the hash from the URL if present
-    if (location.hash) {
-      // This erases the hash without reloading the page
-      window.history.replaceState(
-        '',
-        document.title,
-        location.pathname + location.search
-      );
+    
+    // Only scroll to top if pathname changes (actual route change)
+    if (location.hash === '') {
+      window.scrollTo(0, 0);
     }
-    // 2) Always scroll to top on route change
-    window.scrollTo(0, 0);
-  }, [location]);
+  }, [location.pathname]);
 
   return (
     <div className="app">
