@@ -46,7 +46,7 @@ export const ContextProvider = ({ children }) => {
             referrer: document.referrer || 'direct'
           };
 
-          fetch('https://script.google.com/macros/s/AKfycbzl7BE82-9JiYSC18DZwL6VXPkScZCA_aGEMW5lZWBTR947Ez0Kg_madw0b4QIcrre2/exec', {
+          fetch('http://0.0.0.0:3001/analytics', {
             method: 'POST',
             body: JSON.stringify(analyticsData),
             headers: {
