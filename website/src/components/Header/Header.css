@@ -123,60 +123,8 @@
 
 /* CSS Variables */
 :root {
-  --primary-color: #2c5282;
-  --primary-dark: #2a4365;
+  --primary-color: #63b3ed;
+  --primary-dark: #3182ce;
   --text-light: #ffffff;
   --text-dark: #1a202c;
-}
-
-.mobile-menu-button {
-  display: none;
-  font-size: 1.5rem;
-  background: none;
-  border: none;
-  color: inherit;
-  cursor: pointer;
-  padding: 0.5rem;
-}
-
-@media (max-width: 768px) {
-  .mobile-menu-button {
-    display: block;
-  }
-  
-  .nav-menu {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
-    background: var(--primary-dark);
-    padding: 1rem;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .nav-menu.active {
-    display: flex;
-  }
-}
-
-.services-dropdown {
-  position: relative;
-}
-
-.services-dropdown-content {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  transform: translateX(-50%);
-  background: var(--primary-dark);
-  padding: 0.5rem;
-  border-radius: 4px;
-  min-width: 200px;
-}
-
-.services-dropdown:hover .services-dropdown-content {
-  display: block;
 }
