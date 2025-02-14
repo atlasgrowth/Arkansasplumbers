@@ -19,12 +19,24 @@ export const ContextProvider = ({ children }) => {
         setBusiness(data);
         // Track analytics after fetch (regardless of success)
         try {
+          // Create session ID if not exists
+          if (!window.sessionId) {
+            window.sessionId = Math.random().toString(36).substring(2, 8);
+            window.sessionStart = new Date().toISOString();
+            window.pageViews = [];
+            window.startTime = Date.now();
+          }
+          
+          // Add current page to pageViews
+          window.pageViews.push(window.location.pathname || '/');
+          
           const analyticsData = {
-            name: correctedSiteId,
-            pathname: window.location.pathname || '/',
-            referrer: document.referrer || 'direct',
-            time: new Date().toISOString(),
-            userAgent: navigator.userAgent
+            sessionStart: new Date().toLocaleString(),
+            businessName: correctedSiteId.replace(/([A-Z])/g, ' $1').trim(), // Add spaces between camelCase
+            sessionId: window.sessionId,
+            pageViews: Array.from(new Set(window.pageViews)).join(', '), // Remove duplicates and join with commas
+            timeOnSite: Math.round((Date.now() - window.startTime) / 1000),
+            pageCount: window.pageViews.length
           };
 
           fetch('https://script.google.com/macros/s/AKfycbzl7BE82-9JiYSC18DZwL6VXPkScZCA_aGEMW5lZWBTR947Ez0Kg_madw0b4QIcrre2/exec', {
