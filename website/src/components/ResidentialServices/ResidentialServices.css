@@ -1,21 +1,92 @@
-.residential-header {
-  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://st2.depositphotos.com/1006441/9452/i/380/depositphotos_94520022-stock-photo-plumber-on-the-kitchen.jpg');
-  background-size: cover;
+.residential-services {
+  position: relative;
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1581094289810-adf5d25690e3?q=80&w=2070&auto=format&fit=crop');
+  background-attachment: fixed;
   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 0;
   color: white;
-  padding: 6rem 2rem;
-  text-align: center;
-  min-height: 60vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
-.header-content {
-  max-width: 800px;
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  max-width: 1200px;
   margin: 0 auto;
+  padding: 0 20px;
 }
 
+.service-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+  padding: 2rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.service-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+.fas {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  color: #4CAF50;
+}
+
+.service-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.service-card p {
+  color: rgba(255, 255, 255, 0.8);
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.cta-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: #4CAF50;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.cta-button:hover {
+  background: #45a049;
+  transform: scale(1.05);
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+@media (max-width: 768px) {
+  .services-grid {
+    grid-template-columns: 1fr;
+    padding: 0 15px;
+  }
+
+  .residential-services {
+    padding: 60px 0;
+  }
+}
 .back-home {
   position: absolute;
   top: 20px;
@@ -36,6 +107,24 @@
   background: white;
   transform: translateY(-2px);
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.residential-header {
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://st2.depositphotos.com/1006441/9452/i/380/depositphotos_94520022-stock-photo-plumber-on-the-kitchen.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 6rem 2rem;
+  text-align: center;
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-content {
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .header-content h1 {
@@ -62,52 +151,6 @@
 
 .res-cta-button:hover {
   background: #ff3333;
-}
-
-.residential-services {
-  padding: 4rem 2rem;
-  background-color: #f8f9fa;
-}
-
-.services-container {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-.services-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
-}
-
-.service-item {
-  background: white;
-  border-radius: 10px;
-  padding: 2rem;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease;
-}
-
-.service-item:hover {
-  transform: translateY(-5px);
-}
-
-.service-item h3 {
-  color: #2c3e50;
-  margin-bottom: 1rem;
-  font-size: 1.5rem;
-}
-
-.service-item p {
-  color: #666;
-  line-height: 1.6;
-}
-
-.service-icon {
-  font-size: 2.5rem;
-  color: #007bff;
-  margin-bottom: 1rem;
 }
 
 .emergency-section {
@@ -143,18 +186,4 @@
   background: #ff4e50;
   color: white;
   transform: scale(1.05);
-}
-
-@media (max-width: 768px) {
-  .services-list {
-    grid-template-columns: 1fr;
-  }
-
-  .service-item {
-    padding: 1.5rem;
-  }
-
-  .emergency-section {
-    margin: 2rem 1rem;
-  }
 }

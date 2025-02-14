@@ -1,8 +1,12 @@
 
-import React from 'react';
+import React, { useContext } from 'react';
+import { Context } from '../Context/Context';
 import './ResidentialServices.css';
 
 const ServicesList = () => {
+  const { business } = useContext(Context);
+  const phone = business?.basic_info?.phone || '';
+  
   const services = [
     {
       icon: 'fa-shower',
@@ -23,38 +27,27 @@ const ServicesList = () => {
       icon: 'fa-temperature-hot',
       title: 'Water Heaters',
       description: 'Installation, repair, and maintenance of all types of water heaters.'
-    },
-    {
-      icon: 'fa-wrench',
-      title: 'Pipe Repair',
-      description: 'Expert pipe repair and replacement services for all types of plumbing systems.'
-    },
-    {
-      icon: 'fa-pump-soap',
-      title: 'Drain Cleaning',
-      description: 'Professional drain cleaning and maintenance to prevent clogs and backups.'
-    },
-    {
-      icon: 'fa-house-flood-water',
-      title: 'Sewer Services',
-      description: 'Complete sewer line repair, replacement, and maintenance services.'
-    },
-    {
-      icon: 'fa-faucet',
-      title: 'Fixture Installation',
-      description: 'Professional installation of all types of plumbing fixtures and accessories.'
     }
   ];
 
   return (
-    <section className="services-grid">
-      {services.map((service, index) => (
-        <div key={index} className="service-card">
-          <i className={`fas ${service.icon}`}></i>
-          <h3>{service.title}</h3>
-          <p>{service.description}</p>
-        </div>
-      ))}
+    <section className="residential-services">
+      <h2 className="section-title">Our Professional Services</h2>
+      <div className="services-grid">
+        {services.map((service, index) => (
+          <div key={index} className="service-card">
+            <i className={`fas ${service.icon}`}></i>
+            <h3>{service.title}</h3>
+            <p>{service.description}</p>
+            {phone && (
+              <a href={`tel:${phone.replace(/[^0-9]/g, '')}`} className="cta-button">
+                <i className="fas fa-phone"></i>
+                Call Now
+              </a>
+            )}
+          </div>
+        ))}
+      </div>
     </section>
   );
 };
