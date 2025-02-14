@@ -12,9 +12,6 @@ const ResidentialHeader = () => {
   return (
     <header className="residential-header">
       <div className="header-content">
-        <Link to="/" className="back-home">
-          <i className="fas fa-home"></i> Back to Home
-        </Link>
         <h1>{name}</h1>
         <p className="res-subtitle">Expert Residential Plumbing Solutions</p>
         {phone && (

@@ -29,14 +29,14 @@
   transform: translateX(-50%);
   width: 60px;
   height: 3px;
-  background: #60a5fa; /* Changed from green */
+  background: #60a5fa;
 }
 
 .services-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 1.5rem;
-  max-width: 900px; /* Adjusted max-width */
+  max-width: 900px;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -49,6 +49,10 @@
   transition: transform 0.3s ease;
   border: 1px solid rgba(255, 255, 255, 0.1);
   text-align: center;
+  max-height: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .service-card:hover {
@@ -58,7 +62,7 @@
 .service-icon {
   width: 60px;
   height: 60px;
-  background: #60a5fa; /* Changed to match emergency section primary color */
+  background: #60a5fa;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -88,7 +92,7 @@
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  background: #60a5fa; /* Changed from green */
+  background: #60a5fa;
   color: white;
   padding: 10px 20px;
   border-radius: 25px;
@@ -122,27 +126,6 @@
   }
 }
 
-.back-home {
-  position: absolute;
-  top: 20px;
-  left: 20px;
-  background: rgba(255, 255, 255, 0.9);
-  padding: 10px 20px;
-  border-radius: 25px;
-  color: #333;
-  text-decoration: none;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  font-weight: 500;
-  transition: all 0.3s ease;
-}
-
-.back-home:hover {
-  background: white;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-}
 
 .residential-header {
   background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://st2.depositphotos.com/1006441/9452/i/380/depositphotos_94520022-stock-photo-plumber-on-the-kitchen.jpg');
@@ -174,7 +157,7 @@
 }
 
 .res-cta-button {
-  background: #60a5fa; /* Changed red to match other colors */
+  background: #60a5fa;
   color: white;
   padding: 1rem 2rem;
   border-radius: 50px;
@@ -185,11 +168,11 @@
 }
 
 .res-cta-button:hover {
-  background: #3b82f6; /* Darker shade of blue */
+  background: #3b82f6;
 }
 
 .emergency-services-section {
-  background: linear-gradient(45deg, #1e3a8a, #3b82f6); /* Updated background */
+  background: linear-gradient(45deg, #1e3a8a, #3b82f6);
   padding: 6rem 2rem;
   color: white;
   position: relative;
@@ -210,7 +193,7 @@
 
 .emergency-subtitle {
   font-size: 1.2rem;
-  color: white; /* Changed to white */
+  color: white;
   margin-top: 1rem;
 }
 
@@ -258,7 +241,7 @@
 }
 
 .emergency-card p {
-  color: white; /* Changed to white */
+  color: white;
   line-height: 1.6;
 }
 
