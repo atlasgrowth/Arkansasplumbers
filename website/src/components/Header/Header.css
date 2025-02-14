@@ -75,6 +75,34 @@
   width: 100%;
 }
 
+.services-dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  min-width: 200px;
+  z-index: 1000;
+}
+
+.nav-link:hover .services-dropdown {
+  display: block;
+}
+
+.dropdown-link {
+  display: block;
+  padding: 10px 15px;
+  color: var(--text-dark); /* Assumed dark text on white background */
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.dropdown-link:hover {
+  background-color: #f5f5f5;
+}
+
+
 .review-badge {
   background: var(--primary-color);
   color: white;

@@ -28,7 +28,7 @@ function App() {
   return (
     <ContextProvider>
       <div className="app">
-        <Header />
+        <Header business={business} loading={loading} />
         <Routes>
           <Route path="/" element={<MainContent />} />
           <Route path="/residential" element={<ResidentialPage />} />

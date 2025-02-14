@@ -49,7 +49,7 @@ const Header = ({ business, loading }) => {
     <header className={`header ${scrolled ? 'scrolled' : ''}`}>
       <div className="header-container">
         <div className="logo">
-          {loading ? "Loading..." : businessName}
+          {businessName}
         </div>
 
         <nav className="nav-menu">
@@ -73,12 +73,15 @@ const Header = ({ business, loading }) => {
           </span>
 
           <span
-            onClick={() => handleNavClick('services')}
             className="nav-link"
             role="button"
             tabIndex={0}
           >
             Services
+            <div className="services-dropdown">
+              <Link to="/residential" className="dropdown-link">Residential Services</Link>
+              <Link to="/commercial" className="dropdown-link">Commercial Services</Link>
+            </div>
           </span>
 
           {/* Show reviews nav only if rating >= 4.0 */}

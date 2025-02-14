@@ -49,9 +49,6 @@ function MainContent() {
 
   return (
     <div className="app">
-      {/* Optional: you can remove <Header /> here if you are including it in App.js */}
-      <Header business={business} loading={loading} />
-
       {/* Hero section */}
       <section id="hero">
         <Hero business={business} loading={loading} />
