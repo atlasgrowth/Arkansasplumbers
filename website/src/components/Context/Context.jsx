@@ -19,24 +19,31 @@ export const ContextProvider = ({ children }) => {
         setBusiness(data);
         // Track analytics after fetch (regardless of success)
         try {
-          // Create session ID if not exists
-          if (!window.sessionId) {
-            window.sessionId = Math.random().toString(36).substring(2, 8);
-            window.sessionStart = new Date().toISOString();
-            window.pageViews = [];
-            window.startTime = Date.now();
+          // Initialize session data
+          if (!window.sessionData) {
+            window.sessionData = {
+              id: Math.random().toString(36).substr(2, 9),
+              start: new Date().toISOString(),
+              pages: new Set(),
+              startTime: Date.now(),
+              lastActive: Date.now()
+            };
           }
           
-          // Add current page to pageViews
-          window.pageViews.push(window.location.pathname || '/');
+          // Update session data
+          window.sessionData.pages.add(window.location.pathname);
+          window.sessionData.lastActive = Date.now();
           
           const analyticsData = {
-            sessionStart: new Date().toLocaleString(),
-            businessName: correctedSiteId.replace(/([A-Z])/g, ' $1').trim(), // Add spaces between camelCase
-            sessionId: window.sessionId,
-            pageViews: Array.from(new Set(window.pageViews)).join(', '), // Remove duplicates and join with commas
-            timeOnSite: Math.round((Date.now() - window.startTime) / 1000),
-            pageCount: window.pageViews.length
+            session_start: window.sessionData.start,
+            business_name: correctedSiteId,
+            session_id: window.sessionData.id,
+            pages_viewed: Array.from(window.sessionData.pages),
+            time_on_site: Math.round((Date.now() - window.sessionData.startTime) / 1000),
+            page_count: window.sessionData.pages.size,
+            user_agent: navigator.userAgent,
+            screen_size: `${window.innerWidth}x${window.innerHeight}`,
+            referrer: document.referrer || 'direct'
           };
 
           fetch('https://script.google.com/macros/s/AKfycbzl7BE82-9JiYSC18DZwL6VXPkScZCA_aGEMW5lZWBTR947Ez0Kg_madw0b4QIcrre2/exec', {
