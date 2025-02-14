@@ -1,9 +1,7 @@
 import React from 'react';
 import './Hero.css';
 
-const Hero = ({ business, loading }) => {
-  if (loading) return <div className="hero-loading">Loading...</div>;
-
+const Hero = ({ business }) => {
   const {
     name = "Business Name",
     phone = "",
