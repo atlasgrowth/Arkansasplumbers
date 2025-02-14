@@ -1,5 +1,5 @@
 
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import MainContent from './components/MainContent';
 import ResidentialPage from './pages/ResidentialPage';
@@ -11,12 +11,15 @@ import './styles/App.css';
 
 function App() {
   const location = useLocation();
-  const showMainHeader = location.pathname === '/';
+  
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location]);
   
   return (
     <ContextProvider>
       <div className="app">
-        {!showMainHeader && <Header />}
+        <Header />
         <Routes>
           <Route path="/" element={<MainContent />} />
           <Route path="/residential" element={<ResidentialPage />} />

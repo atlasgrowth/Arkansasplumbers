@@ -1,16 +1,18 @@
-// components/Header/Header.jsx
+
 import React, { useState, useEffect } from 'react';
+import { useLocation, useNavigate } from 'react-router-dom';
 import './Header.css';
 
 const Header = ({ business, loading }) => {
   const [scrolled, setScrolled] = useState(false);
+  const location = useLocation();
+  const navigate = useNavigate();
+
   const businessName = business?.basic_info?.name || "Loading...";
   const phone = business?.basic_info?.phone || "";
   const rating = parseFloat(business?.basic_info?.rating) || 0;
-  const reviewCount = parseInt(business?.review_trends?.total_reviews) || 0;
-  const showReviews = rating >= 4.0 || reviewCount >= 3;
+  const showReviews = rating >= 4.0;
 
-  // Handle scroll events
   useEffect(() => {
     const handleScroll = () => {
       setScrolled(window.scrollY > 50);
@@ -18,6 +20,24 @@ const Header = ({ business, loading }) => {
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
+
+  const handleNavClick = (e, sectionId) => {
+    e.preventDefault();
+    if (location.pathname !== '/') {
+      navigate('/');
+      setTimeout(() => {
+        const element = document.getElementById(sectionId);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth' });
+        }
+      }, 100);
+    } else {
+      const element = document.getElementById(sectionId);
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+  };
 
   return (
     <header className={`header ${scrolled ? 'scrolled' : ''}`}>
@@ -27,16 +47,16 @@ const Header = ({ business, loading }) => {
         </div>
 
         <nav className="nav-menu">
-          <a href="#hero" className="nav-link">Home</a>
-          <a href="#about" className="nav-link">About</a>
-          <a href="#services" className="nav-link">Services</a>
+          <a href="#hero" onClick={(e) => handleNavClick(e, 'hero')} className="nav-link">Home</a>
+          <a href="#about" onClick={(e) => handleNavClick(e, 'about')} className="nav-link">About</a>
+          <a href="#services" onClick={(e) => handleNavClick(e, 'services')} className="nav-link">Services</a>
           {showReviews && (
-            <a href="#reviews" className="nav-link">
+            <a href="#reviews" onClick={(e) => handleNavClick(e, 'reviews')} className="nav-link">
               Reviews
               <span className="review-badge">{rating}★</span>
             </a>
           )}
-          <a href="#contact" className="nav-link">Contact</a>
+          <a href="#contact" onClick={(e) => handleNavClick(e, 'contact')} className="nav-link">Contact</a>
         </nav>
 
         {phone && (
