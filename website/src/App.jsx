@@ -10,17 +10,19 @@ import './styles/App.css';
 
 function App() {
   return (
-    <div className="app">
-      <Header />
-      <main className="main-content">
-        <Routes>
-          <Route path="/" element={<MainContent />} />
-          <Route path="/residential" element={<ResidentialPage />} />
-          <Route path="/commercial" element={<CommercialPage />} />
-        </Routes>
-      </main>
-      <Footer />
-    </div>
+    <ContextProvider>
+      <div className="app">
+        <Header />
+        <main className="main-content">
+          <Routes>
+            <Route path="/" element={<MainContent />} />
+            <Route path="/residential" element={<ResidentialPage />} />
+            <Route path="/commercial" element={<CommercialPage />} />
+          </Routes>
+        </main>
+        <Footer />
+      </div>
+    </ContextProvider>
   );
 }
 

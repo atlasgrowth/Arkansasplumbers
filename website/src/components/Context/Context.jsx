@@ -1,19 +1,36 @@
-import React from 'react';
-import './Context.css';
 
-const Context = () => {
+import React, { createContext, useState, useEffect } from 'react';
+
+export const Context = createContext();
+
+export const ContextProvider = ({ children }) => {
+  const [business, setBusiness] = useState(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchBusiness = async () => {
+      const urlParams = new URLSearchParams(window.location.search);
+      const siteId = urlParams.get('site_id') || '1callplumbing';
+      const timestamp = new Date().getTime();
+      const correctedSiteId = siteId === '1callplumbing' ? '1stcallplumbing' : siteId;
+      
+      try {
+        const response = await fetch(`https://raw.githubusercontent.com/greekfreek23/Arkansasplumbers/main/data/processed/businesses/${correctedSiteId}.json?t=${timestamp}`);
+        const data = await response.json();
+        setBusiness(data);
+      } catch (error) {
+        console.error('Error fetching business data:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchBusiness();
+  }, []);
+
   return (
-    <section className="context-section" id="context">
-      <div className="context-container">
-        <h2 className="context-title">Context Section</h2>
-        <p className="context-description">
-          This is the context section. Here you can provide background, data insights, or additional content
-          that frames the overall experience. On desktop you might see model "03-mini-high" details, and on mobile "04" – 
-          this ensures the correct context is provided for each device.
-        </p>
-      </div>
-    </section>
+    <Context.Provider value={{ business, loading }}>
+      {children}
+    </Context.Provider>
   );
 };
-
-export default Context;
