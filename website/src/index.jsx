@@ -1,8 +1,8 @@
-import '@fortawesome/fontawesome-free/css/all.min.css';
 
+import '@fortawesome/fontawesome-free/css/all.min.css';
 import React from 'react';
 import { createRoot } from 'react-dom/client';
-import { HashRouter } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import App from './App';
 import './styles/App.css';
 
@@ -11,8 +11,8 @@ const root = createRoot(container);
 
 root.render(
   <React.StrictMode>
-    <HashRouter basename="/Arkansasplumbers/">
+    <Router>
       <App />
-    </HashRouter>
+    </Router>
   </React.StrictMode>
 );
