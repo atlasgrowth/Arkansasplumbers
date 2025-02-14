@@ -1,28 +1,33 @@
-/* components/Hero/Hero.css */
 
-/* CSS Variables */
-:root {
-  --primary-color: #63b3ed;
-  --primary-dark:  #3182ce;
-}
-
-/* Hero Section Styles */
+/* Hero Section Base */
 .hero {
   min-height: 100vh;
   position: relative;
-  background-image: url('https://assets.cdn.filesafe.space/A9rd4HdLD0sTvRuuQFZl/media/651501775cf2e93f16638cf9.jpeg');
-  background-size: cover;
-  background-position: center;
+  background-color: #0f172a;
   display: flex;
   align-items: center;
   padding: 120px 20px 60px;
   color: white;
+  overflow: hidden;
 }
 
 .hero-overlay {
   position: absolute;
   inset: 0;
   background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6));
+  opacity: 0;
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+.hero-background {
+  position: absolute;
+  inset: 0;
+  background-image: url('https://assets.cdn.filesafe.space/A9rd4HdLD0sTvRuuQFZl/media/651501775cf2e93f16638cf9.jpeg');
+  background-size: cover;
+  background-position: center;
+  opacity: 0;
+  transform: scale(1.1);
+  animation: scaleIn 1s ease-out forwards;
 }
 
 .hero-content {
@@ -30,13 +35,16 @@
   max-width: 1200px;
   margin: 0 auto;
   width: 100%;
+  opacity: 0;
+  transform: translateY(20px);
+  animation: slideUp 0.8s ease-out 0.3s forwards;
 }
 
 .hero-text-content {
   max-width: 700px;
-  animation: fadeInUp 1s ease;
 }
 
+/* Text Styling */
 .hero-title {
   display: flex;
   flex-direction: column;
@@ -48,7 +56,7 @@
   font-size: 1.25rem;
   text-transform: uppercase;
   letter-spacing: 4px;
-  color: var(--primary-color);
+  color: #63b3ed;
   font-weight: 500;
 }
 
@@ -78,10 +86,6 @@
   padding: 1rem;
   border-radius: 12px;
   width: fit-content;
-  transition: transform 0.2s ease;
-}
-.hero-rating:hover {
-  transform: scale(1.02);
 }
 
 .stars {
@@ -94,7 +98,6 @@
   transition: color 0.3s ease;
 }
 
-.stars i:hover,
 .stars i.active {
   color: #fbbf24;
 }
@@ -110,9 +113,8 @@
   margin-bottom: 3rem;
 }
 
-/* Button Base Styles with Iconography and Ripple Effect */
 .cta-button {
-  position: relative;               /* For positioning the ripple */
+  position: relative;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -121,94 +123,84 @@
   border-radius: 50px;
   font-weight: 600;
   text-decoration: none;
-  overflow: hidden;                 /* Hide ripple overflow */
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   border: none;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
-/* Optional icon style (if using inline icons) */
-.cta-button .icon {
-  display: inline-block;
-  font-size: 1.2rem;
-}
-
-/* Primary Button with Dynamic Gradient */
 .cta-button.primary {
-  background: linear-gradient(45deg, var(--primary-color), var(--primary-dark));
+  background: linear-gradient(45deg, #63b3ed, #3182ce);
   color: white;
 }
-.cta-button.primary:hover {
-  background: linear-gradient(45deg, var(--primary-dark), var(--primary-color));
-}
 
-/* Secondary Button with Subtle Background */
 .cta-button.secondary {
   background: rgba(255, 255, 255, 0.2);
   color: white;
   border: 2px solid rgba(255, 255, 255, 0.3);
 }
 
-/* Hover and Active States */
 .cta-button:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
 }
 
-/* Ripple Effect */
-.cta-button::after {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 20px;
-  height: 20px;
-  background: rgba(255, 255, 255, 0.4);
-  border-radius: 50%;
-  transform: translate(-50%, -50%) scale(1);
-  opacity: 0;
-  transition: transform 0.6s, opacity 0.6s;
-}
-.cta-button:active::after {
-  transform: translate(-50%, -50%) scale(10);
-  opacity: 0.2;
-  transition: transform 0s, opacity 0s;
+/* Loading State */
+.hero-loading {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #0f172a;
+  color: white;
 }
 
-/* Fade In Up Animation */
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
+/* Animations */
+@keyframes fadeIn {
+  to {
+    opacity: 1;
   }
+}
+
+@keyframes scaleIn {
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes slideUp {
   to {
     opacity: 1;
     transform: translateY(0);
   }
 }
 
-/* Responsive Adjustments */
+/* Responsive */
 @media (max-width: 768px) {
   .hero {
     padding: 100px 20px 40px;
     text-align: center;
   }
+  
   .hero-main-title {
     font-size: 2.5rem;
   }
+  
   .hero-description {
     font-size: 1.1rem;
   }
+  
   .hero-cta {
     flex-direction: column;
   }
+  
   .hero-rating {
     margin: 0 auto 2rem;
   }
+  
   .cta-button {
     width: 100%;
     padding: 1.25rem;
     font-size: 1.1rem;
-    border-radius: 30px;
   }
 }

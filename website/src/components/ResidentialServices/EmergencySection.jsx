@@ -47,7 +47,7 @@ const EmergencySection = ({ business }) => {
             </div>
             <a href={`tel:${phone.replace(/[^0-9]/g, '')}`} className="emergency-button">
               <i className="fas fa-phone"></i>
-              Emergency Service Now
+              Call Now: {phoneNumber || 'Emergency Service'}
             </a>
           </div>
         )}
