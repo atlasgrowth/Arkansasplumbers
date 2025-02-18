@@ -22,6 +22,9 @@ with open('ARK Plumber Mobile - Review Text.csv', 'r') as f:
 for site_id, business in metadata['businesses'].items():
     if site_id in owner_lookup:
         business['owner_name'] = owner_lookup[site_id]
+        # Also update phone number if available
+        if site_id in owner_lookup and 'phone' not in business:
+            business['phone'] = owner_lookup[site_id]['phone']
     else:
         business['owner_name'] = ''
 
